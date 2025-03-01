@@ -1,0 +1,8 @@
+NL: 773.22.1,Shawn,01,=,01,=,BASE,z.do not use Base Job,80.800,OT Allowance,64.00
+NL: 773.22.1,Shawn,01,=,01,=,FL01,Floor 01,20.110,Walls Spot Prime,192.15
+NL: 773.22.1,Shawn,01,=,01,=,FL01,Floor 01,21.120,Wall 1 Coat of Finish,245.30
+NL: 773.22.1,Shawn,01,=,01,=,FL01,Floor 01,80.810,Cover-up/Move Furniture,64.92
+NL: 773.22.1,Shawn,01,=,01,=,FL02,Floor 02,20.110,Walls Spot Prime,123.94
+NL: 773.22.1,Shawn,01,=,01,=,FL02,Floor 02,21.120,Wall 1 Coat of Finish,158.22
+NL: 773.22.1,Shawn,01,=,01,=,FL02,Floor 02,80.810,Cover-up/Move Furniture,45.92
+

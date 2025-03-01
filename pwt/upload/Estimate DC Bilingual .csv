@@ -1,0 +1,33 @@
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,20.11,Walls Spot Prime Only (No Complete Prime),33.6
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,21.12,Walls Finish 1st Coat,40.32
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,21.13,Walls Finish 2nd Coat (if needed),40.32
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,22.125,Exposed Ceilings 1 Coat,60.46
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,80.8,Exposed Ceiling Cover-up,20.96
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,28.11,Doors/Frames - 1st   2nd Coat,29.13
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,29.5,Interior Windows,9.6
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,34.12,Trim - 2nd Coat Finish,6.59
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,34.13,Trim - 3rd Coat Finish,6.59
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,80.8,Misc Cover-up,24
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COB,Basement,80.8,Misc Allowance Per Floors,24
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,20.11,Walls Spot Prime Only (No Complete Prime),79.12
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,21.12,Walls Finish 1st Coat,94.94
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,21.13,Walls Finish 2nd Coat (if needed),94.94
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,28.11,28.110:  Doors/Frames - 1st   2nd Coat,34.2
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,80.8,Misc Trim Ptg   Cover-up,120
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF01,Floor 01,80.8,Misc Allowance Per Floors,24
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,20.11,Walls Spot Prime Only (No Complete Prime),96.65
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,21.12,Walls Finish 1st Coat,115.98
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,21.13,Walls Finish 2nd Coat (if needed),115.98
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,28.11,28.110:  Doors/Frames - 1st    2nd Coat,45.6
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,80.8,Misc Trim Ptg   Cover-up,336
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COF02,Floor 02,80.8,Misc Allowance Per Floors,24
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,20.11,Walls Spot Prime Only (No Complete Prime),32
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,21.12,Walls Finish 1st Coat,48
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,21.13,Walls Finish 2nd Coat (if needed),48
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,28.11,28.110:  Doors/Frames - 1st  2nd Coat,45.6
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,80.8,Misc Trim Ptg  Cover-up,48
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,50.8,Stair Metals - 1st  2nd Coat,240
+NL:015.21.1,dc Bilingual,1,=,2,Existing Bldg.,COSTR,Stairs,80.8,Misc Allowance Per Floors,24
+NL:015.21.1  ,  For standard cost code                     ,01, =    ,02 , = ,   ,Punch List/Allowance-TouchUp/C.CleanUp  ,            80.120  ,   PWT Only/Punchlilst            ,0
+NL:015.21.1  ,  For standard cost code                     ,01, =    ,02 , = ,995,Supervision  ,      10.340  ,   Supervision           ,0
+NL:015.21.1  ,  For standard cost code                     ,01, =    , 02, =, 993,z.No Show up/No Worked , VACNOSHOW ,  z.No show up/No worked ,0

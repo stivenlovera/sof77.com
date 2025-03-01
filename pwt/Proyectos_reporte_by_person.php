@@ -1,0 +1,629 @@
+<?php
+
+	session_name("Administrador");
+
+	session_start();
+
+		
+
+	if ($_SESSION["EntityID"] == "")
+
+	{
+
+		header("Location:sessionexpired.php"); 	
+
+	}	
+
+	require('Library/Control_Cache.php');	
+
+	require('Library/Open_Conexion.php');	
+
+	require('Library/funciones.php');	
+
+	$_SESSION["PageTitle"] = "Moviles";	
+
+	$_SESSION["Cond_ID_Aux"] = "";	
+
+		
+
+	require('Header.php');
+
+	$mes= date('n');
+
+	$ano= date('y');	
+
+
+
+	require('funciones_php/Actividades.php');	
+
+		
+
+?>
+
+<LINK href="include/Stat.css" type="text/css" rel="stylesheet">
+
+<link rel="STYLESHEET" type="text/css" href="include/estilo_reporte.css">
+
+<script type="text/javascript" src="include/jquery-1.3.2.js"></script>
+
+<script type="text/javascript" src="include/getAjax.js"></script> 
+
+<script type="text/javascript" src="include/funciones.js"></script>
+
+<script type="text/javascript" src="include/jquery.columnhover.js" ></script>	
+
+<!-- Contact Form CSS files -->
+
+<link type='text/css' href='css/basic.css' rel='stylesheet' media='screen' />
+
+<script type='text/javascript' src='include/jquery.simplemodal.js'></script>
+
+
+
+<script type="text/javascript" src="include/datepickercontrol.js"></script>
+
+<link type="text/css" rel="stylesheet" href="css/datepickercontrol.css"/> 
+
+
+
+<link href="css/flexigrid.pack.css" type="text/css" rel="stylesheet">	
+
+<script src="include/flexigrid.pack.js" type="text/javascript"></script>	
+
+    
+
+<style type="text/css">
+
+p.MsoNormal {
+
+margin:0cm;
+
+margin-bottom:.0001pt;
+
+font-size:12.0pt;
+
+font-family:"Times New Roman";
+
+}
+
+</style>
+
+
+
+<style type="text/css">
+
+<!--
+
+.style10 {
+
+	color: #FF0000;
+
+	font-size: medium;
+
+}
+
+-->
+
+
+
+td.betterhover, #tabletwo tbody tr:hover
+
+{
+
+	background: LightCyan;
+
+}
+
+</style>
+
+
+
+<script type="text/javascript" >
+
+	function ShowSearch() 
+
+	{
+
+		var odiv = document.getElementById("rpt_closetab");
+
+		if (document.getElementById("ac_frmSearchMain").style.display=="none")
+
+		 {
+
+			odiv.innerHTML = "<img src=\"images\\div_left.gif\" border=\"0\" width=\"12\" />";
+
+			document.getElementById("ac_frmSearchMain").style.display="block";
+
+		 }
+
+		else 
+
+		  {
+
+			odiv.innerHTML = "<img src=\"images\\div_right.gif\" border=\"0\" width=\"12\" />";	
+
+			document.getElementById("ac_frmSearchMain").style.display="none";	
+
+		  }
+
+	}		
+
+	//INLCUIDO POR FABIOLA 
+
+	//***********************************
+
+	function Proyectos_reporte_dayli_report() 
+
+	{				
+
+		Pro_ID_Reporte = "-33";
+
+        $("input[@name='Pro_ID_Reporte[]']:checked").each(function(){
+
+            Pro_ID_Reporte= Pro_ID_Reporte + ", "+ $(this).val();
+
+        });        
+
+        //alert(Pro_ID_Reporte.replace(", detalle",""));		
+
+		if (Pro_ID_Reporte != "-33")
+
+		{
+
+			//alert(form_reporte.From_Date.value);
+
+			url = 'Proyectos_reporte_person_list.php?vfrom_date='+form_reporte.From_Date.value+'&vto_date='+form_reporte.To_Date.value+'&Pro_ID_Reporte='+Pro_ID_Reporte;		
+
+			getAx(url,'basic-modal-content-espera',250);		
+
+			$('#basic-modal-content-espera').modal(); 									
+
+		}
+
+		else
+
+		{
+
+			alert("You should choose at least a Job, Please Select one");
+
+		}
+
+	}	
+
+	// INLCLUIDO POR FABIOLA	
+
+	
+
+	function Proyectos_reporte_dayli_report_b_Personal() 
+
+	{		
+
+		url = 'Proyectos_reporte_dayli_report_b_Personal.php';		
+
+		getAx(url,'basic-modal-content-espera',250);		
+
+		$('#basic-modal-content-espera').modal(); 										
+
+	}	
+
+	
+
+	function Proyectos_reporte_dayli_report_b_Personal_Asignar(Destino, Empleado_ID, Cargo, Nick_Name, Nombre)
+
+	{		
+
+		if (Destino=='Foreman')
+
+		{
+
+			//document.form_reporte.Foreman_Name.value=Cargo+"-"+Nick_Name+"-"+Nombre; 													
+
+			document.form_reporte.Foreman_Name.value=Nick_Name; 													
+
+			document.form_reporte.Foreman_ID.value=Empleado_ID; 			
+
+			$("#Name_Foreman_Aux").html(Cargo+"-"+Nick_Name+"-"+Nombre);													
+
+		}
+
+		if (Destino=='Super')
+
+		{
+
+			//document.form_reporte.Foreman_Name.value=Cargo+"-"+Nick_Name+"-"+Nombre; 													
+
+			document.form_reporte.Super_Name.value=Nick_Name; 													
+
+			document.form_reporte.Super_ID.value=Empleado_ID; 			
+
+			$("#Name_Super_Aux").html(Cargo+"-"+Nick_Name+"-"+Nombre);													
+
+		}
+
+	
+
+		if (Destino=='Manager')
+
+		{
+
+			//document.form_reporte.Project_Manager_Name.value=Cargo+"-"+Nick_Name+"-"+Nombre; 													
+
+			document.form_reporte.Project_Manager_Name.value=Nick_Name; 													
+
+			document.form_reporte.Project_Manager_ID.value=Empleado_ID; 													
+
+			$("#Name_Manager_Aux").html(Cargo+"-"+Nick_Name+"-"+Nombre);
+
+		}
+
+	}	
+
+		
+
+	function clearForm(form) {   
+
+        // iterate over all of the inputs for the form   
+
+        // element that was passed in
+
+        $(':input', form).each(function() {
+
+          var type = this.type;
+
+          var tag = this.tagName.toLowerCase(); // normalize case
+
+          // it's ok to reset the value attr of text inputs,
+
+          // password inputs, and textareas
+
+          if (type == 'text' || type == 'password' || tag == 'textarea')
+
+            this.value = "";
+
+          // checkboxes and radios need to have their checked state cleared
+
+          // but should *not* have their 'value' changed
+
+          else if (type == 'checkbox' || type == 'radio')
+
+            this.checked = false;
+
+          // select elements need to have their 'selectedIndex' property set to -1
+
+          // (this works for both single and multiple select elements)
+
+          else if (tag == 'select')
+
+            this.selectedIndex = -1;
+
+        });
+
+	}
+
+	
+
+	function Proyectos_reporte_dayli_report_GC()
+
+	{		
+
+		var Company = document.form_reporte.Company.value
+
+
+
+		url = 'Proyectos_reporte_dayli_report_GC.php?Company='+Company
+
+		getAx(url,'basic-modal-content-espera',250);		
+
+		$('#basic-modal-content-espera').modal(); 	
+
+	}
+
+	
+
+	function Proyectos_reporte_dayli_report_GC_Asignar(Emp_ID, Codigo, Nombre)
+
+	{		
+
+		document.form_reporte.Company.value=Codigo+"-"+Nombre; 													
+
+		document.form_reporte.Emp_ID.value=Emp_ID; 			
+
+	}		
+
+	
+
+	function Proyectos_reporte_dayli_report_b_list_jobs() 
+
+	{		
+
+		var Company = document.form_reporte.Company.value
+
+		var Emp_ID = document.form_reporte.Emp_ID.value
+
+		var Nombre = document.form_reporte.Nombre.value		
+
+		var Foreman_ID= document.form_reporte.Foreman_ID.value
+
+		var Super_ID= document.form_reporte.Super_ID.value
+
+		var EstatusID= document.form_reporte.EstatusID.value		
+
+		var Project_Manager_ID= document.form_reporte.Project_Manager_ID.value		
+
+		
+
+		if (document.form_reporte.Company.value=="")
+
+			Emp_ID ="";
+
+		
+
+		if (document.form_reporte.Foreman_Name.value=="")
+
+			Foreman_ID ="";
+
+		if (document.form_reporte.Super_Name.value=="")
+
+			Super_ID ="";
+
+		
+
+		if (document.form_reporte.Project_Manager_Name.value=="")
+
+			Project_Manager_ID ="";
+
+			
+
+
+
+		url = 'Proyectos_reporte_dayli_report_b_list_jobs.php?vfrom_date='+form_reporte.From_Date.value+'&vto_date='+form_reporte.To_Date.value+'&Emp_ID='+Emp_ID+'&Company='+Company+'&Nombre='+Nombre+'&Foreman_ID='+Foreman_ID+'&Project_Manager_ID='+Project_Manager_ID+'&Super_ID='+Super_ID+'&EstatusID='+EstatusID;		
+
+		getAx(url,'lista_proyectos',50); 
+
+		$("#div_res_nueva_actividad").hide();									
+
+	}			
+
+
+
+</script>
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+	<tr>
+
+	    <td valign="top">		  
+
+			<div id="ac_frmSearchMain">				  
+
+				<form id="form_reporte" name="form_reporte">			
+
+					<table width="267" class="moduletable" >
+
+						<tr>
+
+							<th colspan="3">Report detail of materials</th>
+
+						</tr>		  		 																													 
+
+						
+
+						<tr>
+
+							<td ><b>From Date  :</b></td>					
+
+							<td colspan="2" valign="middle">
+
+								<input type="text" id="From_Date" name="From_Date" datepicker="true"  datepicker_format="MM-DD-YYYY" value="<?php echo date('m-d-Y');?>"/>
+
+							</td>
+
+						</tr>
+
+						<tr>
+
+							<td align="left" valign="top"><b>To Date :</b>
+
+							</td>
+
+							<td>
+
+								<input type="text" id="To_Date"  name="To_Date" datepicker="true"  datepicker_format="MM-DD-YYYY" value="<?php echo date('m-d-Y');?>"/>
+
+							</td>							
+
+						</tr>
+
+						<tr>
+
+							<td align="left" valign="top"><b>Foreman:</b>
+
+							</td>
+
+							<td>
+
+								<input type="text" name="Foreman_Name" id="Foreman_Name" /><img src="images/buscar.jpg" onclick="Proyectos_reporte_dayli_report_b_Personal();" />
+
+								<input type="hidden" name="Foreman_ID" id="Foreman_ID" />
+
+							</td>							
+
+						</tr>
+
+                        <tr>
+
+							<td align="left" valign="top"><b>PWT Super:</b>
+
+							</td>
+
+							<td>
+
+								<input type="text" name="Super_Name" id="Super_Name" /><img src="images/buscar.jpg" onclick="Proyectos_reporte_dayli_report_b_Personal();" />
+
+								<input type="text" name="Super_ID" id="Super_ID" />
+
+							</td>							
+
+						</tr>	
+
+						<tr>
+
+							<td align="left" valign="top"><b>Project Manager:</b>
+
+							</td>
+
+							<td>
+
+								<input type="text" name="Project_Manager_Name" id="Project_Manager_Name" /><img src="images/buscar.jpg" onclick="Proyectos_reporte_dayli_report_b_Personal();" />
+
+								<input type="hidden" name="Project_Manager_ID" id="Project_Manager_ID" />
+
+							</td>							
+
+						</tr>
+
+						<tr>
+
+							<td align="left" valign="top"><b>Status:</b>
+
+							</td>
+
+							<td>
+
+								     <?php
+
+									$sql = "select Estatus_ID, Nombre_Estatus FROM estatus order by Nombre_Estatus";														
+
+									$result=$bd->ejecutar($sql); 		 
+
+								?>
+
+									<select name="EstatusID" size="1"  class="cuadro" id="EstatusID">      
+
+									  <option  value="-1">- Status -</option>
+
+							          <?php		
+
+										while (($row = mysqli_fetch_array($result) ))							
+
+										{								
+
+								?>
+
+									  <option value="<?php echo $row["Estatus_ID"];?>"><?php echo $row["Nombre_Estatus"];?></option>  
+
+						              <?php
+
+										}
+
+										mysqli_free_result($result);		
+
+								?>
+
+								  </select>	
+
+							</td>							
+
+						</tr>							 														 
+
+					<tr>
+
+							<td width="98"><strong>GC-Company:</strong></td>
+
+							<td ><input type="text" name="Company" id="Company" size="20" value=""><img src="images/buscar.jpg" onclick="Proyectos_reporte_dayli_report_GC();" />
+
+								<input type="hidden" name="Emp_ID" id="Emp_ID" size="20" value="-33">							
+
+							</td>
+
+					</tr>
+
+					<tr>
+
+						<td><b>Job:</b> </td>
+
+						<td><input type="text" name="Nombre" id="Nombre" size="12" value="" /><img src="images/buscar.jpg" onclick="Proyectos_reporte_dayli_report_b_list_jobs();" />
+
+						</td>
+
+					</tr>
+
+					<tr>
+
+							<td colspan="2">
+
+								<div id="lista_proyectos" style="overflow:scroll; height:400">									
+
+								</div>
+
+							</td>
+
+					</tr>
+
+						<tr>
+
+							<td colspan="2" align="center"><a href="#">
+
+							  <input name="button" type="button" onclick="Proyectos_reporte_dayli_report();" value="Print Prev" />
+
+							</a>&nbsp;&nbsp;&nbsp;
+
+								  <a href="#">
+
+							<input type="reset" value="Clear"  /></a>	
+
+							</td>														
+
+					  </tr>					  					  
+
+				</table>
+
+			  </form>			
+
+			</div>
+
+		</td>
+
+		<td width="12" background="images/div_bkg.gif" valign="middle" onclick="javascript:ShowSearch()">
+
+		  	<div id="rpt_closetab">
+
+				<img src="images/div_left.gif" border="0" width="12" />
+
+		  	</div>	  
+
+	  	</td>
+
+  	  	<td valign="top" width="99%">
+
+			<table width="100%">
+
+				<tr>
+
+					<td colspan="2">
+
+					<div id="basic-modal-content-espera" style="display:none"></div>
+
+					<div id="Div_Actividades_del_dia" ></div>					
+
+					</td> 
+
+				</tr>						 
+
+			</table>			
+
+		</td>
+
+	</tr>
+
+</table>
+
+
+
+<?php
+
+	require('Library/Close_Conexion.php');	
+
+?>

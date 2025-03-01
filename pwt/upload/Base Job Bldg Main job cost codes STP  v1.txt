@@ -1,0 +1,10 @@
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            20.110  ,   Walls/DW Ceiling - Prime       ,          0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            21.120  ,   Walls - 2nd Coat Finish        ,          0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            21.130  ,   Walls - 3rd Coat Finish        ,         0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            22.120  ,   DW Ceiling - 2nd / 3erd Finish  ,         0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            28.110  ,   Doors/Frames-1st and 2nd Coat  ,          0.1
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   BASE      , Base Job                                ,            40.400  ,   Exterior Steel  ,          0.1
+
+
+

@@ -1,0 +1,69 @@
+INPUT {
+	FONT-SIZE: 8pt; COLOR: black; TEXT-INDENT: 0pt
+}
+.textbutton {
+	BORDER-RIGHT: rgb(128,128,128) 1px solid; BORDER-TOP: rgb(128,128,128) 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: rgb(128,128,128) 1px solid; COLOR: rgb(0,0,0); BORDER-BOTTOM: rgb(128,128,128) 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: rgb(233,233,233)
+}
+BODY {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+P {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+DIV {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+SPAN {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+TH {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #559aa6; TEXT-DECORATION: underline
+}
+.petit {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+}
+.enlace:visited {
+	COLOR: navy; TEXT-DECORATION: none
+}
+.enlace:active {
+	COLOR: navy; TEXT-DECORATION: none
+}
+.enlace:hover {
+	COLOR: #0066ff; TEXT-DECORATION: none
+}
+.enlace:link {
+	COLOR: navy; TEXT-DECORATION: none
+}
+.blanco:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+.blanco:active {
+	COLOR: white
+}
+.blanco:hover {
+	COLOR: #0066ff; TEXT-DECORATION: none
+}
+.blanco:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+.justificar {
+	TEXT-ALIGN: justify
+}
+.tablas {
+	BORDER-TOP: rgb(214,214,214) 1px solid; BORDER-BOTTOM: rgb(214,214,214) 1px solid
+}

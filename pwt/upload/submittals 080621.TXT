@@ -1,0 +1,474 @@
+
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 1             !Benjamin Moore Product Data                                                                          ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 2             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec ES                                                        ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 3             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec Flat                                                      ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 4             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec SG                                                        ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 5             !PT-03 BM AC26 Ozark Shadows BM Ultra Spec ES                                                         ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 1             !Sherwin Williams Product Data                                                                        ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 2             !PT-01 SW 7004 Snowbound/SW Promar 200 ES                                                             ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 3             !PT-02 SW 7647 Crushed Ice SW Promar 200 ES                                                           ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 4             !PT-03 SW9639 RainCloud/SW Promar 200 ES                                                              ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 1             !WC 01 Castine/Clair GOH 13787546- Wolf Gordon Product Data                                           ! Approved             !
+
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 2             !WC-01 GOH 13787546 Castine Limestone (CST 9044) SAMPLE Wolf Gordon - Corridor                        ! Approved             !
+
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 3             !WC-02 - Obana Glint- National WC- Product Data                                                       ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 4             !WC-02 CD2-OBG-45 Obana Glint Black Mica- National WC- SAMPLE                                         ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !Sherwin Williams Interior Painting - Product Data                                                    ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !National Solutions- Wallcovering Product Data -Digital Carta II                                      ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !SC01-Euclid Chemical Co - Concrete Floor Sealer-Clear - Product Data                                 ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 2             !EPT01 SW 7757 High Reflective White - SW Pro Industrial WB Epoxy Gloss                               ! Approved as noted    !
+
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 3             !IPT01 SW 7757 High Reflective White SW Promar 200 HP ES                                              ! Approved as noted    !
+
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 5             !IPT02 SW 9144 Moonmist  SW Promar 200 HP ES                                                          ! Approved as noted    !
+
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 6             !IPT03 SW 6799 Soar  SW Promar 200 HP ES                                                              ! Approved as noted    !
+
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 7             !IPT05 SW 944 MoonMist  SW Pro Industrial DTM Acrylic SG                                              ! Approved as noted    !
+
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 8             !IPT06 SW 7007 Ceiling Bright White SW Promar 200 Flat                                                ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 2             !WC01 Carta II Digital HP smooth/National WC- images in file                                          ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 1             !VESCOM Product Data - WC01, 02, HAUKI                                                                ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 2             !VESCOM - Color Choice 1036 + Print- Product Data- WC03/WC06/WC07/WC08/WC09/WC11                      ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 3             !VESCOM Color Choice 1056.077 Product Data/WC05                                                       ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 2             !PT-01 BM 856 Silver Satin/PPG Speedhide Flat- typicall ceilings                                      ! Approved             !
+
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 3             !PT-02 BM 858 Athena/PPG Speedhide Flat- walls                                                        ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 4             !PT-03 BM CC-20 Decorator White/PPGSpeedhide SG-doors and skirting                                    ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 5             !PT-04  BM 856 Silver Satin/PPG Speedhide ES- bathroom ceilings                                       ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 6             !BM 858 Athena/PPG Speedhide-ES - bathroom walls                                                      ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 7             !7075 Web Gray PPG Speedhide Flat- Plan Wall                                                          ! Approved as noted    !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 8             !SW 7102 White Flour- PPG SH Flat                                                                     ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 5             !WC01 1069.01 Hauki Black - Vescom SAMPLE                                                             ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 6             !WC02 1069.03 White Hauki- VESCOM - SAMPLE                                                            ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 7             !WC05 1056.077 Colour Choice White vinyl- VESCOM-SAMPLE                                               ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 3             !CI-07 RAL9010 Pure White SW Promar Flat                                                              ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 4             !PT-01 RAL 9005 black SW All Surface Satin                                                            ! Approved as noted    !
+
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 5             !PT-02 RAL 9010 Pure White/SW All Surface Satin                                                       ! Approved as noted    !
+
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 6             !PT-04 RAL 9005 SW PI Precat SG                                                                       ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 2             !PT-09 RAL 9010 Pure White SW Exter Elastomeric Conflex XL                                            ! Approved             !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !Division 099600 HP Coating - SW Product DATA                                                         ! Approved             !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !Division 099723 Concrete Coatings- NeoGard  Product Data-EW Rms 080, 081, 085                        ! Approved as noted    !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !BASF- Kure N Harden- Concrete Sealer (clear) Product Data                                            ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 9             !Ceiling Bright White/ PPG SH Flat- Ceilings                                                          ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                          !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 10            !PPG 1004-1 Go To Gray /PPG SH ES - walls                                                             ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 8             !PT-03 SW7076 CyberSpace SW All Surface Satin                                                         ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 2             !PT-1 SW 7042 Shoji White/SW Promar 200 ES - general wall                                             ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 3             !PT-1A SW 7042 Shoji White/SW Pro Indu Acrylic SG                                                     ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 4             !PT-4 Pratt & Lambert 22-8 Carribean Holiday/SW promar ES                                             ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 5             !PT-6 SW 7019 Gauntlet Gray SW Promar ES                                                              ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 6             !PT-8 SW 7037 Balanced Beige SW Promar ES-paint to match in field-verify onsite                       ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 1             !Sherwin Williams -Product Data- Interior                                                             ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 1             !Sherwin Williams Exterior Product Data                                                               ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 1             !Tnemec Product Data- HP Coating                                                                      ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 2             !EP-1 SW 7013 Ivory Lace SW Promar 200 SG                                                             ! Approved             !
+
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 3             !P-1 SW 7013 Ivory Lace/SW Promar 200 ES                                                              ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 4             !P-2 SW 6893 Kid's Stuff/SW Promar  ES                                                                ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 5             !P-3 SW 6871 Positive Red/SW Promar ES                                                                ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 6             !P-4 SW 6711 Parakeet/SW Promar  ES                                                                   ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 7             !P-5 SW 6954 Resonant /SW Promar  ES                                                                  ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 8             !P-6 SW 6967 Frank Blue /SW Promar ES                                                                 ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 9             !P-7 SW 7066 Gray Matters /SW Promar  ES                                                              ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 10            !P-8 SW 7066 Gray Matters/SW Promar SG                                                                ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 11            !P-9 SW 6683 Bee SW Promar ES                                                                         ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 12            !P-10 match PPG Duranar UC131645XL-SW Promar SG                                                       ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 13            !EX-P SW 7013 Ivory Lace/SW Pro Industrial  Dryfall Flat                                              ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 14            !GYP-1 SW 7013 Ivory Lacy SW Promar  Flat                                                             ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 15            !GYP-2 SW 6893 Kid's Stuff SW Promar Flat                                                             ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 1             !Sherwin Williams Joint sealant- Product Data                                                         ! Approved             !
+
+NL: 015 ! 21 ! 1 !DC Bilingual PCS (015.21.1)                                        !33 Riggs Road NE               !                          ! Washington                    !DC   ! 220011     ! 3             !Tnemec- Product Data- Series 1071                                                                    ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 7             !Custom Match- Olive Green- SW Promar 200 ES                                                          ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 8             !Custom Match Tann- SW Promar ES                                                                      ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 1             !MasterKure 300 HD 300 WB- BASF Product Data/ Concrete Floor sealer (clear)                           ! Approved             !
+
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 12            !WC08 1036 + Print Pablo Lucker  Graphic Design VESCOM                                                ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 13            !WC09 1036.01 + Print-Pablo Lucker Graphic- Vescom                                                    ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 14            !WC10 1036.01 + Print Culture Citizen Floor 02 & 07 A- Sample                                         ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 15            !WC10 1036.01 + Print Cocktail Citizen - Floors 02 & 07B Sample                                       ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 16            !WC10 1036.01 + Print Digital Citizen Floors 03 & 08A sample                                          ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 17            !WC10 1036.01 + Print Fashion Citizen Floors 03 & 08 B Sample                                         ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 18            !WC10 1036.01 + Print Balloon Citizen Floors 04 & 09A sample                                          ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 19            !WC10 1036.01 + Print Sonic Citizen Floors 04 & 09 B Sample                                           ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 20            !WC10 1036.01 + Print Business Citizen Floor 05A                                                      ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 21            !WC10 1036.01 + Print Party Citizen Floor -05B sample                                                 ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 22            !WC10 1036.01 + Print  Global Citizen Floor 06A sample                                                ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 23            !WC10 1036.01 + Print  Foodie citizen- FLoor 06B sample                                               ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 24            !WC11 1036.01 + Print Iron Man- sample                                                                ! Approved             !
+
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 2             !WF1 SW 7006 Extra White/SW Promar Flat                                                               ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 3             !W2 SW 7070 Site White/SW Promar SG                                                                   ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 4             !WF3 BM 2121-50 Iced Cube- SW Promar ES-only accent walls are ES: all other walls are Flat            ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 5             !WF4 SW 7005 Pure White/SW Promar Flat                                                                ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 6             !WF6 SW 7005 Pure White SW Promar SG                                                                  ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 1             !Sherwin Williams Product Data Interior                                                               ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 1             !Sherwin Williams Product Data- Exterior                                                              ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 2             !P1 & W1 -  SW 7010 White Duck/ SW Promar Flat-walls                                                  ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 3             !P1 & W1 - SW 7010 White Duck SW Promar SG- bathroom walls                                            ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 4             !P2 SW 7757 High Reflective White SW Promar Flat- ceilings/walls                                      ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 5             !P2 SW 7757 High Reflective White SW Promar SG-trim/bathroom ceilings                                 ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 6             !P3 SW 7547 Sandbar SW Promar SG- trim                                                                ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 7             !P4 SW 6241 Aleutian SW Promar Flat- Social Hall Accent                                               ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 8             !P11 SW 7504 Keystone Gray /SW Pro Industrial DTM SG/ contrast for handrails                          ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 1             !WC1 MDC Product Data (NLAH Highland  )                                                               ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 1             !Sherwin Williams Product Data/EDS- Painting                                                          ! Approved             !
+
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 2             !PT-1 SW 9624 Winsome Gray/SW Promar ES                                                               ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 3             !PT-2 SW 6892 Carnival/SW Promar ES                                                                   ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 4             !PT-3 SW 6950 Calypso/SW Promar ES                                                                    ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 5             !PT-4 SW 6233 Samovar Silver/SW Promar SG                                                             ! Approved as noted    !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 1             !PT-5 SW 6910 Daisy/SW Promar ES                                                                      ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 6             !PT-6 SW 6464 Aloe/SW Promar ES                                                                       ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 7             !EXP-1/EXP-2 SW 9624 Winsome Gray/SW Pro Industrial Dryfall Flat                                      ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 8             !GYP-1 SW 9624 Winsome Gray/SW Promar Flat                                                            ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 2             !HP Coating-Tnemec Product Data                                                                       ! Approved as noted    !
+
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 3             !HPC-1 SW 9624 Winsome Gray- Series 750 UVX Tnemec                                                    ! Approved as noted    !
+
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 4             !HPC-2 SW 6892 Carnival/ Series 750 UVX Tnemec                                                        ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 5             !HPC-3 SW 6950 Calypso Series 750 UVX Tnemec                                                          ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 7             !HPC-4 SW 6910 Daisy/ Series 750 UVX Tnemec                                                           ! Approved             !
+
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 8             !HPC-5  SW 6464 Aloe/ Series 750 UVX Tnemec                                                           ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 9             !Division 099123  Interior Painting  Samples- Revise & Resubmit                                       ! Approved as noted    !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 9             !PT-1 SW 9624 Winsome Gray/SW Promar flat gym ceiling  RFI164                                         ! Approved             !
+
+NL: 019 ! 21 ! 3 !DFAC Bldg.#404 Spates Hall (019.21.3)                              !McNair Road                    !                          ! Ft Myer                       !VA   ! 22211      ! 7             !BM 1476 Squirrel Tail /SW Bond Plex Acrylic Coating - exterior of  temporary trailers (change)       ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 1             !Benjamin Moore- Product Data- Interior                                                               ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 2             !WF-1 CC-20 Decorators White- BM Ultra Spec ES                                                        ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 3             !WF-1 BM CC-20 Decorators White- BM Ultra Spec SG                                                     ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 4             !WF-1 BM CC-20 Decorator's White BM Ultra DTM SG                                                      ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 1             !WF-2 MDC Cooper Natural Textile Tweed MNX 1094                                                       ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 2             !WF-2 MDC Product Data- Cooper Natural Textile                                                        ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 6             !Scuffmaster SM - product Data- Wolf Gordon                                                           ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 1             !PPG Product Data/SDS                                                                                 ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 2             !P-2 SW 7033 Brainstorm Bronze/ PPG Pitt Tech DTM SG                                                  ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 3             !P-3 SW 9166 Drift of Mist PPG SH Flat                                                                ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 4             !P-3 SW 9166 Drift of Mist PPG Dryfall ES                                                             ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 5             !P-4 SW 8917 Shewll White/ PPG SH SG                                                                  ! Approved             !
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 1             !Isolatek- Intumescent coating- Product Data  (CAFCO)/SW PD for Primer & Top Coat                     ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 1             !SW Product Data/EDS- Painting and Coatings                                                           ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 1             !WC Product Data- London Art (WC5 thru13,21)                                                          ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 2             !WC Product Data- Carnegie  (WC2, 15, 16)                                                             ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 2             !Scuffmaster Solid Metal Product Data-Wolf Gordon (P-7)                                               ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 3             !P1 SW 7006 Extra White/SW Harmony  ES                                                                ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 4             !P2 SW 7006 Extra White/SWHarmony Flat                                                                ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 5             !P3 SW 6258 Tricorn Black SW Promar ES                                                                ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 7             !P7 SM 10261 GOH 32020111 Scuffmaster Solid Metal- Wolf Gordon                                        ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 8             !P9 SW 7595 Sommelier /SW Promar ES                                                                   ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 9             !P12 SW 6255 Morning Fog SW Promar ES                                                                 ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 3             !WC2 Flux 6557W-93 Carnegie-Use X protect wall backing on wc                                          ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 4             !WC5 London Art, Unconscious Bloom 18040-03 Blue                                                      ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 5             !WC6 London Art Dalia 20061--1 Black                                                                  ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 6             !WC7 London Art Murgese Horses 19044-01                                                               ! Approved as noted    !
+
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 7             !WC8 London Art FAris 20027-01                                                                        ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 8             !WC-9Carnegie Twill 8174-5 sample                                                                     ! Approved as noted    !
+
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 9             !WC-10 London Art Sigatino  20038-1                                                                   ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 10            !WC-11 LondonArt Good Bye 18012-02                                                                    ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 11            !WC-13 London Art Elkann 19017-02                                                                     ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 12            !WC-15 Xorel Dash 6603W-36 Carnegie-SAMPLE                                                            ! Approved             !
+
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 13            !WC-16 Allpine 7362A-A26  Carnegie                                                                    ! Approved             !
+
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 14            !WC 21 London Art Panorama 18064-01                                                                   ! Approved as noted    !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 16            !WC12 London Art - Romantic Story 17063-02                                                            ! Approved as noted    !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 6             !PT-1 SW 7566 Westhighland White/PPG SH ES                                                            ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 1             !PPG Product Data - Painting & Coatings                                                               ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 2             !PT-1- BM OC-65 Chantilly Lace- PPG SH ES                                                             ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 3             !PT-1 BM OC-65 Chantilly Lace - PPG SH Flat                                                           ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 4             !PT-2 BM 2139-50 Silver Marlin  PPG SH ES                                                             ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 5             !P3 BM 2139-30 Sharkskin PPG SH SG                                                                    ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 6             !PT-04 BM 72 Bermuda Turquoise PPG SH ES                                                              ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 7             !PT-05 BM 176 Goldtone  PPG SH ES                                                                     ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 8             !PT-06 BM 2141-40 Creekside Green  PPG SH ES                                                          ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 1             !Painting and Coatings- Product Data- PPG                                                             ! Approved             !
+
+NL: 033 ! 21 ! 1 !DD1 Lobby Water Feature (033.21.1)                                 !13910 Air & Space Museum Pkwy  !                          ! Herndon                       !VA   ! 20171      ! 1             !Tammsflex NS/SL (Sealant) Euclid Chemical Co. Product Data                                           ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 2             !PT-1/GYP-1 SW 7757 High Reflective White/PPG SH Flat                                                 ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 3             !PT-1 SW 7566 West Highland White/PPG SH ES                                                           ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 4             !PT-2 SW 6105 Divine White/PPG SH ES                                                                  ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 5             !PT-2 SW 6105 Dvine White/PPG SH Flat                                                                 ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 6             !PT-3 SW 6220 Interesting Aqua PPG SH ES                                                              ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 1             !PT-4 SW 7566 Westhighland White PPG SH SG                                                            ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 7             !PT-5 SW 7035 Aesthetic White PPG SH ES                                                               ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 2             !PT-5 SW 7035 Aesthetic White PPG SH Flat                                                             ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 8             !PT-6 SW 0033 Rembrandt Ruby PPG SH Flat                                                              ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 9             !PT-7 SW 7602 Indigo Batik PPG SH Flat                                                                ! Approved             !
+
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 10            !PT-8 SW 6461 Isle of Pines PPG SH Flat                                                               ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 11            !PT-9 SW 7033 Brainstorm Bronze PPG Pitt Tech DTM SG                                                  ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 12            !PT-10 Sw 7035 Aesthetic White PPG PItt Glaze WB SG                                                   ! Approved             !
+
+NL: 032 ! 21 ! 3 !Abrams Hall 14 North Assisted (032.21.3)                           !1320 Main Drive NW             !                          ! Washington                    !DC   ! 20307      ! 13            !PT-11 SW 7038 Tony Taupe PPG SH SG                                                                   ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 9             !PT-07 BM CW230 Carter Red/ PPG SH ES                                                                 ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 10            !PT-08 BM 965 Temporal Spirit/ PPG SH ES                                                              ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 11            !PT-09 BM 1260 El Canyon Clay/ PPG SH ES                                                              ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 12            !PT-10 BM 1065 Wood Ash/ PPG SH ES                                                                    ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 13            !PT-11 BM 1070 Barley Harvest/ PPG SH ES                                                              ! Approved             !
+
+NL: 030 ! 21 ! 1 !Parkside @ College Park II (030.21.1)                              !8125 48th Avenue               !                          ! College Park                  !MD   ! 20740      ! 14            !PT-12 BM 2094-10 Burnt Cinnamon/ PPG SH ES                                                           ! Approved             !
+
+NL: 035 ! 21 ! 3 !FRB NYA 5th & 6th Floor Corr (035.21.3)                            !20th Street NW                 !C & Constitution Ave NW   ! Washington                    !DC   ! 20006      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved as noted    !
+
+NL: 035 ! 21 ! 3 !FRB NYA 5th & 6th Floor Corr (035.21.3)                            !20th Street NW                 !C & Constitution Ave NW   ! Washington                    !DC   ! 20006      ! 2             !SW 7056 Reserve White /SW Promar ES                                                                  ! Approved as noted    !
+
+NL: 035 ! 21 ! 3 !FRB NYA 5th & 6th Floor Corr (035.21.3)                            !20th Street NW                 !C & Constitution Ave NW   ! Washington                    !DC   ! 20006      ! 3             !SW 7056 Reserved White Sw Promar SG                                                                  ! Approved as noted    !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 7             !WF-1 CC-20 Decorators White- BM Ultra Spec flat- ceilings                                            ! Approved             !
+
+NL: 027 ! 21 ! 1 !1550 Crystal Dr  11th Floor (027.21.1)                             !1550 First Street -11th Floor  !                          ! Arlington                     !VA   !            ! 8             !Scuffmaster SM VL020ST Blackest Eggshell- Sample                                                     ! Approved             !
+
+NL: 018 ! 21 ! 1 !CP5 4th Floor (018.21.1)                                           !2451 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 7             !SW 6351 Sweet Orange/ SW Pro Industrial DTM SG - roof screen                                         ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 1             !SW 6258 Tricorn Black /SW Promar Flat- Ceilings                                                      ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 10            !P10 SW 6228 Refuge SW Promar ES                                                                      ! Approved             !
+
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 17            !WC15 & WC 16- Product Data- Carneige - Revised Selection  (CCD 36)                                   ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 2             !PPG Breakthrough - concrete sealer (gray)- Product Data                                              ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 18            !WC9 Twill- Carnegie Product Data                                                                     ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 3             !custom color Gray- Breakthrough- concrete sealer - sample                                            ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 10            !PT-01 RAL 9005 black SW Promar Flat                                                                  ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 11            !PT-02 RAL 9010 Pure White/SW Promar Flat                                                             ! Approved             !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 2             !SW Prep Rite ProBlock Primer/Sealer - Product Data- for wood ceiling location                        ! Approved as noted    !
+
+
+NL: 021 ! 21 ! 3 !Lake Anne House (021.21.3)                                         !11450 Lake Shore Drive         !                          ! Reston                        !VA   ! 20190      ! 1             !Ashford Formula- Concrete Chemical Co - Product Data- Floor sealer                                   ! Approved             !
+
+NL: 040 ! 21 ! 1 !UMMC CT Scan Reno (040.21.1)                                       !22 South Greene St             !                          ! Baltimore                     !MD   ! 21201      ! 1             !Sherwin Williams- Painting- Product  Data                                                            ! Approved             !
+
+NL: 040 ! 21 ! 1 !UMMC CT Scan Reno (040.21.1)                                       !22 South Greene St             !                          ! Baltimore                     !MD   ! 21201      ! 3             !P2 SW 6808 Celestial SW Promar Eggshell                                                              ! Approved             !
+
+NL: 040 ! 21 ! 1 !UMMC CT Scan Reno (040.21.1)                                       !22 South Greene St             !                          ! Baltimore                     !MD   ! 21201      ! 4             !P3 SW 6810 Lupine/SW Promar ES                                                                       ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 10            !PD Sports Coating -SW & MC Basketball Court                                                          ! Approved             !
+
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 11            !MC Traffic Coating- Stripping- Basketball Court                                                      ! Approved             !
+
+NL: 022 ! 21 ! 1 !KIPP DC Recreation Center FHC (022.21.1)                           !3999 8th Street SE             !                          ! Washington                    !DC   ! 20032      ! 12            !Sports Coating- Samples - RED is color selected                                                      ! Approved             !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 3             !SW 7008 Alabaster White /Hi-Solids Polyurethane Semi-Gloss                                           ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 11            !Black/SW Promar  Flat - Interior of closets -feature walls 11th & 12th floors                        ! Approved as noted    !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 9             !PT-1 SW 7042 Shoji White/SW Promar 200 Flat- bulkheads                                               ! Approved             !
+
+NL: 029 ! 21 ! 1 !Bowen Bldg TI Floors- 11th (029.21.1)                              !875 15th Street NW             !                          ! Washington                    !DC   !            ! 12            !P1 SW 7006 Extra White/SW Promar SG - drs/frs @ 101A ADA Vestibule - RFI 447                         ! Approved             !
+
+NL: 044 ! 21 ! 1 !Gold's Gym @ Bailey's (044.21.1)                                   !5718 Columbia Pike             !                          ! Falls Church                  !VA   ! 22041      ! 1             !Sherwin Williams- Product Data- Exterior                                                             ! Approved             !
+
+NL: 044 ! 21 ! 1 !Gold's Gym @ Bailey's (044.21.1)                                   !5718 Columbia Pike             !                          ! Falls Church                  !VA   ! 22041      ! 2             !P2 SW 6002 Essential Gray/SW A100 Exterior Satin                                                     ! Approved as noted    !
+
+NL: 044 ! 21 ! 1 !Gold's Gym @ Bailey's (044.21.1)                                   !5718 Columbia Pike             !                          ! Falls Church                  !VA   ! 22041      ! 3             !P7 SW 7075 Web Gray/SW A100 Exterior Satin                                                           ! Approved             !
+
+NL: 044 ! 21 ! 1 !Gold's Gym @ Bailey's (044.21.1)                                   !5718 Columbia Pike             !                          ! Falls Church                  !VA   ! 22041      ! 4             !P9 SW 6258 Tricorn Black/SW A100 Exterior Satin                                                      ! Approved             !
+
+NL: 044 ! 21 ! 1 !Gold's Gym @ Bailey's (044.21.1)                                   !5718 Columbia Pike             !                          ! Falls Church                  !VA   ! 22041      ! 5             !P10 PMS 108C GG Yellow -/SW A100 Exterior Satin                                                      ! Approved             !
+
+NL: 026 ! 21 ! 1 !Archbishop Spalding MS Music (026.21.1)                            !8080 New Cut Road              !                          ! Severn                        !MD   ! 21144      ! 7             !SW 7068 Grizzel Gray- PPG SH SG- RFI 41 - wood rail                                                  ! Approved as noted    !
+
+NL: 045 ! 21 ! 1 !1901 L Street Penthouse (045.21.1)                                 !1901 L Street NW               !                          ! Washington                    !DC   ! 20036      ! 1             !Tnemece PD- MT32 Silver Bullet - Series 1078                                                         ! Approved as noted    !
+
+NL: 052 ! 21 ! 3 !NSF TO#309 Storage Containers (052.21.3)                           !14900 Park Central Road        !                          ! Thurmont                      !MD   ! 21788      ! 1             !sherwin williams PD                                                                                  ! Approved as noted    !

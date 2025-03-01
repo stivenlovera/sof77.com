@@ -1,0 +1,11 @@
+
+
+NL:000 !24  ! 0  ! Warehouse Tracking 2024 (000.24.0)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !24  ! 1  ! Bridge District Parcel 3 & 4 (001.24.1)                                    !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:002 !24  ! 2  ! We Work 9th Floor (002.24.2)                                               ! 7272 Wisconsin Ave.                                                        !                                         !Bethesda                               !MD   !              !  !   !
+
+NL:003 !24  ! 1  ! 60 Florida Ave NE (003.24.1)                                               ! 60 Florida Ave NE                                                          !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:004 !24  ! 1  ! DCIA Reunion Square (004.24.1)                                             ! 2201 Shannon Place NE                                                      !                                         !Washington                             !DC   !20020         !  !   !

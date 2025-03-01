@@ -1,0 +1,39 @@
+
+
+NL:000 !23  ! 0  ! Warehouse Tracking (000.23.0)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !23  ! 1  ! DCHA HQ TI Floors 9-11 (001.23.1)                                          ! 300 7th Street SW                                                          !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:002 !23  ! 2  ! UMES Student Service Center (002.23.2)                                     ! 30617 College Backbone Road                                                !                                         !Princess Anne                          !MD   !21853         !  !   !
+
+NL:003 !23  ! 3  ! MLK Gateway - Phase II (003.23.3)                                          ! Martin Luther King, Jr Blvd                                                !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:004 !23  ! 2  ! APL (004.23.2)                                                             ! 11091 Johns Hopkins Rd                                                     !Building 201                             !Laurel                                 !MD   !20723         !  !   !
+
+NL:005 !23  ! 1  ! UMMC N5W Dental Clinic Ph I (005.23.1)                                     !                                                                            !                                         !                                       !MD   !              !  !   !
+
+NL:006 !23  ! 3  ! Reagan Secure National Hall (006.23.3)                                     !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:007 !23  ! 3  ! Bowie State - Comm Art Bldg (007.23.3)                                     ! 14000 Jericho Park Rd                                                      !                                         !Bowie                                  !MD   !20715         !  !   !
+
+NL:008 !23  ! 1  ! UMMC N7W Pediatric Cath Lab (008.23.1)                                     ! 22 South Greene Street                                                     !                                         !Baltimore                              !MD   !21201         !  !   !
+
+NL:009 !23  ! 1  ! DO NOT USE (009.23.1)                                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+              2  ! Capitol Hotel Skyline (009.23.2)                                           !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:010 !23  ! 1  ! Catholic Univ-O'Boyle Upgrades (010.23.1)                                  ! 620 Michigan Avenue NW                                                     !                                         !Washington                             !DC   !20064         !  !   !
+
+NL:011 !23  ! 1  ! CUA Student Engagement Hub (011.23.1)                                      ! 620 Michigan Avenue NW                                                     !                                         !Washington                             !DC   !20064         !  !   !
+
+NL:012 !23  ! 3  ! MDOT MVA Glen Burnie Reno (012.23.3)                                       ! 6601 Ritchie Hwy., NE                                                      !                                         !Glen Burnie                            !MD   !21062         !  !   !
+
+NL:013 !23  ! 1  ! DGS MPD (013.23.1)                                                         ! 2850 New York Ave., NE                                                     !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:014 !23  ! 3  ! DO NOT USE (014.23.3)                                                      ! 3301 23rd Street, SE                                                       !                                         !Washington                             !DC   !20032         !  !   !
+
+              5  ! Terrace Manor Apts Ph 2 (014.23.5)                                         ! 3301 23rd Street, SE                                                       !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:015 !23  ! 1  ! DHCD at MLK Gateway 2 (015.23.1)                                           ! Martin Luther King, Jr Blvd                                                !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:016 !23  ! 3  ! NVCC Seefeldt Main Building (016.23.3)                                     ! 2645 College Drive                                                         !                                         !Woodbridge                             !VA   !22191         !  !   !

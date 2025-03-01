@@ -1,0 +1,59 @@
+﻿NL:016.19.3,,01,=,01,=,,,20.300,Ticket Work,6.00
+NL:018.21.1,,01,=,01,=,,,80.110,Touch Up Allowance,160.00
+NL:018.21.1,,01,=,01,=,BA01,Basement,20.110,Walls/DW Ceiling - Prime,64.74
+NL:018.21.1,,01,=,01,=,BA01,Basement,21.120,Walls - 2nd Coat Finish,84.87
+NL:018.21.1,,01,=,01,=,BA01,Basement,21.130,Walls - 3rd Coat Finish,64.74
+NL:018.21.1,,01,=,01,=,BA01,Basement,28.110,Doors/Frames 1st/2nd Coat,94.00
+NL:018.21.1,,01,=,01,=,BA01,Basement,40.400,Exterior Steel,22.96
+NL:032.21.3,,01,=,01,=,,,80.120,PWT Only Punchlilst,54.00
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,20.110,Walls/DW Ceiling - Prime,72.45
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,21.120,Walls - 2nd Coat Finish,52.08
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,21.130,Walls - 3rd Coat Finish,52.09
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,22.120,DW Ceiling - 2nd & 3rd Finish,51.62
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,28.110,Doors/Frames 1st/2nd Coat,43.00
+NL:032.21.3,,01,=,01,=,FL01,Floor 01,30.120,Special Coating - Interm Coat,7.42
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,20.110,Walls/DW Ceiling - Prime,81.08
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,21.120,Walls - 2nd Coat Finish,56.54
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,21.130,Walls - 3rd Coat Finish,56.54
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,22.120,DW Ceiling - 2nd & 3rd Finish,62.12
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,28.110,Doors/Frames 1st/2nd Coat,36.00
+NL:032.21.3,,01,=,01,=,FL02,Floor 02,30.120,Special Coating - Interm Coat,8.40
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,20.110,Walls/DW Ceiling - Prime,80.11
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,21.120,Walls - 2nd Coat Finish,56.11
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,21.130,Walls - 3rd Coat Finish,56.11
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,22.120,DW Ceiling - 2nd & 3rd Finish,60.66
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,28.110,Doors/Frames 1st/2nd Coat,35.00
+NL:032.21.3,,01,=,01,=,FL03,Floor 03,30.120,Special Coating - Interm Coat,3.63
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,20.110,Walls/DW Ceiling - Prime,17.90
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,21.120,Walls - 2nd Coat Finish,22.10
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,21.130,Walls - 3rd Coat Finish,22.10
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,22.120,DW Ceiling - 2nd & 3rd Finish,2.79
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,24.110,CMU Walls - Blockfiller,46.45
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,28.110,Doors/Frames 1st/2nd Coat,20.00
+NL:032.21.3,,01,=,01,=,FLP1,Floor P1,30.120,Special Coating - Interm Coat,33.84
+NL:032.21.3,,01,=,01,=,STAIRS,STAIRS,24.110,CMU Walls - Blockfiller,9.41
+NL:032.21.3,,01,=,01,=,STAIRS,STAIRS,24.120,CMU Walls - 2nd Coat Finish,9.41
+NL:032.21.3,,01,=,01,=,STAIRS,STAIRS,24.130,CMU Walls - 3rd Coat Finish,9.41
+NL:032.21.3,,01,=,01,=,STAIRS,STAIRS,50.800,Stair Metal,30.00
+NL:061.20.1,,01,=,01,=,,,80.110,Touch Up Allowance,100.00
+NL:061.20.1,,01,=,01,=,,,80.120,PWT Only Punchlilst,200.00
+NL:061.20.1,,01,=,01,=,,,80.800,Contingency - Original,53.00
+NL:061.20.1,,01,=,01,=,CE01,Cellar,28.110,Doors/Frames 1st/2nd Coat,40.00
+NL:061.20.1,,01,=,01,=,CE01,Cellar,40.300,Steel Railings,142.29
+NL:061.20.1,,01,=,01,=,CE01,Cellar,50.800,Stair Metal,130.00
+NL:061.20.1,,01,=,01,=,EX01,Exterior,50.300,Pipe Bollards/Corner Guards,8.00
+NL:061.20.1,,01,=,01,=,EX01,Exterior,50.500,AESS Steel,366.00
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,20.110,Walls/DW Ceiling - Prime,107.76
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,21.120,Walls - 2nd Coat Finish,107.76
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,21.130,Walls - 3rd Coat Finish,107.76
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,28.110,Doors/Frames 1st/2nd Coat,60.00
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,40.300,Steel Railings,5.80
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,50.500,AESS Steel,70.20
+NL:061.20.1,,01,=,01,=,FL01,Floor 01,50.800,Stair Metal,8.00
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,20.110,Walls/DW Ceiling - Prime,13.42
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,21.120,Walls - 2nd Coat Finish,11.96
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,21.130,Walls - 3rd Coat Finish,11.96
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,22.120,DW Ceiling - 2nd & 3rd Finish,5.81
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,28.110,Doors/Frames 1st/2nd Coat,40.00
+NL:061.20.1,,01,=,01,=,FL02,Floor 02,50.800,Stair Metal,8.00
+NL:061.20.1,,01,=,01,=,IN01,Intumecent,50.500,AESS Steel,"2,318.00"

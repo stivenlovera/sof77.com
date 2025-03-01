@@ -1,0 +1,177 @@
+
+
+NL:001 !20  ! 2  ! 1800 Perry Street (001.20.2)                                               ! 1800 Perry Street NW                                                       !                                         !Washington                             !DC   !              !  !   !
+
+NL:002 !20  ! 3  ! NSF/19/TO81 SidingMaint G1-G2 (002.20.3)                                   ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:003 !20  ! 1  ! Politics & Prose Bookstore (003.20.1)                                      ! 5015 Connecticut Ave NW                                                    !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:004 !20  ! 1  ! Corpus Christi Church (004.20.1)                                           ! 41662 Corpus Christi Drive                                                 !                                         !Aldie                                  !VA   !20105         !  !   !
+
+NL:005 !20  ! 1  ! 1275 K Street Lobby (005.20.1)                                             ! 1275 K Street NW                                                           !                                         !Washington                             !DC   !20005         !  !   !
+
+NL:006 !20  ! 1  ! One DC BWWC (006.20.1)                                                     ! 2500 MLK Jr. Avenue SE                                                     !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:007 !20  ! 1  ! Healy Hall- Georgetown (007.20.1)                                          ! 37th & O Street NW                                                         !G-19                                     !Washington                             !DC   !20059         !  !   !
+
+NL:008 !20  ! 1  ! 505 9th St McKesson (008.20.1)                                             ! 505 9th Street NW                                                          !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:009 !20  ! 2  ! Smoot Office (009.20.2)                                                    ! 5335 Wisconsin Ave NW                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:010 !20  ! 3  ! NSF TO#127 CHESTNUT (010.20.3)                                             ! 14900 PARK CENTRAL ROAD                                                    !                                         !THRUMONT                               !MD   !21788         !  !   !
+
+NL:011 !20  ! 1  ! Gelberg Signs (011.20.1)                                                   ! 6511 Chillum Place NW                                                      !                                         !Washington                             !DC   !20012         !  !   !
+
+NL:012 !20  ! 1  ! DOD Project 555 12th St (012.20.1)                                         ! 555 12th Street NW                                                         !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:013 !20  ! 1  ! Sterling Community Ctr (013.20.1)                                          ! 120 Enterprise Street                                                      !                                         !Sterling                               !VA   !20164         !  !   !
+
+NL:014 !20  ! 1  ! WeWork 1875 K Street 3rd Floor (014.20.1)                                  ! 1875 K Street NW                                                           !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:016 !20  ! 1  ! John Paul II Shrine 3rd Floor (016.20.1)                                   ! 3900 Harewood Road NE                                                      !                                         !Washington                             !DC   !20017         !  !   !
+
+NL:017 !20  ! 1  ! White Gravenor Hall (017.20.1)                                             ! 3700 O Street NW                                                           !                                         !Washington                             !DC   !20057         !  !   !
+
+NL:018 !20  ! 3  ! TO#170 Linden Interior Camp D (018.20.3)                                   ! 14900 Park Central RD                                                      !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:019 !20  ! 3  ! NSF TO 226 Thurmont Bldg (019.20.3)                                        ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:020 !20  ! 3  ! 1770 Crystal Drive Tenant Impr (020.20.3)                                  ! 1770 Crystal Drive                                                         !                                         !Arlington                              !VA   !22202         !  !   !
+
+NL:021 !20  ! 1  ! George Mason High School (021.20.1)                                        ! 7124 Leesburg Pike                                                         !                                         !Falls Church                           !VA   !22043         !  !   !
+
+NL:022 !20  ! 1  ! Hampton Inn- Dulles (022.20.1)                                             ! 22700 Holiday Park Drive                                                   !                                         !20166                                  !VA   !              !  !   !
+
+NL:023 !20  ! 1  ! 250 M Street (023.20.1)                                                    ! 250 M Street SE                                                            !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:024 !20  ! 1  ! Giorgio Armani City Center (024.20.1)                                      ! 975 I Street NW                                                            !Space 703                                !Washington                             !DC   !20001         !  !   !
+
+NL:025 !20  ! 1  ! Merritt Academy (025.20.1)                                                 ! 9203 Arlington Blvd                                                        !                                         !Fairfax                                !VA   !22031         !  !   !
+
+NL:026 !20  ! 3  ! 1550 First Street Apts (026.20.3)                                          ! 1550 First Street SW                                                       !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:027 !20  ! 1  ! Two Rivers PCS MS Expansion (027.20.1)                                     ! 820 26th  Street NE                                                        !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:028 !20  ! 3  ! Acela 21 S&I Facility (Ivy Cit (028.20.3)                                  ! 1401 W Street NE                                                           !                                         !Washington                             !DC   !20018         !  !   !
+
+NL:029 !20  ! 3  ! Amtrak Track 22 Rehab (029.20.3)                                           ! 50 Massachusetts Avenue NE                                                 !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:030 !20  ! 1  ! Northrop Grumman-8th Floor (030.20.1)                                      ! 7575 Colshire Drive                                                        !                                         !McLean                                 !VA   !22102         !  !   !
+
+NL:031 !20  ! 1  ! Antech Diagnostics (031.20.1)                                              ! 3675 Concorde Parkway                                                      !                                         !Chantilly                              !VA   !20151         !  !   !
+
+
+NL:032 !20  ! 1  ! Crystal Gateway North (032.20.1)                                           ! 201 12th Street South                                                      !6th Floor                                !Arlington                              !VA   !22202         !  !   !
+
+NL:033 !20  ! 1  ! JHBSPH Lab W3600 (033.20.1)                                                ! 615 N. Wolfe Street                                                        !                                         !Baltimore                              !MD   !21205         !  !   !
+
+NL:034 !20  ! 1  ! JHBSPH LAB W8700 (034.20.1)                                                ! 615 N. Wolfe Street                                                        !                                         !Baltimore                              !MD   !21205         !  !   !
+
+NL:035 !20  ! 3  ! Thaddeus Stevens School (035.20.3)                                         ! 1050 21st Street NW                                                        !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:036 !20  ! 1  ! Tricon - MLK Caulking (036.20.1)                                           ! 901 G Street NW                                                            !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:037 !20  ! 1  ! Wharf - WB - 1 (037.20.1)                                                  ! 680 Water Street SW                                                        !                                         !Washington                             !DC   !20024         !  !   !
+
+              3  ! Do Not Use (037.20.3)                                                      ! 680 Water Street SW                                                        !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:038 !20  ! 1  ! Milken Institute Phase 2 (038.20.1)                                        ! 730 15th Street NW                                                         !                                         !Washington                             !DC   !20005         !  !   !
+
+NL:039 !20  ! 3  ! NSF TO#184 Witch Hazel (039.20.3)                                          ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:040 !20  ! 3  ! Eaton Elementary School (040.20.3)                                         ! 3301 Lowell Street NW                                                      !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:041 !20  ! 3  ! NSF Thurmont 183 Siding (041.20.3)                                         ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:042 !20  ! 1  ! Old City Hall Renovation (042.20.1)                                        ! 1001 East Broad Street                                                     !                                         !Richmond                               !VA   !23219         !  !   !
+
+NL:043 !20  ! 3  ! FRB Stairway Refres 1 & 2 (043.20.3)                                       ! 20th St NW                                                                 !C & Constitution                         !Washington                             !DC   !20006         !  !   !
+
+NL:044 !20  ! 3  ! Event DC Streetscape (044.20.3)                                            ! 801 Mount Vernon Place NW                                                  !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:045 !20  ! 1  ! TRowe Price OM 4.1 Train (045.20.1)                                        ! 4425 Painters Mill Rd                                                      !4903, Concourse & 1st Floor              !Owings Mill                            !MD   !21117         !  !   !
+
+NL:046 !20  ! 1  ! PEPCO Harvard Sub 013 (046.20.1)                                           ! 1001 Harvard St NW                                                         !                                         !Washington                             !DC   !20001         !  !   !
+
+              3  ! DO NOT USE (046.20.3)                                                      ! 1001 Harvard St NW                                                         !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:047 !20  ! 1  ! Inaugural Stand Warehouse (047.20.1)                                       ! 100-1601 Pennsylvania Aven NW                                              !                                         !Washington                             !DC   !20006         !  !   !
+
+              3  ! Inaugural Stands 2021 (047.20.3)                                           ! US Capitol Complex                                                         !1600,1601&1350 Pennsylvania Av           !Washington                             !DC   !20006         !  !   !
+
+NL:048 !20  ! 1  ! JLL 3rd Floor Corridor (048.20.1)                                          ! 555 12th Street NW                                                         !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:049 !20  ! 1  ! Calvert Health 4th FL Reno (049.20.1)                                      ! 100 Hospital Road                                                          !                                         !Prince Frederic                        !MD   !20678         !  !   !
+
+NL:050 !20  ! 1  ! ESA Sports- South Wall (050.20.1)                                          ! 1100 Oak Drive SE                                                          !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:051 !20  ! 3  ! Park Southern Renovation (051.20.3)                                        ! 800 Southern Avenue SE                                                     !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:052 !20  ! 3  ! NETCOM Bldg 2310 Reno (T&M) (052.20.3)                                     ! NETCOM                                                                     !Bldg 2310                                !Ft. Belvoir                            !VA   !              !  !   !
+
+NL:053 !20  ! 1  ! 4475 Aquia Creek Lane (053.20.1)                                           ! 4475 Aquia Creek Lane                                                      !                                         !Fairfax                                !VA   !              !  !   !
+
+NL:054 !20  ! 4  ! Rebuild Together @ Montgomery (054.20.4)                                   ! 18225 A Flower Hill Way                                                    !                                         !Gaithersburg                           !MD   !20879         !  !   !
+
+NL:055 !20  ! 1  ! Earth Justice Ticket Work (055.20.1)                                       ! 1001 G Street NW                                                           !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:056 !20  ! 1  ! Grimke School Reno-School (056.20.1)                                       ! 912 U Street NW                                                            !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:057 !20  ! 3  ! Lafayette Recreation Center (057.20.3)                                     ! 5900 33rd Street NW                                                        !                                         !Washington                             !DC   !              !  !   !
+
+NL:058 !20  ! 1  ! Presidential Stand Warehouse (058.20.1)                                    ! 1600-1601 Pennsylvania Ave NW                                              !                                         !Washington                             !DC   !20006         !  !   !
+
+
+NL:058 !20  ! 3  ! President Media Mayor Stands (058.20.3)                                    ! 1600-1601 Pennsylvania Avenue                                              !NW                                       !Washington                             !DC   !20006         !  !   !
+
+NL:059 !20  ! 1  ! Woodberry Village Apartments (059.20.1)                                    ! 2224 Savannah Ter SE                                                       !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:060 !20  ! 1  ! The Wharf Parcel 9 (060.20.1)                                              ! 1100 Maine Avenue SW                                                       !                                         !Washington                             !DC   !20025         !  !   !
+
+NL:061 !20  ! 1  ! PEPCO White Flint Substation (061.20.1)                                    ! 11650 Nebel Street                                                         !                                         !Rockville                              !MD   !              !  !   !
+
+NL:062 !20  ! 3  ! HVAC Upgrade Anacostia Museum (062.20.3)                                   ! 1901 Fort Place SE                                                         !                                         !Washington                             !DC   !20013         !  !   !
+
+NL:063 !20  ! 3  ! West Elementary School (063.20.3)                                          ! 1335 Farragut Street NW                                                    !                                         !Washington                             !DC   !20011         !  !   !
+
+NL:064 !20  ! 1  ! BWMC MOB (064.20.1)                                                        ! 301 Hospital Drive                                                         !                                         !Glen Burnie                            !MD   !21061         !  !   !
+
+NL:065 !20  ! 3  ! NSF TO#182- Bldg 113 Reno (065.20.3)                                       ! 14900 Park Central Road                                                    !                                         !Thrumont                               !MD   !21788         !  !   !
+
+NL:066 !20  ! 3  ! Udvar Hazy Center (066.20.3)                                               ! 14390 Air & Space Museum Pkwy                                              !                                         !Chantilly                              !VA   !              !  !   !
+
+NL:067 !20  ! 1  ! Murch Elementary School (067.20.1)                                         ! 4810 36th Street NW                                                        !                                         !Washington                             !DC   !              !  !   !
+
+NL:068 !20  ! 3  ! NSF TO#242 Magnolia Repairs (068.20.3)                                     ! 14900 Park Central Rd                                                      !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:069 !20  ! 1  ! Grimke School - Condos (069.20.1)                                          ! 912 U Street NW                                                            !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:070 !20  ! 3  ! St. Elizabeth Horse Stable Bar (070.20.3)                                  ! 2700 MLK Jr Ave SE                                                         !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:071 !20  ! 1  ! BWMC Lab Automation (071.20.1)                                             ! 301 Hospital Drive                                                         !                                         !Glen Burnie                            !MD   !21061         !  !   !
+
+NL:072 !20  ! 3  ! Wells Fargo 1700 K St. (072.20.3)                                          ! 1700 K Street NW                                                           !8th & 9th Floors                         !Washington                             !DC   !              !  !   !
+
+NL:073 !20  ! 3  ! St. Elizabeth Pkg Garage P6 (073.20.3)                                     ! Cypress & Oak Streets SE                                                   !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:074 !20  ! 3  ! AA DCA BHS (074.20.3)                                                      ! Ronald Reagan National Airport                                             !                                         !Arlington                              !VA   !              !  !   !
+
+NL:075 !20  ! 1  ! 505 9th Street MeKesson AV (075.20.1)                                      ! 505 9th Street NW                                                          !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:076 !20  ! 3  ! NAVFAC 46-67 Renovation (076.20.3)                                         ! 601 M Street SE                                                            !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:077 !20  ! 3  ! George Washington Carver Ctr (077.20.3)                                    ! 5601 Sunnyside Avenue                                                      !                                         !Berwyn Heights                         !MD   !20740         !  !   !
+
+NL:078 !20  ! 1  ! GU Car Barn 2nd Floor Reno (078.20.1)                                      ! 3520 Prospect Street NW                                                    !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:079 !20  ! 1  ! Sirus XM Critical Systems (079.20.1)                                       ! 1500 Eckington Place NE                                                    !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:080 !20  ! 3  ! USG Health & Wellness Facility (080.20.3)                                  ! 930 Dolly Madison Blvd                                                     !                                         !McLean                                 !VA   !22101         !  !   !
+
+NL:081 !20  ! 1  ! MLK Gateway Enlightened TI (081.20.1)                                      ! 1205 Good Hope Road SE                                                     !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:082 !20  ! 4  ! Fresh Start Donation Work (082.20.4)                                       ! 605 Raleigh Place SE                                                       !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:083 !20  ! 4  ! Run Hope Work Donation (083.20.4)                                          ! 605 Raleigh Pplace SE                                                      !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:084 !20  ! 1  ! Salvation Army Phase 3 Reno (084.20.1)                                     ! 615 Slater Lane                                                            !                                         !Alexandria                             !VA   !22314         !  !   !

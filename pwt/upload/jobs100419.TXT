@@ -1,0 +1,375 @@
+
+
+NL:000 !19  ! 0  ! Repair Service 2019 (000.19.0)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !19  ! 3  ! FEMA B413 (001.19.3)                                                       ! 19844 Blue Ridge Mtn Road                                                  !                                         !Mt. Weather                            !VA   !20135         !  !   !
+
+NL:002 !19  ! 1  ! Takoma Place Apartments (002.19.1)                                         ! 6676 Georgia Avenue NW                                                     !                                         !Washington                             !DC   !20012         !  !   !
+
+NL:003 !19  ! 2  ! Med-Dent Georgetown (003.19.2)                                             ! 3900 Reservoir Road NW                                                     !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:004 !19  ! 1  ! Catholic Sports Complex (004.19.1)                                         ! 3606 John McCormack Road NE                                                !                                         !Washington                             !DC   !              !  !   !
+
+NL:005 !19  ! 3  ! PRPA Permanent Fence (005.19.3)                                            ! 1600 Pennsylvania Ave NW                                                   !                                         !Washington                             !DC   !20500         !  !   !
+
+NL:006 !19  ! 1  ! EverFi (006.19.1)                                                          ! 2300 N Street NW                                                           !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:007 !19  ! 1  ! 1901 L Street NW Reno (007.19.1)                                           ! 1901 L Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:008 !19  ! 1  ! PN Hoffman (008.19.1)                                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:009 !19  ! 3  ! Ward 3 Short Term Housing (009.19.3)                                       ! 3220 Idaho Avenue NW                                                       !                                         !Washington                             !DC   !22016         !  !   !
+
+NL:010 !19  ! 3  ! Residences @ St Elizabeth East (010.19.3)                                  ! 1201 Oak Drive SE                                                          !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:011 !19  ! 2  ! EXR (PRA) (011.19.2)                                                       ! 1600 Pennsylvania Avenue NW                                                !                                         !Washington                             !DC   !              !  !   !
+
+NL:012 !19  ! 1  ! Hampton Inn Cascades (012.19.1)                                            ! 46331 McClellan Way                                                        !                                         !Sterling                               !VA   !20165         !  !   !
+
+NL:013 !19  ! 2  ! 801 Penn Ave-same as 039.19.1 (013.19.2)                                   ! 801 Pennsylvania Ave NW                                                    !                                         !Washington                             !DC   !              !  !   !
+
+NL:014 !19  ! 1  ! Berlin Steel ZRC Option MLK (014.19.1)                                     ! 901 G Street NW                                                            !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:015 !19  ! 3  ! Bread for the City (015.19.3)                                              ! 1700 Good  Hope Road SE                                                    !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:016 !19  ! 3  ! Southwest Library (016.19.3)                                               ! 900 Wesley Place SW                                                        !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:017 !19  ! 3  ! Library of Congress Mod.6 (017.19.3)                                       ! 100 Montgomery Meigs Road                                                  !                                         !Fort Meade                             !MD   !20755         !  !   !
+
+NL:018 !19  ! 1  ! 1115 Caulk (018.19.1)                                                      ! 1115 30th Street NW                                                        !                                         !Washington                             !DC   !              !  !   !
+
+NL:019 !19  ! 3  ! Eliot-Hine Middle School (019.19.3)                                        ! 1830 Constitution Ave NE                                                   !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:020 !19  ! 1  ! MGUH DL40 - USE MGUH 055.18.1 (020.19.1)                                   ! 3800 Reservoir Rd NW                                                       !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:021 !19  ! 2  ! Obama Foundation T&M (021.19.2)                                            ! 1250 24th St NW Ste 25                                                     !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:022 !19  ! 1  ! Sports Facility @ Cooper Field (022.19.1)                                  ! 3698 O Street NW                                                           !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:023 !19  ! 3  ! MWAA Rail Yard Maint (023.19.3)                                            ! 4330 Mercure Circle                                                        !                                         !Dulles                                 !VA   !20166         !  !   !
+
+NL:024 !19  ! 3  ! NGA Work Area 9.3 (024.19.3)                                               ! 200 Constitution Ave NW                                                    !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:025 !19  ! 1  ! UMMC Epilepsy Renovation (025.19.1)                                        ! 22 South Greene Street                                                     !                                         !Baltimore                              !MD   !21201         !  !   !
+
+NL:026 !19  ! 1  ! AstraZeneca- Gov.Affairs Ofc (026.19.1)                                    ! 801 Pennsylvania Avenue NW                                                 !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:027 !19  ! 1  ! Ritz Carlton Residence (027.19.1)                                          ! 3150 South Street NW                                                       !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:028 !19  ! 1  ! Old Congress Hgts Repaint (028.19.1)                                       ! 3100 MLK JR. Blvd SE                                                       !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:029 !19  ! 1  ! Market Sq Plaza-White Bpxes (029.19.1)                                     ! 701 Pennsylvania Avenue NW                                                 !                                         !Washington                             !DC   !20004         !  !   !
+
+
+NL:030 !19  ! 1  ! JPMC Bank Rockville Pike (030.19.1)                                        ! 12097 Rockville Pike                                                       !                                         !Rockville                              !MD   !20825         !  !   !
+
+NL:031 !19  ! 1  ! JPMC P Street Bank (031.19.1)                                              ! 3217 P Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:033 !19  ! 1  ! St. Bartholomew Catholic Churc (033.19.1)                                  ! 6900 River Road                                                            !                                         !Bethesda                               !MD   !20817         !  !   !
+
+NL:034 !19  ! 1  ! VA Casework-K&B Services (034.19.1)                                        ! 709 N. Florida Street                                                      !                                         !Arlington                              !VA   !22205         !  !   !
+
+NL:035 !19  ! 1  ! JBGS Gtown Uptown (035.19.1)                                               ! 2115 Wisconsin Avenue NW                                                   !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:036 !19  ! 3  ! Ward 1 STFH (036.19.3)                                                     ! 2500 14th Street NW                                                        !                                         !Washington                             !DC   !20009         !  !   !
+
+NL:037 !19  ! 1  ! Elsie Whitlow Stokes PCS Reno (037.19.1)                                   ! 5600 East Capitol St NE                                                    !                                         !Washington                             !DC   !20019         !  !   !
+
+NL:039 !19  ! 1  ! Valero Tenant Fit-Out (039.19.1)                                           ! 801 Pennsylvania Avenue NW                                                 !Suite 901                                !Washington                             !DC   !20004         !  !   !
+
+NL:051 !19  ! 9  ! 4000 Wisconsin Mixed Use (051.19.9)                                        !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:052 !19  ! 9  ! General Dynamics 2721 Tech Dr (052.19.9)                                   !                                                                            !                                         !Annapolis                              !MD   !              !  !   !
+
+NL:053 !19  ! 9  ! Ridgecrest Apartments Reno (053.19.9)                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:054 !19  ! 9  ! Kaiser (054.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:055 !19  ! 9  ! AstraZeneca B633 Cafe' (055.19.9)                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:056 !19  ! 9  ! First Financial Fed Credit Uni (056.19.9)                                  !                                                                            !                                         !Glencoe                                !MD   !              !  !   !
+
+NL:057 !19  ! 9  ! Wegmans (057.19.9)                                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:058 !19  ! 9  ! Cyrus 1 (058.19.9)                                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:059 !19  ! 9  ! Alex. Historic Hotel 699 Princ (059.19.9)                                  !                                                                            !                                         !Alexandria                             !VA   !              !  !   !
+
+NL:060 !19  ! 9  ! UMES School of Pharmacy 09E Pa (060.19.9)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:061 !19  ! 9  ! JGBS Gtown Uptown TenantPhase2 (061.19.9)                                  !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:062 !19  ! 9  ! 1530 1st Street Apartments (062.19.9)                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:063 !19  ! 9  ! Catholic Univ CUA Leahy Hall  (063.19.9)                                   !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:064 !19  ! 9  ! DOD CGI 4th Fl Phase 2 (064.19.9)                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:065 !19  ! 9  ! Stone Ridge Student Life Cente (065.19.9)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:066 !19  ! 9  ! NZP Bobcat (066.19.9)                                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:067 !19  ! 9  ! Central MD Research Center (067.19.9)                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:068 !19  ! 9  ! Metropolitan Club Addition (068.19.9)                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:069 !19  ! 9  ! 49-53 Missouri Ave (069.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:070 !19  ! 9  ! Inn at Darden (070.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:071 !19  ! 9  ! West Elementary Project (071.19.9)                                         !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:072 !19  ! 9  ! Hungarian Embassy (072.19.9)                                               !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+
+NL:073 !19  ! 9  ! Loyola Univ Center for Innovat (073.19.9)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:074 !19  ! 9  ! Purple Line Light Rail Transit (074.19.9)                                  !                                                                            !                                         !Landover Hills                         !MD   !              !  !   !
+
+NL:075 !19  ! 9  ! UMSJMC (075.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:076 !19  ! 9  ! Morgan Stanley (076.19.9)                                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:077 !19  ! 9  ! Kalorama 1724 (077.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:078 !19  ! 9  ! 900 11th Vehicle (078.19.9)                                                !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:079 !19  ! 9  ! Helping Up Mission-Women & Chi (079.19.9)                                  !                                                                            !                                         !Baltimore                              !MD   !              !  !   !
+
+NL:080 !19  ! 9  ! Riverwatch Phase 2 (080.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:081 !19  ! 9  ! City of Manassas Fire & Rescue (081.19.9)                                  !                                                                            !                                         !Manassas                               !VA   !              !  !   !
+
+NL:082 !19  ! 9  ! Folger Shakespeare Library (082.19.9)                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:083 !19  ! 9  ! The Yards Parcel G (083.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:084 !19  ! 9  ! Carver Terrace Resilliant Floo (084.19.9)                                  !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:085 !19  ! 9  ! Park Southern Apartments (085.19.9)                                        !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:086 !19  ! 9  ! Hood College Hodson Library (086.19.9)                                     !                                                                            !                                         !Frederick                              !MD   !              !  !   !
+
+NL:087 !19  ! 9  ! 1389 18th Street (087.19.9)                                                !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:088 !19  ! 9  ! Belvoir Military Housing GMP (088.19.9)                                    !                                                                            !                                         !Fort Belvoir                           !VA   !              !  !   !
+
+NL:089 !19  ! 9  ! NIH Building 13 (089.19.9)                                                 !                                                                            !                                         !Bethesda                               !MD   !              !  !   !
+
+NL:090 !19  ! 9  ! NSF Thurmont Bldg 217 & 226 (090.19.9)                                     !                                                                            !                                         !Washington                             ! DC  !              !  !   !
+
+NL:091 !19  ! 9  ! PEPCO Harvard Substation (091.19.9)                                        !                                                                            !                                         !Bethesda                               !MD   !              !  !   !
+
+NL:092 !19  ! 9  ! Whispering Oaks Apt - 17 Units (092.19.9)                                  !                                                                            !                                         !Arlington                              !VA   !              !  !   !
+
+NL:093 !19  ! 1  ! Earth Justice (093.19.1)                                                   ! 1001 G Street NW                                                           !                                         !Washington                             !DC   !20001         !  !   !
+
+              9  ! Earthjustice Tenant Buildout (093.19.9)                                    ! 1001 G Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:094 !19  ! 9  ! Belvoir Military Housing - GMP (094.19.9)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:095 !19  ! 9  ! Hill East - Building G (095.19.9)                                          !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:096 !19  ! 9  ! 1550 Crystal Drive - Phase 2B (096.19.9)                                   ! 1550 Crystal Dr                                                            !                                         !Arlington                              !VA   !              !  !   !
+
+NL:097 !19  ! 9  ! Cross Country Elem & Middle (097.19.9)                                     ! 6100 Cross Country Blvd                                                    !                                         !Baltimore                              !MD   !              !  !   !
+
+NL:098 !19  ! 9  ! Lifebridge @ Sinai Hospital (098.19.9)                                     ! 2401 W. Belvedere Ave                                                      !                                         !Baltimore                              !MD   !              !  !   !
+
+NL:099 !19  ! 9  ! 4000 Wisconsin Ave (099.19.9)                                              ! 4000 Wisconsin Ave                                                         !                                         !Washington                             !DC   !              !  !   !
+
+NL:100 !19  ! 9  ! Mt. Sterling Sr. Housing (100.19.9)                                        !                                                                            !                                         !Sterling                               !VA   !              !  !   !
+
+NL:101 !19  ! 9  ! NIH Building 13 (101.19.9)                                                 !                                                                            !                                         !Bethesda                               !MD   !              !  !   !
+
+
+NL:102 !19  ! 9  ! The Arden Apartments (102.19.9)                                            ! Huntington Ave                                                             !                                         !Alexandria                             !VA   !              !  !   !
+
+NL:103 !19  ! 9  ! APS - Wash Liberty HS (103.19.9)                                           ! 1426 N Quincy St                                                           !                                         !Arlington                              !VA   !              !  !   !
+
+NL:104 !19  ! 9  ! NZP Bobcat (104.19.9)                                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:105 !19  ! 9  ! UMSJMC (105.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:106 !19  ! 9  ! Volkswagon Retail (106.19.9)                                               !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:107 !19  ! 1  ! Double Tree Tysons (107.19.1)                                              ! 1960 Chain Bridge Road                                                     !                                         !McLean                                 !VA   !22102         !  !   !
+
+              9  ! Doubletree Tysons (107.19.9)                                               !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:108 !19  ! 9  ! Holiday Inn - Germantown (108.19.9)                                        !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:109 !19  ! 9  ! Hampton Inn - Chantilly (109.19.9)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:110 !19  ! 9  ! 101 Constitution (110.19.9)                                                !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:111 !19  ! 9  ! Morgan Stanley (111.19.9)                                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:112 !19  ! 9  ! 1775 I Street (112.19.9)                                                   !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:113 !19  ! 9  ! Hungarian Embassy (113.19.9)                                               !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:114 !19  ! 9  ! NAVFAC (114.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:115 !19  ! 9  ! 1725 Kalorama (115.19.9)                                                   !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:116 !19  ! 9  ! 1460 Euclid (116.19.9)                                                     !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:117 !19  ! 9  ! Meridian (117.19.9)                                                        !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:118 !19  ! 9  ! WE Work 1201 Wills (118.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:119 !19  ! 9  ! Eccles (119.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:120 !19  ! 9  ! Hoffman Town Ctr West Tower (120.19.9)                                     !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:121 !19  ! 9  ! 911th Vehicle (121.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:122 !19  ! 9  ! FEMA Bldg 716 (122.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:123 !19  ! 9  ! Puller Veterans (123.19.9)                                                 !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:124 !19  ! 9  ! Residence at Kenelworth (124.19.9)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:125 !19  ! 9  ! Lourie Center (125.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:126 !19  ! 9  ! Fort Meade - Access Ctrl Ctr (126.19.9)                                    !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:127 !19  ! 9  ! NASM Udvar (127.19.9)                                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:128 !19  ! 9  ! Wink Revised (128.19.9)                                                    !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:129 !19  ! 9  ! ICPH Building A 2nd Flr (129.19.9)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:130 !19  ! 9  ! ICPH Building A 6th Fl (130.19.9)                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+
+NL:131 !19  ! 9  ! ICPH Bldg A 8th Flr (131.19.9)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:132 !19  ! 9  ! Thurgood Marshall (132.19.9)                                               !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:133 !19  ! 9  ! 1155 F. Street (133.19.9)                                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:134 !19  ! 9  ! TAKE2 (134.19.9)                                                           !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:135 !19  ! 9  ! Tysons Central Office Bldg (135.19.9)                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:136 !19  ! 9  ! Loudoun Co. Schools (136.19.9)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:137 !19  ! 9  ! Amenity & Spec Suite (137.19.9)                                            !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:138 !19  ! 9  ! WW1 Memorials (138.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:139 !19  ! 9  ! Park Center (139.19.9)                                                     !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:140 !19  ! 9  ! Park Center (140.19.9)                                                     !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:141 !19  ! 9  ! Loudoun County Vest (141.19.9)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:142 !19  ! 9  ! TSNY Parcel E (142.19.9)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:143 !19  ! 9  ! CNMC Montgomery (143.19.9)                                                 !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:144 !19  ! 9  ! TCF05 Urbana (144.19.9)                                                    !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:145 !19  ! 9  ! Capitol Region Parking (145.19.9)                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:146 !19  ! 9  ! MGUH Surgical Pavillion (146.19.9)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:147 !19  ! 9  ! CNHS Friendship (147.19.9)                                                 !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:148 !19  ! 9  ! 601 D (148.19.9)                                                           !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:149 !19  ! 9  ! Bowie State Univ (149.19.9)                                                !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:150 !19  ! 9  ! City Ridge Phase 2 (150.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:151 !19  ! 9  ! Port Covington E5A (151.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:152 !19  ! 9  ! 145 West Ostend St (152.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:153 !19  ! 9  ! 1000 South Capitol (153.19.9)                                              !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:154 !19  ! 9  ! NETCOM (154.19.9)                                                          !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:155 !19  ! 9  ! ICC (155.19.9)                                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:156 !19  ! 9  ! Capitol One Block (156.19.9)                                               !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:157 !19  ! 9  ! Gleet Maintenance DC Water (157.19.9)                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:158 !19  ! 9  ! 5th 3rd Bank (158.19.9)                                                    !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:159 !19  ! 3  ! Botanic Gardens Tropic Bridge (159.19.3)                                   ! 100 Maryland Ave SW                                                        !                                         !Washington                             !DC   !20001         !  !   !
+
+              9  ! Botanic Gardens Bridge Reno (159.19.9)                                     !                                                                            !                                         !                                       !     !              !  !   !
+
+
+NL:160 !19  ! 2  ! 1515 Wilson Blvd (160.19.2)                                                ! 1515 Wilson Blvd                                                           !                                         !Rosslyn                                !VA   !22209         !  !   !
+
+              3  ! NMAH Construction/Reno (160.19.3)                                          ! 1300 Constitution Avenue NW                                                !                                         !Washington                             !DC   !20560         !  !   !
+
+NL:161 !19  ! 9  ! Qiagen North Amer HQ (161.19.9)                                            !                                                                            !                                         !Germantown                             !MD   !              !  !   !
+
+NL:162 !19  ! 9  ! Merritt Academy Bldg 2, 3 & 9 (162.19.9)                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:163 !19  ! 9  ! Potmoac Plaza Apartments (163.19.9)                                        !                                                                            !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:164 !19  ! 9  ! Phoenix Cooperative 505 Jeff (164.19.9)                                    ! 505 Jefferson                                                              !                                         !Washington                             !DC   !              !  !   !
+
+NL:165 !19  ! 9  ! NSF - Thurmont Bldg 114 (165.19.9)                                         !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:166 !19  ! 9  ! Community 3 Modular (166.19.9)                                             !                                                                            !                                         !Washington                             !DC   !20010         !  !   !
+
+NL:167 !19  ! 9  ! PEPCO White Flint Subst. 229 (167.19.9)                                    !                                                                            !                                         !Rockville                              !ME   !              !  !   !
+
+NL:168 !19  ! 9  ! Scotts Rn Block C (168.19.9)                                               !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:169 !19  ! 9  ! Belvoir Military Housing - GMP (169.19.9)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:170 !19  ! 9  ! Richard Wright Public Charter  (170.19.9)                                  !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:171 !19  ! 9  ! 1100 Eastern Ave Multifamily (171.19.9)                                    !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:172 !19  ! 9  ! Eager Square Apartments (172.19.9)                                         !                                                                            !                                         !Baltimore                              !MD   !21205         !  !   !
+
+NL:173 !19  ! 9  ! Beacon House Square (173.19.9)                                             !                                                                            !                                         !Baltimore                              !MD   !21229         !  !   !
+
+NL:174 !19  ! 9  ! Knowles Manor Senior Living (174.19.9)                                     !                                                                            !                                         !Kensington                             !MD   !20895         !  !   !
+
+NL:175 !19  ! 9  ! Amore Apollo (175.19.9)                                                    !                                                                            !                                         !Upper Marlboro                         !MD   !20774         !  !   !
+
+NL:176 !19  ! 9  ! Amazon DDC9 Delivery Station (176.19.9)                                    !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:177 !19  ! 9  ! Spring Flats Family (177.19.9)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:178 !19  ! 9  ! 5912 14th St NW Apts (178.19.9)                                            !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:179 !19  ! 9  ! JPMC - VCU Siegel Center (179.19.9)                                        !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:180 !19  ! 9  ! MD Public TV Addition/Reno (180.19.9)                                      !                                                                            !                                         !Owings Mills                           !MD   !              !  !   !
+
+NL:181 !19  ! 9  ! Winchester Maint Facil (181.19.9)                                          !                                                                            !                                         !Winchester                             !VA   !22601         !  !   !
+
+NL:182 !19  ! 9  ! 601 D Street NW (182.19.9)                                                 !                                                                            !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:183 !19  ! 9  ! City Ridge Phase 2 GMP (183.19.9)                                          !                                                                            !                                         !Washington                             !DC   !20016         !  !   !
+
+NL:184 !19  ! 9  ! Kaiser Permanente S. NoVA Hub (184.19.9)                                   !                                                                            !                                         !Woodbridge                             !VA   !22192         !  !   !
+
+NL:185 !19  ! 1  ! Suite #810 -Panasonic (185.19.1)                                           ! 505 8th Street NW                                                          !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:186 !19  ! 1  ! Bash Gym (186.19.1)                                                        ! 700 N. Randolph Street                                                     !Suite 195                                !Arlington                              !VA   !22203         !  !   !
+
+NL:187 !19  ! 1  ! IBP Graphic (187.19.1)                                                     ! 750 First STreet NE                                                        !Suite 700                                !Washington                             !DC   !20002         !  !   !
+
+NL:188 !19  ! 1  ! Hardy MS (188.19.1)                                                        ! 1819 35th St SW                                                            !                                         !Washington                             !DC   !20007         !  !   !
+
+
+NL:189 !19  ! 1  ! Pendry Hotel Model Room (189.19.1)                                         ! 1000 Maine Avenue SW                                                       !                                         !Washington                             !DC   !              !  !   !
+
+NL:190 !19  ! 1  ! Sunrise Assisted Living (190.19.1)                                         ! 400 N. Washington Street                                                   !                                         !Alexandria                             !VA   !22314         !  !   !
+
+NL:191 !19  ! 3  ! Southland Industries-Coolidge (191.19.3)                                   ! coolidge high school                                                       !                                         !Washington                             !DC   !              !  !   !
+
+NL:192 !19  ! 3  ! AM Upgrade HVAC Sys (192.19.3)                                             ! 1901 Fort Place SE                                                         !                                         !Washington                             !DC   !20020         !  !   !

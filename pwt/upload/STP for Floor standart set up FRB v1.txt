@@ -1,0 +1,9 @@
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,  ST01      , Stair Tower 01                              ,            20.110  ,   Walls/DW Ceiling - Prime       ,      0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , ST01      , Stair Tower 01                              ,            21.120  ,   Walls - 2nd Coat Finish        ,      0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,ST01      , Stair Tower 01                             ,            21.130  ,   Walls - 3rd Coat Finish        ,      0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST01      , Stair Tower 01                         ,            50.800  ,   Stair Metal                    ,       0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    ,   , = ,   ,Common Items TouchUp hrs./Punch List  ,            80.120  ,   PWT Only/Punchlilst            ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    ,   , = ,   ,Common Items TouchUp hrs./Punch List  ,            80.110  ,   Touch up hrs./allowance  ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    ,  , = ,TKT000,Ticket work ,           95.110           , Ticket work             ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    ,  , = ,--- ,z.No Show up/No Worked , VACNOSHOW ,  z.No show up/No worked ,0
+

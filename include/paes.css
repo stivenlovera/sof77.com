@@ -1,0 +1,980 @@
+body {background-color:#FFFAE6;	text-align:center;	font:normal 11px Tahoma, Helvetica, sans-serif; margin:0;}
+img {border:none;}
+table {font:normal 11px Tahoma, Helvetica, sans-serif; margin:0;}
+h3 {
+	padding-bottom:3px;
+	margin:5px 0 10px 0;
+	color:#660000;
+	text-decoration:none;
+	font:bold 14px Arial, Helvetica, sans-serif;
+ 	border-bottom:2px dotted #D3BA98;
+}
+.boton {margin:10px 0 0 0;}
+#CABECERA, #PIE, .lab {
+	width: 760px;
+	margin:0;
+	padding:0;
+	margin-left: auto;
+	margin-right: auto;
+ 	text-align:left;
+}
+#CENTRAL, .lab {
+	background:#FFFFFF;
+	border-left:1px solid #B7BCCC; border-right:1px solid #B7BCCC;
+	width:736px; 	/* SI PONGO AQUI 736 SE VE OK EN ie6 Y ff, PERO MAL EN IE55 */
+	\width:758px;
+	w\idth:736px; /* SI PONGO AQUI 736 SE VE OK EN ie6 Y ff, PERO MAL EN IE55 */
+	padding:0px 10px 0 10px;
+	margin:0 auto 0 auto;
+}
+#CENTRAL {text-align:right}
+#otras {
+	color:#FF6600;
+	position:absolute;
+	visibility:hidden;
+ 	clear:both;
+	top:103px;
+ 	margin:0 0 0 625px;
+	width:118px;\width:120px;w\idth:118px;
+	padding:0;
+	background-color:#FFFFB6;
+ 	border:1px solid #B7BCCC;
+	border-top:none;
+ 	z-index:50}
+#otras a {
+	color:#374268;
+ 	text-decoration:none;
+ 	width:105px;\width:120px;w\idth:105px;
+ 	display:block;
+ 	padding:4px 4px 4px 8px;
+}
+#otras a:hover {
+	color:#000000;
+ 	background-color:#FFFFFF
+}
+#CABECERA {
+	padding:0;
+  height:68px; 
+  margin-top:35px; 
+	background-image: url(http://www.cic-cbba.com/images/f_cab.gif);
+	background-position: right 0px;
+	background-repeat:no-repeat;
+}
+#CABECERA ul{
+	float:right;
+ 	height:23px;
+	margin:45px 0 0 0;
+ 	list-style:none;
+ 	padding:0 15px 0 0;
+} 
+#CABECERA li{
+	height:23px;
+	float:left;
+	margin:0;
+ 	background:url(http://www.cic-cbba.com/images/f_pest_der.gif) no-repeat right top;
+}
+#CABECERA li a{	
+	text-decoration:none;
+	line-height:23px;
+	padding:5px 2px 5px 8px;
+ 	margin:0 4px 0 0;
+	color:#374268;
+ 	background:url(http://www.cic-cbba.com/images/f_pest.gif) 0 0;
+}
+#CABECERA li a:hover{
+	background-position: -400px;
+ 	color:#000000;
+}
+#fotohome{
+    CLEAR: both;
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    WIDTH: 736px;
+    PADDING-TOP: 20px;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-ALIGN: right;
+}
+#clickhome {
+    DISPLAY: block;
+    FLOAT: left;
+    MARGIN: 0px;
+    WIDTH: 340px;
+    HEIGHT: 200px
+}
+#ayuda {
+    BORDER-RIGHT: #bfbd9d 2px solid;
+    PADDING-RIGHT: 10px;
+    BORDER-TOP: #bfbd9d 2px solid;
+    PADDING-LEFT: 10px;
+    FLOAT: left;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 10px 0px 0px 15px;
+    BORDER-LEFT: #bfbd9d 2px solid;
+    WIDTH: 284px;
+    PADDING-TOP: 10px;
+    BORDER-BOTTOM: #bfbd9d 2px solid;
+    BACKGROUND-COLOR: #fbf6e0;
+    TEXT-ALIGN: left;
+    -moz-border-radius: 8px
+}
+#ayuda H1 {
+    PADDING-RIGHT: 2px;
+    PADDING-LEFT: 2px;
+    PADDING-BOTTOM: 2px;
+    MARGIN: 0px;
+    FONT: bold 11px Tahoma, Helvetica, sans-serif;
+    COLOR: #ffffff;
+    PADDING-TOP: 2px;
+    BACKGROUND-COLOR: #ff6600
+}
+#ayuda H1 A {
+    COLOR: #ffffff
+}
+#BUSCADOR {
+    PADDING-RIGHT: 14px;
+    PADDING-LEFT: 0px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/fbus.gif) no-repeat 0px 0px;
+    FLOAT: right;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 14px;
+    TEXT-ALIGN: left
+}
+#BUSCADOR FORM {
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    FONT: bold 13px Arial, Helvetica, sans-serif;
+    COLOR: #660000;
+    PADDING-TOP: 0px
+}
+#BUSCADOR FIELDSET {
+    BORDER-TOP: medium none;
+    BORDER-RIGHT: medium none;
+    PADDING-RIGHT: 6px;
+    PADDING-LEFT: 0px;
+    FLOAT: left;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: medium none;
+    PADDING-TOP: 8px;
+    BORDER-BOTTOM: medium none;
+    WHITE-SPACE: nowrap
+}
+.notas {FONT: 10px Tahoma, Helveticam sans-serif; COLOR: #805920}
+#BUSCADOR .lista {
+    FLOAT: right;
+    FONT: 10px Tahoma, Helvetica, sans-serif;
+    COLOR: #666633
+}
+#BUSCADOR INPUT {
+    CLEAR: both;
+    BORDER-RIGHT: #6e7eb2 1px solid;
+    PADDING-RIGHT: 1px;
+    BORDER-TOP: #6e7eb2 1px solid;
+    DISPLAY: block;
+    PADDING-LEFT: 1px;
+    FONT-SIZE: 11px;
+    PADDING-BOTTOM: 1px;
+    MARGIN: 1px 0px 0px;
+    BORDER-LEFT: #6e7eb2 1px solid;
+    PADDING-TOP: 1px;
+    BORDER-BOTTOM: #6e7eb2 1px solid
+}
+#BUSCADOR SELECT {
+    CLEAR: both;
+    BORDER-RIGHT: #6e7eb2 1px solid;
+    PADDING-RIGHT: 1px;
+    BORDER-TOP: #6e7eb2 1px solid;
+    DISPLAY: block;
+    PADDING-LEFT: 1px;
+    FONT-SIZE: 11px;
+    PADDING-BOTTOM: 1px;
+    MARGIN: 1px 0px 0px;
+    BORDER-LEFT: #6e7eb2 1px solid;
+    PADDING-TOP: 1px;
+    BORDER-BOTTOM: #6e7eb2 1px solid
+}
+#BUSCADOR .final {
+    CLEAR: both;
+    PADDING-BOTTOM: 8px;
+    MARGIN: 0px;
+    FONT: 11px Tahoma, Helvetica, sans-serif;
+    WIDTH: 320px;
+    COLOR: #ff6600;
+		float: left;
+}
+#BUSCADOR A {COLOR: blue}
+#BUSCADOR .final A {FLOAT: none}
+#BUSCADOR .tit {MARGIN: 5px 0px; COLOR: #000000}
+.png {BEHAVIOR: url(../pngbehavior.htc)}
+/*.png {behavior: url(../pngbehavior.htcc");}*/
+#BUSCADOR INPUT.b90 {
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    MARGIN-TOP: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b90.gif) no-repeat center 0px;
+    FONT: bold 13px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 90px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 27px
+}
+INPUT.b90 {
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    MARGIN-TOP: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b90.gif) no-repeat center 0px;
+    FONT: bold 13px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 90px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 27px
+}
+#BUSCADOR INPUT.b90:hover {BACKGROUND-POSITION: center -27px}
+INPUT.b90:hover{BACKGROUND-POSITION: center -27px}
+#BUSCADOR INPUT.b78{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    MARGIN-TOP: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b78.gif) no-repeat center 0px;
+    FONT: bold 13px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 78px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 27px
+}
+INPUT.b78{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    MARGIN-TOP: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b78.gif) no-repeat center 0px;
+    FONT: bold 13px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 78px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 27px
+}
+#BUSCADOR INPUT.b78:hover{ BACKGROUND-POSITION: center -27px}
+INPUT.b78:hover {BACKGROUND-POSITION: center -27px}
+#BUSCADOR .b92 {
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b92.gif) no-repeat center 50%;
+    FONT: bold 11px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 96px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #000000;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 25px
+}
+#capa .b92 {
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b92.gif) no-repeat center 50%;
+    FONT: bold 11px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 96px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #000000;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 25px
+}
+.b92 {
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BACKGROUND: url(http://www.cic-cbba.com/images/b92.gif) no-repeat center 50%;
+    FONT: bold 11px Arial, Helvetica, Sans-serif;
+    BORDER-LEFT: medium none;
+    WIDTH: 96px;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #000000;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 25px
+}
+#BUSCADOR input.b120, input.b120 {
+	cursor:hand;margin-top:8px;
+	color:#FFFFFF;
+	font:bold 13px Arial, Helvetica, Sans-serif;
+	border:none;
+	width:120px;
+	height:27px;
+	display:auto;
+	background: url(http://www.cic-cbba.com/images/b120.gif) center 0 no-repeat
+}
+#PPAL {
+	float:left;
+	text-align:left;
+	width:556px;
+	margin:0;
+	padding:0;
+}
+.marcoresul{
+    PADDING-RIGHT: 10px;
+    PADDING-LEFT: 10px;
+		PADDING-BOTTOM: 0px;
+    BACKGROUND: #fefcf3;
+		padding-top:10px;    
+    BORDER-LEFT: #aaafc4 1px solid;
+    BORDER-RIGHT: #aaafc4 1px solid;
+		display:block; 
+		clear:both; 
+		width:463px; \width:463px; \width:463px;
+}
+#PPAL table {text-align:left}
+#PPAL table strong{color:#000000} 
+#PPAL table b{color:#FF6600;font-weight:normal} 
+#PPAL table select, #PPAL table input {
+    BORDER-RIGHT: #999966 1px solid;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: #999966 1px solid;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 2px 0px 0px;
+    BORDER-LEFT: #999966 1px solid;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: #999966 1px solid
+}
+#ruta {
+    CLEAR: both;
+    DISPLAY: block;
+    WIDTH: 738px;
+    PADDING-TOP: 7px;
+    HEIGHT: 32px;
+    TEXT-ALIGN: left
+}
+#ruta A {COLOR: blue}
+#ruta STRONG{
+    FONT-WEIGHT: normal;
+    COLOR: #ff6600
+}
+#ruta UL{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FLOAT: left;
+    LIST-STYLE-IMAGE: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    LIST-STYLE-TYPE: none
+}
+#ruta UL LI{
+    PADDING-LEFT: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/fle.gif) no-repeat 0px 0px;
+    FLOAT: left;
+    MARGIN-RIGHT: 8px
+}
+#ruta UL:unknown{ BACKGROUND-IMAGE: none}
+#DER{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FLOAT: right;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    WIDTH: 170px;
+    PADDING-TOP: 0px;
+    TEXT-ALIGN: left
+}
+#DER A{ COLOR: blue}
+#DER B{ COLOR: #000000}
+#DER FORM{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 0px;
+    WIDTH: 170px;
+    PADDING-TOP: 0px
+}
+#DER INPUT{
+    BORDER-RIGHT: #666699 1px solid;
+    BORDER-TOP: #666699 1px solid;
+    MARGIN: 4px 5px 4px 0px;
+    FONT: 11px Tahoma, Helvetica, sans-serif;
+    BORDER-LEFT: #666699 1px solid;
+    WIDTH: 150px;
+    COLOR: #333333;
+    BORDER-BOTTOM: #666699 1px solid
+}
+#DER SELECT{
+    BORDER-RIGHT: #666699 1px solid;
+    BORDER-TOP: #666699 1px solid;
+    MARGIN: 4px 5px 4px 0px;
+    FONT: 11px Tahoma, Helvetica, sans-serif;
+    BORDER-LEFT: #666699 1px solid;
+    WIDTH: 150px;
+    COLOR: #333333;
+    BORDER-BOTTOM: #666699 1px solid
+}
+#DER SELECT OPTION:hover{ BACKGROUND-COLOR: #ffff99}
+.selec{
+    BORDER-RIGHT: #ffcc00 2px solid;
+    PADDING-RIGHT: 3px;
+    BORDER-TOP: #ffcc00 2px solid;
+    PADDING-LEFT: 3px;
+    PADDING-BOTTOM: 3px;
+    OVERFLOW: auto;
+    BORDER-LEFT: #ffcc00 2px solid;
+    WIDTH: 140px;
+    COLOR: #666666;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: #ffcc00 2px solid;
+    HEIGHT: 75px;
+    BACKGROUND-COLOR: #ffffff
+}
+.selec A{ DISPLAY: block}
+.selec A:hover { BACKGROUND-COLOR: #ffffcc}
+.selec A .numero { COLOR: #999999; TEXT-DECORATION: none}
+.minus OPTION{ TEXT-TRANSFORM: lowercase}
+.refinado {color:#660000;background: #FFDF5E url(http://www.cic-cbba.com/images/f_field_inf.gif) bottom left no-repeat; }
+.refinado fieldset {width:160px; \width:170px; w\idth:160px;border:none; margin:0; padding: 5px 0 2px 10px;background: url(http://www.cic-cbba.com/images/f_field.gif) top left no-repeat;}
+.refinado p {margin:10px 0 0 -5px; padding:0 0 0 15px; background:url(http://www.cic-cbba.com/images/lupita.gif) top left no-repeat;}
+#DER .refinado input.blupa {cursor:hand;padding:0;margin-left:128px;font:bold 13px Arial, Helvetica, Sans-serif;width:27px;height:26px;background: url(http://www.cic-cbba.com/images/b_go.gif) center 0 no-repeat;border:none}
+#DER .refinado input.blupa:hover {background-position: center -27px}
+.rightlocal{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/f_local.gif) #ffdf5e no-repeat left top;
+    PADDING-BOTTOM: 5px;
+    MARGIN: 10px 0px;
+    WIDTH: 130px;
+    PADDING-TOP: 10px;
+    TEXT-ALIGN: center
+}
+#prepie {FONT: 10px Tahoma, Helvetica, sans-serif; COLOR: #ff6600}
+#prepie A {COLOR: #374268}
+#prepie A:hover{COLOR: #cc0000}
+#prepie IMG{VERTICAL-ALIGN: middle}
+#PIE{
+		CLEAR: both;
+    PADDING-RIGHT: 10px;
+    PADDING-LEFT: 10px;
+    FONT-SIZE: 10px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/f_pie.gif) no-repeat;
+    PADDING-BOTTOM: 0px;
+    width:740px;\width:760px;w\idth:740px;
+    COLOR: #996600;
+    PADDING-TOP: 15px;
+    TEXT-ALIGN: center
+}
+#PIE A {COLOR: #374268}
+.promo {
+    BORDER-RIGHT: #ffefae 1px solid;
+    PADDING-RIGHT: 10px;
+    BORDER-TOP: #ffefae 1px solid;
+    MARGIN-TOP: 10px;
+    PADDING-LEFT: 10px;
+    PADDING-BOTTOM: 6px;
+    BORDER-LEFT: #ffefae 1px solid;
+    COLOR: #4e4e4e;
+    PADDING-TOP: 6px;
+    BORDER-BOTTOM: #ffefae 1px solid;
+    BACKGROUND-COLOR: #ffffff
+}
+.resul{
+    CLEAR: left;
+    PADDING-RIGHT: 0px;
+    BACKGROUND-POSITION: 0px bottom;
+    PADDING-LEFT: 0px;
+    BACKGROUND-IMAGE: url(http://www.cic-cbba.com/images/f_resul.gif);
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 5px;
+    BACKGROUND-REPEAT: no-repeat
+}
+
+#TOP,#TOP1,#TOP2,#TOP3 { BACKGROUND: url(http://www.cic-cbba.com/images/f_123.gif) no-repeat left top}
+#TOPPROV, #TOPPROV1, #TOPPROV2, #TOPPROV3, #TOPPROV4 { BACKGROUND: url(http://www.cic-cbba.com/images/f_34.gif) no-repeat left top}
+.anunciante IMG { VERTICAL-ALIGN: middle}
+#TOP1 .anunciante, #TOP2 .anunciante, #TOP3 .anunciante{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 34px;
+    PADDING-BOTTOM: 0px;
+    VERTICAL-ALIGN: baseline;
+    LINE-HEIGHT: 25px;
+    PADDING-TOP: 0px;
+    HEIGHT: 25px;
+	margin-left:-10px;
+}
+#TOPPROV1 .anunciante, #TOPPROV2 .anunciante, #TOPPROV3 .anunciante, #TOPPROV4 .anunciante {
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 34px;
+    PADDING-BOTTOM: 0px;
+    VERTICAL-ALIGN: baseline;
+    LINE-HEIGHT: 25px;
+    PADDING-TOP: 0px;
+    HEIGHT: 25px;
+	margin-left:-10px;
+}
+#TOP1 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/1.gif) no-repeat}
+#TOP2 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/2.gif) no-repeat}
+#TOP3 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/3.gif) no-repeat}
+#TOPPROV1 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/1.gif) no-repeat}
+#TOPPROV2 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/2.gif) no-repeat}
+#TOPPROV3 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/3.gif) no-repeat}
+#TOPPROV4 .anunciante{BACKGROUND: url(http://www.cic-cbba.com/images/4.gif) no-repeat}
+.resul A {TEXT-DECORATION: none}
+.resul A:hover {COLOR: #ff6600}
+.anunciante{
+	padding-right: 10px;
+    PADDING-LEFT: 12px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 5px;
+    FONT: bold 11px Verdana, Helvetica, sans-serif;
+    cursor: hand;
+    cursor: pointer;
+    COLOR: #3300cc;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: underline
+}
+#IP .anunciante {COLOR: #333333}
+#IG .anunciante {COLOR: #333333}
+.resul .logo{
+    BORDER-RIGHT: #dfdece 1px solid;
+    PADDING-RIGHT: 8px;
+    BORDER-TOP: #dfdece 1px solid;
+    PADDING-LEFT: 8px;
+    FLOAT: right;
+    PADDING-BOTTOM: 8px;
+    MARGIN: 5px 2px;
+    BORDER-LEFT: #dfdece 1px solid;
+    WIDTH: 118px;
+    PADDING-TOP: 8px;
+    BORDER-BOTTOM: #dfdece 1px solid;
+    BACKGROUND-COLOR: #fff
+}
+.tel{
+    VISIBILITY: hidden;
+    POSITION: absolute
+}
+.txt{
+    MARGIN: 4px 0px 0px;
+    FONT: 12px Arial, Helvetica, sans-serif;
+    COLOR: #000
+}
+.resul .txt{
+    MARGIN: 4px 0px 0px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    COLOR: #333
+}
+#TOP .txt, #TOP1 .txt, #TOP1 .txt,#TOP1 .txt,#TOP3 .txt {font:normal 11px Tahoma, Arial;color:#333;}
+#TOPPROV .txt, #TOPPROV1 .txt, #TOPPROV2 .txt, #TOPPROV3 .txt, #TOPPROV4 .txt {font:normal 11px Tahoma, Arial;color:#333;}
+#TOP A:hover P.txt, #TOP1 A:hover P.txt, #TOP2 A:hover P.txt, #TOP3 A:hover P.txt {COLOR: #ff6600}
+#TOPPROV A:hover P.txt, #TOPPROV1 A:hover P.txt, #TOPPROV2 A:hover P.txt, #TOPPROV3 A:hover P.txt, #TOPPROV4 A:hover P.txt {COLOR: #ff6600}
+UL.txt LI{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 12px;
+    FONT-SIZE: 11px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/fle.gif) no-repeat 0px 0px;
+    PADDING-BOTTOM: 2px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+UL.txt LI B{FONT-WEIGHT: normal; COLOR: #660000}
+.resul .txt{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 12px;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px
+}
+#IP A:hover .anunciante{COLOR: #ff6600}
+#IG A:hover .anunciante{COLOR: #ff6600}
+.resul A:hover .anunciante{COLOR: #ff6600}
+.resul A:hover .txt{COLOR: #ff6600}
+.resul A:hover .dir{COLOR: #ff6600}
+.resul A:hover .web{COLOR: #ff6600}
+.web{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 12px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 3px 0px 0px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    COLOR: #388704;
+    PADDING-TOP: 0px
+}
+.dir{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 12px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 6px 0px 0px;
+    FONT: 11px Arial, Helvetica, sans-serif;
+    COLOR: #666666;
+    PADDING-TOP: 0px
+}
+.func{
+    CLEAR: left;
+    PADDING-RIGHT: 10px;
+    DISPLAY: block;
+    PADDING-LEFT: 12px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 3px 0px 8px;
+    COLOR: #ff6600;
+    LINE-HEIGHT: 17px;
+    PADDING-TOP: 0px
+}
+.func A{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 4px;
+    COLOR: #404e7b;
+    PADDING-TOP: 4px;
+    TEXT-DECORATION: underline
+}
+.func a.sms{background:none; padding:4px 0 4px 0;} 
+.func a:hover.sms {background:none;}
+
+.ESTADILLO strong{color:#660000;}
+.ESTADILLO {float:left;width:463px; \width:463px; \width:463px; height:26px;margin:0;padding:0px 10px 0 10px; line-height:26px;background:url(http://www.cic-cbba.com/images/f_estadillo_sup.gif) top no-repeat;}
+#inf{padding:18px 10px 2px 10px; margin-bottom:5px;background:url(http://www.cic-cbba.com/images/f_estadillo_inf.gif) top no-repeat;}
+#sup{padding:0px 10px 18px 10px; background:url(http://www.cic-cbba.com/images/f_estadillo_sup.gif) top no-repeat;}
+#sup2{padding:0px 10px 18px 10px; background:url(http://www.cic-cbba.com/images/f_estadillo_sup_ubic.gif) top no-repeat;	line-height:16px; height:37px;}
+.estad{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FLOAT: right;
+    LIST-STYLE-IMAGE: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    LIST-STYLE-TYPE: none
+}
+.estad LI{
+    FLOAT: left;
+    MARGIN-LEFT: 2px;
+    WIDTH: 68px;
+    HEIGHT: 26px
+}
+.estad LI A STRONG{COLOR: #ff6600}
+.estad LI A
+{
+    DISPLAY: block;
+    BACKGROUND-IMAGE: url(http://www.cic-cbba.com/images/fb_estadillo.gif);
+    COLOR: #000;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none
+}
+.estad LI A:hover{BACKGROUND-POSITION: 0px -26px}
+.prelista
+{
+    BORDER-RIGHT: #ff6600 1px solid;
+    PADDING-RIGHT: 5px;
+    BORDER-TOP: #ff6600 1px solid;
+    DISPLAY: block;
+    PADDING-LEFT: 5px;
+    PADDING-BOTTOM: 5px;
+    MARGIN: 2px 0px 8px;
+    FONT: 12px Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #ff6600 1px solid;
+    PADDING-TOP: 5px;
+    BORDER-BOTTOM: #ff6600 1px solid;
+    BACKGROUND-COLOR: #FBF6E0;
+    TEXT-ALIGN: center
+}
+TD.prelista{MARGIN: 0px;WIDTH: 100%}
+.prelista STRONG{FONT: bold 13px Arial, Helvetica, sans-serif;COLOR: #660000}
+.prelista A:visited {COLOR: blue}
+DIV.ambito{
+    BORDER-RIGHT: #aaafc4 1px solid;
+    PADDING-RIGHT: 3px;
+    BORDER-TOP: #aaafc4 1px solid;
+    PADDING-LEFT: 3px;
+    PADDING-BOTTOM: 3px;
+    MARGIN: 0px;
+    BORDER-LEFT: #aaafc4 1px solid;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: #aaafc4 1px solid;
+    HEIGHT: 112px;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-ALIGN: center;
+    -moz-border-radius: 8px
+}
+.ambito SELECT{
+    FONT-SIZE: 11px;
+    BACKGROUND: #ffffcc;
+    WIDTH: 170px
+}
+.ambito FIELDSET {MARGIN: 0px 0px 5px}
+.abc{
+    CLEAR: both;
+    BACKGROUND: url(http://www.cic-cbba.com/images/f_736.gif) no-repeat 0px 38px;
+    TEXT-ALIGN: center
+}
+.abc UL{
+    CLEAR: both;
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    LIST-STYLE-IMAGE: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 0px 20px;
+    PADDING-TOP: 0px;
+    LIST-STYLE-TYPE: none;
+    HEIGHT: 46px
+}
+.abc UL LI {FLOAT: left}
+.abc UL LI A{
+    DISPLAY: block;
+    FONT-WEIGHT: bold;
+    BACKGROUND: url(http://www.cic-cbba.com/images/abc.gif) no-repeat 0px 0px;
+    WIDTH: 26px;
+    COLOR: #333333;
+    LINE-HEIGHT: 20px;
+    HEIGHT: 35px;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none
+}
+.abc ulli A.activo{
+    BACKGROUND: url(http://www.cic-cbba.com/images/abc_on.gif) no-repeat 0px 0px;
+    COLOR: #660000
+}
+.abc LI A:hover{
+    BACKGROUND: url(http://www.cic-cbba.com/images/abc_on.gif) no-repeat 0px 0px;
+    COLOR: #660000
+}
+#SINFOTO{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/f_736.gif) no-repeat 0px 0px;
+    PADDING-BOTTOM: 0px;
+    WIDTH: 736px;
+    PADDING-TOP: 15px
+}
+#TOTAL{
+		BORDER-RIGHT: #aaafc4 1px solid;
+    PADDING-RIGHT: 10px;
+    PADDING-LEFT: 10px;
+    BACKGROUND: #fefcf3;
+    PADDING-BOTTOM: 10px;
+    BORDER-LEFT: #aaafc4 1px solid;
+    width:714px;\width:736px;w\idth:714px;
+    PADDING-TOP: 10px;
+    TEXT-ALIGN: center;
+}
+#TOTAL A {COLOR: blue}
+#TOTAL STRONG {COLOR: #660000}
+#TOTAL SELECT {FONT: 10px Tahoma, Arial, sans-serif}
+#alfa {TEXT-ALIGN: left}
+#alfa TD{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 10px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/fle.gif) no-repeat 0px 8px;
+    PADDING-BOTTOM: 7px;
+    VERTICAL-ALIGN: top;
+    PADDING-TOP: 7px
+}
+#alfa TD:hover {BACKGROUND: #ffffff}
+#alfa A {FONT: 12px Arial, Helvetica, sans-serif}
+#alfa A:hover{BACKGROUND: #ffffff; COLOR: #cc0000}
+#X11 IMG{
+    FLOAT: right;
+    MARGIN-LEFT: 10px;
+    BORDER-LEFT: #aaafc4 1px solid
+}
+#X11 A{
+    BORDER-RIGHT: #aaafc4 1px solid;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: #aaafc4 1px solid;
+    DISPLAY: block;
+    PADDING-LEFT: 10px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 10px;
+    FONT: 11px Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #aaafc4 1px solid;
+    WIDTH: 544px;
+    COLOR: #000;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: #aaafc4 1px solid;
+    HEIGHT: 64px;
+    BACKGROUND-COLOR: #ffffcc;
+    TEXT-DECORATION: none
+}
+#X11 .tit{
+    MARGIN: 4px 0px 2px;
+    FONT: bold 11px Verdana, Helvetica, sans-serif;
+    COLOR: #3300cc;
+    TEXT-DECORATION: underline
+}
+#X11 .url{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    COLOR: #388704;
+    PADDING-TOP: 0px
+}
+#X11 A:hover {COLOR: #ff6600}
+#X11 A:hover .tit {COLOR: #ff6600}
+#X11 A:hover .url {COLOR: #ff6600}
+#X11Local IMG{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FLOAT: right;
+    PADDING-BOTTOM: 0px;
+    MARGIN-LEFT: 10px;
+    BORDER-LEFT: #ffdf5e 5px solid;
+    PADDING-TOP: 0px;
+    BACKGROUND-COLOR: #ffffff
+}
+#X11Local A{
+    BORDER-RIGHT: #ffdf5e 5px solid;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    DISPLAY: block;
+    PADDING-LEFT: 8px;
+    BACKGROUND: url(http://www.cic-cbba.com/images/f_local.gif) #ffffcc no-repeat 0px 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 10px;
+    FONT: 11px Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #ffdf5e 5px solid;
+    WIDTH: 513px;
+    COLOR: #000;
+    PADDING-TOP: 10px;
+    BORDER-BOTTOM: #ffdf5e 5px solid;
+    HEIGHT: 64px;
+    TEXT-DECORATION: none
+}
+#X11Local .tit{
+    MARGIN: 0px 0px 2px;
+    FONT: bold 11px Verdana, Helvetica, sans-serif;
+    COLOR: #3300cc;
+    PADDING-TOP: 5px;
+    TEXT-DECORATION: underline
+}
+#X11Local .url{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    COLOR: #388704;
+    PADDING-TOP: 0px
+}
+#X11Local A:hover {COLOR: #ff6600}
+#X11Local A:hover .tit {COLOR: #ff6600}
+#X11Local A:hover .url {COLOR: #ff6600}
+#BANNERTOP{
+    LEFT: 50%;
+    MARGIN-LEFT: -105px;
+    WIDTH: 468px;
+    POSITION: absolute;
+    TOP: 10px
+}
+#NOPOP{
+    LEFT: 20px;
+    VISIBILITY: hidden;
+    WIDTH: 250px;
+    POSITION: absolute;
+    TOP: 10px
+}
+.txtbus{
+    FONT: bold 11px Tahoma, sans-serif;
+    COLOR: #660000
+}
+.lab {TEXT-ALIGN: left}
+.col {FLOAT: left}
+.col UL{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 15px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 5px 0px 0px 5px;
+    PADDING-TOP: 0px
+}
+.col FIELDSET{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+.col FORM STRONG {COLOR: #18214f}
+.labprod STRONG {COLOR: #18214f}
+.col FORM INPUT{
+    BORDER-RIGHT: #b7bccc 1px solid;
+    BORDER-TOP: #b7bccc 1px solid;
+    MARGIN: 2px 0px 5px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #b7bccc 1px solid;
+    BORDER-BOTTOM: #b7bccc 1px solid;
+    BACKGROUND-COLOR: #fefcf3
+}
+.col FORM TEXTAREA{
+    BORDER-RIGHT: #b7bccc 1px solid;
+    BORDER-TOP: #b7bccc 1px solid;
+    MARGIN: 2px 0px 5px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #b7bccc 1px solid;
+    BORDER-BOTTOM: #b7bccc 1px solid;
+    BACKGROUND-COLOR: #fefcf3
+}
+.col FORM SELECT{
+    BORDER-RIGHT: #b7bccc 1px solid;
+    BORDER-TOP: #b7bccc 1px solid;
+    MARGIN: 2px 0px 5px;
+    FONT: 11px Tahoma, Arial, Helvetica, sans-serif;
+    BORDER-LEFT: #b7bccc 1px solid;
+    BORDER-BOTTOM: #b7bccc 1px solid;
+    BACKGROUND-COLOR: #fefcf3
+}
+.labprod{
+    CLEAR: both;
+    BORDER-RIGHT: #b7bccc 2px solid;
+    PADDING-RIGHT: 10px;
+    BORDER-TOP: #b7bccc 2px solid;
+    PADDING-LEFT: 10px;
+    PADDING-BOTTOM: 2px;
+    BORDER-LEFT: #b7bccc 2px solid;
+    COLOR: #4e4e4e;
+    LINE-HEIGHT: 22px;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: #b7bccc 2px solid;
+    BACKGROUND-COLOR: #f7f7f4;
+    -moz-border-radius: 8px
+}
+.labprod A{COLOR: blue}
+#ABREPOS {height:0px; display:block; font-size:2px;}
+#CIERREPOS {background:url(http://www.cic-cbba.com/images/f_func123.gif) bottom no-repeat; height:19px; display:block; clear:both;}
+#CIERREPOS34 {background:url(http://www.cic-cbba.com/images/f_func34.gif) bottom no-repeat; height:19px; display:block; clear:both;}
+.push1 { width:130px; height:38px; background:url(http://www.cic-cbba.com/images/push1.gif) no-repeat; margin:1px 0 -2px 10px; display:block;}
+#LOGOS {float:right; width:136px; text-align:center; display:block; margin:7px 3px 5px 0;}
+#LOGOS .logo {border:1px solid #DFDECE; background-color:#fff;}
+#LOGOS .llama {margin-bottom:8px;border-bottom:1px solid #DFDECE;}
+#ANUNCIO {float:left; margin:10px 0 0 0; width:300px; font:normal 11px Tahoma, Arial; padding-left:10px; display:block; /*background-color:#FCF5E1;*/}
+#ANUNCIO a { text-decoration:none;}
+#ANUNCIO a:hover { color:#F60;}
+#ANUNCIO a:hover .anunciante, #ANUNCIO a:hover .txt, #ANUNCIO a:hover .dir, #ANUNCIO a:hover .web{color:#FF6600}
+#ANUNCIO .func a { text-decoration:underline;}
+#ANUNCIO .txt {font:normal 11px Tahoma, Arial; color:#333;}
+#ANUNCIO a:hover .ig {color:#F60;}
+#CIERREANUNCIO {background:url(http://www.cic-cbba.com/images/f_resul.gif) bottom no-repeat; height:5px; /*display:block;*/ clear:both; font-size:4px;}
+.ig {color:#000;}
+.anunciante, .web, .dir, .func {padding:0px}
+#dhtmltooltip{position: absolute;width: 100px;border: 1px solid #999;padding: 2px;background-color: #600;visibility: hidden;z-index: 100; text-align:center; font: normal 11px Arial; color:lightyellow;} 
+.BUSCA {float:left;width:536px; \width:556px; w\idth:536px; height:126px;margin:0;padding:0px 10px 0 10px; line-height:26px;background:url(http://www.cic-cbba.com/images/f_busca_inf.gif) top no-repeat; margin-top:10px}
+.BUSCA form {margin:0; padding:0;font:bold 13px Arial, Helvetica, sans-serif;color:#660000;}
+.BUSCA .final { text-align:right; margin-right:110px; color:blue;}
+.seo {clear:both; width:740px; margin:10px 0;overflow:hidden;text-align:left; list-style-image:none; margin:0; padding:0;}
+.seo li {float:left; width:160px; margin:0 0 0 20px; padding:4px 0;text-align:left; list-style-type:none ;}
+.seo li a:first-letter {text-transform:uppercase; }
+.necesitas{MARGIN: 5px 0px 10px 10px;FONT: bold 14px Arial, Helvetica, sans-serif}
+.necesitas A{COLOR: #00f}
+#REFINADO {width:148px; height:60px; overflow-y:scroll; border-top:1px solid #DDC151; border-left:1px solid #DDC151; border-right:1px solid #FFF2BC; border-bottom:1px solid #FFF2BC; margin:5px 0px; background:#FFF;}
+#REFINADO .clip {margin-left:3px; width:125px;overflow:hidden;}
+#REFINADO .content { text-align:left; white-space:nowrap;}
+#REFINADO ul {margin:0px; padding:0px; list-style:none;}
+#REFINADO li {margin:0px 0px 2px 0px; padding:0px;}
+#REFINADO li a {color:#333; text-decoration:none;}
+#REFINADO li a:hover { background-color:#FF9;}

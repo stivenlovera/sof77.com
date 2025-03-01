@@ -1,0 +1,84 @@
+
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 1             !Benjamin Moore Product Data                                                                          ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 2             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec ES                                                        ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 3             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec Flat                                                      ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 4             !PT-01 BM OC-122 Cotton Balls BM Ultra Spec SG                                                        ! Approved             !
+
+NL: 001 ! 21 ! 1 !Hotung 3rd Fl, GU Law Center (001.21.1)                            !600 New Jersey Ave, NW         !                          ! Washington                    !DC   ! 20001      ! 5             !PT-03 BM AC26 Ozark Shadows BM Ultra Spec ES                                                         ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 1             !Sherwin Williams Product Data                                                                        ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 2             !PT-01 SW 7004 Snowbound/SW Promar 200 ES                                                             ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 3             !PT-02 SW 7647 Crushed Ice SW Promar 200 ES                                                           ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 4             !PT-03 SW9639 RainCloud/SW Promar 200 ES                                                              ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 1             !WC 01 Castine/Clair GOH 13787546- Wolf Gordon Product Data                                           ! Approved             !
+
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 2             !WC-01 GOH 13787546 Castine Limestone (CST 9044) SAMPLE Wolf Gordon - Corridor                        ! Approved             !
+
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 3             !WC-02 - Obana Glint- National WC- Product Data                                                       ! Approved             !
+
+NL: 007 ! 21 ! 1 !20 Mass Ave Model Rooms (007.21.1)                                 !20 Massachusetts Ave NW        !                          ! Washington                    !DC   ! 20001      ! 4             !WC-02 CD2-OBG-45 Obana Glint Black Mica- National WC- SAMPLE                                         ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !Sherwin Williams Interior Painting - Product Data                                                    ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !National Solutions- Wallcovering Product Data -Digital Carta II                                      ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 1             !SC01-Euclid Chemical Co - Concrete Floor Sealer-Clear - Product Data                                 ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 2             !EPT01 SW 7013 Ivory Lace- SW Pro Industrial WB Epoxy Gloss                                           ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 3             !IPT01 SW 7013 Ivory Lace SW Promar 200 HP ES                                                         ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 5             !IPT02 SW 7031 Mega Greige SW Promar 200 HP ES                                                        ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 6             !IPT03 SW6355 True Penny SW Promar 200 HP ES                                                          ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 7             !IPT05 SW 7031 Mega Greige SW Pro Industrial DTM Acrylic SG                                           ! Approved             !
+
+NL: 008 ! 21 ! 1 !Kaiser Friendship Heights (008.21.1)                               !5310 Western Ave               !1st Floor                 ! Chevy Chase                   !MD   ! 20815      ! 8             !IPT06 SW 7007 Ceiling Bright White SW Promar 200 Flat                                                ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved as noted    !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 1             !VESCOM Product Data - WC01, 02, HAUKI                                                                ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 2             !VESCOM - Color Choice 1036 + Print- Product Data- WC03/WC06/WC07/WC08/WC09/WC11                      ! Approved             !
+
+NL: 010 ! 21 ! 1 !CitizenM NoMa (010.21.1)                                           !1222 First Street NE           !                          ! Washington                    !DC   ! 20002      ! 3             !VESCOM Color Choice 1056.077 Product Data/WC05                                                       ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 2             !PT-01 BM 856 Silver Satin/PPG Speedhide Flat- typicall ceilings                                      ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 3             !PT-02 BM 858 Athena/PPG Speedhide Flat- walls                                                        ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 4             !PT-03 BM CC-20 Decorator White/PPGSpeedhide SG-doors and skirting                                    ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 5             !PT-04  BM 856 Silver Satin/PPG Speedhide ES- bathroom ceilings                                       ! Approved             !
+
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 6             !BM 858 Athena/PPG Speedhide-ES - bathroom walls                                                      ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 7             !7075 Web Gray PPG Speedhide Flat- Plan Wall                                                          ! Approved as noted    !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 8             !SW 7102 White Flour- PPG SH Flat                                                                     ! Approved as noted    !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !Division 099600 HP Coating - SW Product DATA                                                         ! Approved             !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !Division 099723 Concrete Coatings- NeoGard  Product Data-EW Rms 080, 081, 085                        ! Approved as noted    !
+
+NL: 002 ! 21 ! 1 !Museum Place (002.21.1)                                            !65 I Street SW                 !                          ! Washington                    !DC   ! 20024      ! 1             !BASF- Kure N Harden- Concrete Sealer (clear) Product Data                                            ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 9             !Ceiling Bright White/ PPG SH Flat- Ceilings                                                          ! Approved             !
+
+NL: 011 ! 21 ! 1 !Wharf Parcel 9 Sales Center (011.21.1)                             !760 Maine Ave, SW              !                          ! Washington                    !DC   ! 20024      ! 10            !PPG 1004-1 Go To Gray /PPG SH ES - walls                                                             ! Approved as noted    !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 7             !Custom Match- Olive Green- SW Promar 200 ES                                                          ! Approved             !
+
+NL: 014 ! 21 ! 1 !Ascension Health Providence (014.21.1)                             !1150 Varnum Street NE          !                          ! Washington                    !DC   ! 20017      ! 8             !Custom Match Tann- SW Promar ES                                                                      ! Approved             !

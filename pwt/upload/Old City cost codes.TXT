@@ -1,0 +1,9 @@
+
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL01       , Floor 01                               ,            20.110  ,   Atrium Prep/Protect ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL01       , Floor 01                               ,            21.120  ,   Atrium Paint        ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL02       , Floor 02                               ,            20.110  ,   Atrium Prep/Protect ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL02       , Floor 02                               ,            21.120  ,   Atrium Paint        ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL03       , Floor 03                               ,            20.110  ,   Atrium Prep/Protect ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL03       , Floor 03                               ,            21.120  ,   Atrium Paint        ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL04       , Floor 04                               ,            20.110  ,   Atrium Prep/Protect ,  1
+NL:      042.20.1  ,  Old City Hall Renovation                           ,01, =    , 01, = ,   FL04       , Floor 04                               ,            21.120  ,   Atrium Paint        ,  1

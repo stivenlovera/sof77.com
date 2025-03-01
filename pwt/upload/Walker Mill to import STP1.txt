@@ -1,0 +1,40 @@
+﻿NL:035.22.3,Walker Mill ,01,=,01,=,BASE,Base Job,26.110,Floor Sealer, 59.29 
+NL:035.22.3,Walker Mill ,01,=,01,=,BASE,Base Job,80.800,Stenciling Fire Rated Walls, 80.00 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,20.110,Walls/DW Ceiling - Prime, 261.85 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,21.120,Walls - 2nd Coat Finish, 240.33 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,21.130,Walls - 3rd Coat Finish, 240.33 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,22.120,DW Ceiling - 2nd  -  3rd Fini, 27.28 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,60.200,Sizing, 4.42 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS1,1st Flr Sector 1,28.130,Frames Only - 1st  -  2nd Coat, 136.00 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,20.110,Walls/DW Ceiling - Prime, 135.98 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,21.120,Walls - 2nd Coat Finish, 128.63 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,21.130,Walls - 3rd Coat Finish, 128.63 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,22.120,DW Ceiling - 2nd  -  3rd Fini, 35.64 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,22.125,Exp Ceiling - 1st/2nd Dryfal, 20.74 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,60.200,Sizing, 1.33 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,24.110,CMU Walls - Block Filler, 59.73 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,24.120,CMU Walls - 2nd Coat Finish, 45.08 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,24.130,CMU Walls - 3rd Coat Finish, 45.08 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,28.130,Frames Only - 1st  -  2nd Coat, 70.04 
+NL:035.22.3,Walker Mill ,01,=,01,=,1FS2,1st Flr Sector 2,28.120,Doors Only - 1st  -  2nd Coat, 58.04 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,20.110,Walls/DW Ceiling - Prime, 234.10 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,21.120,Walls - 2nd Coat Finish, 208.73 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,21.130,Walls - 3rd Coat Finish, 208.73 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,22.120,DW Ceiling - 2nd  -  3rd Fini, 47.07 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,22.125,Exp Ceiling - 1st/2nd Dryfal, 6.19 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,28.130,Frames Only - 1st  -  2nd Coat, 130.56 
+NL:035.22.3,Walker Mill ,01,=,01,=,2FS1,2nd Flr Sector 1,28.120,Doors Only - 1st  -  2nd Coat, 14.51 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,20.110,Walls/DW Ceiling - Prime, 23.13 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,21.120,Walls - 2nd Coat Finish, 21.88 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,21.130,Walls - 3rd Coat Finish, 21.88 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,22.125,Exp Ceiling - 1st/2nd Dryfal, 48.95 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,24.110,CMU Walls - Block Filler, 60.45 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,24.120,CMU Walls - 2nd Coat Finish, 45.62 
+NL:035.22.3,Walker Mill ,01,=,01,=,GYM,Gymnasium,24.130,CMU Walls - 3rd Coat Finish, 45.62 
+NL:035.22.3,Walker Mill ,01,=,01,=,STAIR,Stairs,20.110,Walls/DW Ceiling - Prime, 23.78 
+NL:035.22.3,Walker Mill ,01,=,01,=,STAIR,Stairs,21.120,Walls - 2nd Coat Finish, 22.49 
+NL:035.22.3,Walker Mill ,01,=,01,=,STAIR,Stairs,21.130,Walls - 3rd Coat Finish, 22.49 
+NL:035.22.3,Walker Mill ,01,=,01,=,STAIR,Stairs,50.800,Stair Metal, 117.00 
+NL:035.22.3,Walker Mill ,01,=,01,=,EXT,Exterior,40.300,Steel Railing, 5.08 
+NL:035.22.3,Walker Mill ,01,=,01,=,EXT,Exterior,29.900,Lintels, 7.50 
+NL:035.22.3,Walker Mill ,01,=,01,=,EXT,Exterior,40.300,Steel Railing, 10.00 

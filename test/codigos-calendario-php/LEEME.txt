@@ -1,0 +1,26 @@
+
+CALENDARIO PHP
+==============
+
+Todos los códigos del Manual del Calendario PHP, publicado en DesarrolloWeb.com en la dirección:
+http://www.desarrolloweb.com/manuales/24/
+
+Las carpetas que se pueden ver en este directorio contienen los siguientes elementos:
+
+- CARPETA: calendario-php-basico
+Contiene el código del calendario PHP más básico. Este calendario se explica en los primeros artículos de este manual, desde el artículo "Archivo índice del calendario PHP" hasta el artículo "Otras funciones de la librería del calendario"
+Este código ofrece un calendario muy básico que seguramente tendremos que modificar para ponerlo en producción, pero que es suficientemente sencillo como para que cualquiera pueda entenderlo por su cuenta y utilizarlo como base para cualquier modificación.
+Fue realizado por Miguel Angel Alvarez, de DesarrolloWeb.com, en 2002 y revisado en noviembre de 2010.
+
+- CARPETA: calendario-modificado
+Código del calendario modificado por Ricardo Norambuena Nelis, colaborador independiente.
+Este calendario incluye unas mejoras que se relatan en el artículo "Calendario PHP modificado":
+http://www.desarrolloweb.com/articulos/943.php
+
+- Carpeta: calendario-seleccion-fecha
+Código del calendario con las modificaciones para que permita utilizarlo como módulo para seleccionar una fecha.
+Estas modificaciones fueron realizadas en 2003 por Miguel Angel Alvarez y funcionan en PHP 5. Desde entonces no hemos revisado este código.
+
+- Carpeta: calendario-revision-2010
+Código del calendario en el que se puede seleccionar una fecha cualquiera, revisado en noviembre de 2010, con algunas modificaciones para añadir funcionalidades adicionales simples y algunas imágenes para decorar el calendario. También hemos realizado una revisión con objetivo de corregir algunos aspectos del código fuente.
+

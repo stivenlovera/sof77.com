@@ -1,0 +1,23 @@
+
+
+NL:000 !22  ! 0  ! Warehouse Tracking (000.22.0)                                              ! Frolich Lane                                                               !                                         !Huntsville                             !MD   !              !  !   !
+
+NL:001 !22  ! 4  ! Village Non Profit (001.22.4)                                              ! 15800 Crabs Branch Way                                                     !Suite 300                                !Rockville                              !MD   !20855         !  !   !
+
+NL:002 !22  ! 3  ! Yards West - Parcel I (002.22.3)                                           ! 1300 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+              x  ! Parcel I at the Yards (002.22.x)                                           ! 1300 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:003 !22  ! 3  ! Old Randle Childhood Edu Ctr (003.22.3)                                    ! 1650 30th Street SE                                                        !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:004 !22  ! 3  ! Capitol Power Plant Tmp Boiler (004.22.3)                                  ! US Capitol Room SB-15                                                      !                                         !Washington                             !DC   !20515         !  !   !
+
+NL:005 !22  ! 1  ! Hilltop House Hotel Showrooms (005.22.1)                                   ! 44900 Falcon Place                                                         !                                         !Sterling                               !VA   !20166         !  !   !
+
+NL:006 !22  ! 1  ! DCHA Langston Terrace (006.22.1)                                           ! 711 Langston Terrace NE                                                    !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:007 !22  ! 3  ! The Strand Theater (007.22.3)                                              ! 5131 Nannie Helen Burroughs                                                !Ave NE                                   !Washington                             !DC   !20019         !  !   !
+
+NL:009 !22  ! 1  ! American Airlines DCA-Admirals (009.22.1)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:010 !22  ! 2  ! Maury Elementary T&M (010.22.2)                                            ! 1250 Constitution Ave NW                                                   !                                         !Washington                             !DC   !20002         !  !   !

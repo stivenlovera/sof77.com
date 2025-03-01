@@ -1,0 +1,46 @@
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A1,1ST.FL,26.110,Floor Sealer Floor Sealer Spray/Roll/Cut, 2.81
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,20.110,DW Ceiling - Prime Coat Spray , 6.20
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,21.110,DW Walls - DW Prime Coat Spray, 95.29
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,21.120,DW Walls - 1st. Finish Coat Spray, 114.34
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,21.130,DW Walls - 2nd.Finish Coat Roll, 163.35
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray , 7.44
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,22.125,Exp Ceiling - 1st. And 2nd. Dryfall coat Spray , 18.34
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,22.126,Exp Ceiling - Protection Hand, 22.01
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,26.110,Floor Sealer Floor Sealer Spray/Roll/Cut, 1.44
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 7.29
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,34.120,Trim Base,Crown and Chair Rail 1st Finish Coat Spray , 1.92
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A2,2ND.FL,34.130,Trim Base,Crown and Chair Rail 2nd. Finish Coat Brush and Roll, 7.70
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,20.110,DW Ceiling - Prime Coat Spray , 7.39
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,21.110,DW Walls - DW Prime Coat Spray, 88.53
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,21.120,DW Walls - 1st. Finish Coat Spray, 106.23
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,21.130,DW Walls - 2nd.Finish Coat Roll, 151.76
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray , 8.87
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,22.125,Exp Ceiling - 1st. And 2nd. Dryfall coat Spray , 18.04
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,22.126,Exp Ceiling - Protection Hand, 21.65
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 6.25
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,34.120,Trim Base,Crown and Chair Rail 1st Finish Coat Spray , 1.79
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,34.130,Trim Base,Crown and Chair Rail 2nd. Finish Coat Brush and Roll, 7.16
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A3,3RD.FL,99.900,Miscellaneous Miscelaneous Miscellaneous, 0.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A4,C.DOORS,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 4.17
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A5,Caulk-Case-Work,99.900,Miscellaneous Miscelaneous Miscellaneous, 0.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A6,CLEAN-AND-RESTORE-PAINTED-METAL-GUARDRAIL-EXTERIOR,99.900,Miscellaneous Miscelaneous Miscellaneous, 0.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A7,EXT-HSS-COLUMN-HPC,99.900,Miscellaneous Miscelaneous Miscellaneous, 0.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,20.110,DW Ceiling - Prime Coat Spray , 10.33
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,21.110,DW Walls - DW Prime Coat Spray, 74.01
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,21.120,DW Walls - 1st. Finish Coat Spray, 88.81
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,21.130,DW Walls - 2nd.Finish Coat Roll, 126.87
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray , 12.40
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,22.125,Exp Ceiling - 1st. And 2nd. Dryfall coat Spray , 11.52
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,22.126,Exp Ceiling - Protection Hand, 13.82
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A8,GROUND,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 6.94
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A9,ROOF.DOORS,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 0.69
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A10,Site-Hanrail-Ramp,40.300,Steel Railing Steel Railings Prep,Prime and Finish coats, 20.05
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A11,SOUTH-STAIR-METAL,50.801,Stair Metal Prep Spot Prime Hand, 5.33
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A11,SOUTH-STAIR-METAL,50.802,Stair Metal 1st.Finish Coat Spray, 5.33
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A11,SOUTH-STAIR-METAL,50.803,Stair Metal 2nd.Finish Coat Spray, 5.33
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A12,STAIR-SCAFFOLD,99.900,Miscellaneous Miscelaneous Miscellaneous, 0.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A13,Upcharge-for-Semi-Gloss-Paint-372gal,900,***Material /Special  Coating or Other Special/not in standards Special Item (WC or coating) WC or Coating, 26.04
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A14,Upcharge-Institutional-Paint,900,***Material /Special  Coating or Other Special/not in standards Special Item (WC or coating) WC or Coating, 26.04
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A15,WEST-STAIR-METAL,50.801,Stair Metal Prep Spot Prime Hand, 4.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A15,WEST-STAIR-METAL,50.802,Stair Metal 1st.Finish Coat Spray, 4.00
+NL:      003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, ,A15,WEST-STAIR-METAL,50.803,Stair Metal 2nd.Finish Coat Spray, 4.00

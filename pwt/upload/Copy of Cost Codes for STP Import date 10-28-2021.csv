@@ -1,0 +1,24 @@
+﻿NL:048.21.1,,01,=,01,=,EX01,Exterior,24.110,CMU Walls - Blockfiller,16.67
+NL:048.21.1,,01,=,01,=,EX01,Exterior,24.120,CMU Walls - 2nd Coat Finish,16.67
+NL:048.21.1,,01,=,01,=,EX01,Exterior,24.130,CMU Walls - 3rd Coat Finish,16.67
+NL:048.21.1,,01,=,01,=,EX01,Exterior,50.600,Caulking Windows & Doors,51.00
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,20.110,Walls/DW Ceiling - Prime,29.15
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,21.120,Walls - 2nd Coat Finish,26.12
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,21.130,Walls - 3rd Coat Finish,26.12
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,22.120,DW Ceiling - 2nd & 3rd Finish,8.08
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,22.125,Exp Ceiling - 1st/2nd Dryfall,29.55
+NL:063.21.1,,01,=,01,=,FL02,Floor 02,28.110,Doors/Frames 1st/2nd Coat,38.67
+NL:063.21.1,,01,=,01,=,FL03,Floor 03,20.110,Walls/DW Ceiling - Prime,23.15
+NL:063.21.1,,01,=,01,=,FL03,Floor 03,21.120,Walls - 2nd Coat Finish,20.88
+NL:063.21.1,,01,=,01,=,FL03,Floor 03,21.130,Walls - 3rd Coat Finish,20.88
+NL:063.21.1,,01,=,01,=,FL03,Floor 03,22.120,DW Ceiling - 2nd & 3rd Finish,9.08
+NL:063.21.1,,01,=,01,=,FL03,Floor 03,28.110,Doors/Frames 1st/2nd Coat,16.00
+NL:063.21.1,,01,=,01,=,ME01,Mezzanine,20.110,Walls/DW Ceiling - Prime,3.78
+NL:063.21.1,,01,=,01,=,ME01,Mezzanine,21.120,Walls - 2nd Coat Finish,3.66
+NL:063.21.1,,01,=,01,=,ME01,Mezzanine,21.130,Walls - 3rd Coat Finish,3.66
+NL:063.21.1,,01,=,01,=,ME01,Mezzanine,22.120,DW Ceiling - 2nd & 3rd Finish,0.46
+NL:089.20.3,,01,=,01,=,CO01,Change Order 01,17.001,,112.00
+NL:089.20.3,,01,=,01,=,CO02,Change Order 02,17.002,,24.00
+NL:089.20.3,,01,=,01,=,CO03,Change Order 03,17.003,,75.00
+NL:089.20.3,,01,=,01,=,CO-04,Change Order 04,17.004,,400.00
+NL:089.20.3,,01,=,01,=,TI01,Ticket Work,20.300,Ticket Work,"2,148.50"

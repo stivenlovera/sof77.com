@@ -1,0 +1,49 @@
+
+
+NL:000 !22  ! 0  ! Warehouse Tracking (000.22.0)                                              ! Frolich Lane                                                               !                                         !Huntsville                             !MD   !              !  !   !
+
+NL:001 !22  ! 4  ! Village Non Profit (001.22.4)                                              ! 15800 Crabs Branch Way                                                     !Suite 300                                !Rockville                              !MD   !20855         !  !   !
+
+NL:002 !22  ! 1  ! Yards West - Parcel I (002.22.1)                                           ! 1300 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+              3  ! Yards West - Parcel I (002.22.3)                                           ! 1300 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+              x  ! Parcel I at the Yards (002.22.x)                                           ! 1300 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:003 !22  ! 3  ! Old Randle Childhood Edu Ctr (003.22.3)                                    ! 1650 30th Street SE                                                        !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:004 !22  ! 3  ! Capitol Power Plant Tmp Boiler (004.22.3)                                  ! US Capitol Room SB-15                                                      !                                         !Washington                             !DC   !20515         !  !   !
+
+NL:005 !22  ! 1  ! Hilltop House Hotel Showrooms (005.22.1)                                   ! 44900 Falcon Place                                                         !                                         !Sterling                               !VA   !20166         !  !   !
+
+NL:006 !22  ! 1  ! DCHA Langston Terrace (006.22.1)                                           ! 711 Langston Terrace NE                                                    !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:007 !22  ! 3  ! The Strand Theater (007.22.3)                                              ! 5131 Nannie Helen Burroughs                                                !Ave NE                                   !Washington                             !DC   !20019         !  !   !
+
+NL:008 !22  ! 1  ! FT Meade Access Control (008.22.1)                                         !                                                                            !                                         !FT. Meade                              !MD   !              !  !   !
+
+NL:009 !22  ! 1  ! American Airlines DCA-Admirals (009.22.1)                                  ! 2401 Smith Boulevard                                                       !                                         !Arlington                              !VA   !22202         !  !   !
+
+NL:010 !22  ! 2  ! Maury Elementary T&M (010.22.2)                                            ! 1250 Constitution Ave NW                                                   !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:011 !22  ! 3  ! Bard HS Early College (011.22.3)                                           ! 1315 Alabama Ave SE                                                        !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:012 !22  ! 1  ! JHU - Building 12-S129 Reno (012.22.1)                                     ! 1100 Johns Hopkins Road                                                    !                                         !Laurel                                 !MD   !20723         !  !   !
+
+NL:013 !22  ! 1  ! Apple Data Ctr Fitout-Ashburn (013.22.1)                                   ! 44480 Hastings Dr                                                          !                                         !Ashburn                                !VA   !20147         !  !   !
+
+NL:014 !22  ! 3  ! UMMC Shock Trauma Renewal III (014.22.3)                                   ! 22 South Greene Street                                                     !                                         !Baltimore                              !MD   !21201         !  !   !
+
+NL:015 !22  ! 1  ! T Rowe Price B2 Internal Audit (015.22.1)                                  ! 4515 Painters Mill Road                                                    !                                         !Owings Mills                           !MD   !21227         !  !   !
+
+NL:016 !22  ! 1  ! Boys & Girls Club Metro Balt. (016.22.1)                                   ! 1201 S Sharp St UNIT 302                                                   !                                         !Baltimore                              !MD   !21230         !  !   !
+
+NL:017 !22  ! 3  ! Capitol Power Plant Stormwater (017.22.3)                                  ! 25 E Street SE                                                             !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:018 !22  ! 1  ! JHU-Building MP6 N565 Data Ctr (018.22.1)                                  ! 7651 Montpelier Road                                                       !                                         !Laurel                                 !MD   !20723         !  !   !
+
+NL:019 !22  ! 1  ! NW Hospital Breast Cancer Ctr (019.22.1)                                   ! 5401 Old Court Road                                                        !                                         !Randallstown                           !MD   !21133         !  !   !
+
+NL:020 !22  ! 5  ! DC Prep PCS - Wilkinson Campus (020.22.5)                                  ! 2330 Pomeroy Road SE                                                       !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:021 !22  ! 1  ! DGS HQ Tenant Interiors (021.22.1)                                         ! 3924 Minnesota Avenue NE                                                   !                                         !Washington                             !DC   !20019         !  !   !

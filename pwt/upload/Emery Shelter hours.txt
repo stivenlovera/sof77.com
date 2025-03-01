@@ -1,0 +1,4 @@
+﻿NL:048.22.3,Emery House Shelter ,01,=,01,=,FLSE,Floor Sealer,26.110,Floor Sealer, 89.60 
+NL:048.22.3,Emery House Shelter ,01,=,01,=,B001,Basement,34.110,PTD Base Prep-Fill, 11.18 
+NL:048.22.3,Emery House Shelter ,01,=,01,=,FL01,Floor 01,34.110,PTD Base Prep-Fill, 14.35 
+NL:048.22.3,Emery House Shelter ,01,=,01,=,FL02,Floor 02,34.110,PTD Base Prep-Fill, 10.46 

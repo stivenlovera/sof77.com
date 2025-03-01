@@ -1,0 +1,4 @@
+NL:      058.20.1  ,  Inaugural Stands 2021                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            10.410  ,   Trucks                         ,        120.00
+NL:      058.20.1  ,  Inaugural Stands 2021                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            20.110  ,   Plywood - Prime       ,        209.28
+NL:      058.20.1  ,  Inaugural Stands 2021                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            21.120  ,   Plywood  1st. finish       ,        209.28
+NL:      058.20.1  ,  Inaugural Stands 2021                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            21.130  ,   Plywood - 2nd Finish        ,        209.28

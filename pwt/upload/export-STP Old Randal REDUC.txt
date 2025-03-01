@@ -1,0 +1,4 @@
+NL:003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, A1,1ST.FL,26.110,Floor Sealer Floor Sealer Spray/Roll/Cut, 2.81
+NL:003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, A2,2ND.FL,20.110,DW Ceiling - Prime Coat Spray , 6.20
+NL:003.22.3,Old Randle Childhood Edu Ctr,01,=,01,=, A2   ,2ND.FL,21.110,DW Walls - DW Prime Coat Spray, 95.29
+

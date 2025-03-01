@@ -1,0 +1,33 @@
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , G00      , Garage                               ,            24.110  ,   CMU Walls - Block Filler       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , G00      , Garage                               ,            24.120  ,   CMU Walls - 2nd.coat Finish       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , G00      , Garage                               ,            24.130  ,   CMU Walls - 3rd. coat Finish       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , EXT      , Exterior                            ,            40.400  ,   Exterior Steel                                  ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            20.110  ,   Walls/DW Ceiling - Prime       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            21.120  ,   Walls - 2nd Coat Finish        ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            21.130  ,   Walls - 3rd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            26.110  ,   Floor Sealer                   ,           0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL01      , Floor 01                                ,            50.600  ,   Caulking Windows & Doors       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,   0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            26.110  ,   Floor Sealer                   ,           0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   FL02      , Floor 02                               ,            50.600  ,   Caulking Windows & Doors       ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,  ST01      , Stair 01                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST01      , Stair 01                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST01      , Stair 01                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST01      , Stair 01                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST01      , Stair 01                               ,            50.800  ,   Stair Metal                              ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,  ST02      , Stair 02                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST02      , Stair 02                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST02      , Stair 02                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST02      , Stair 02                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ST02      , Stair 02                               ,            50.800  ,   Stair Metal                              ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ,Common Items Ticket-TouchUp  ,            80.120  ,   PWT Only/Punchlilst            ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   ,Common Items Ticket-TouchUp  ,            80.110  ,   Touch up hrs./allowance  ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,TKT000,Ticket work ,           95.110           , Ticket work             ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,--- ,z.No Show up/No Worked , VACNOSHOW ,  z.No show up/No worked ,0
+

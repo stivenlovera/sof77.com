@@ -1,0 +1,9 @@
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,20.110,Walls/DW Ceiling - Prime,59.64
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,21.120,Walls - 2nd Coat Finish,49.31
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,21.130,Walls - 3rd Coat Finish,49.31
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,22.120,DW Ceiling - 2nd & erd Finish,30.98
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,22.125,Exp Ceiling - 1st/2nd Dryfall,19.38
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,28.110,Doors/Frames 1st/2nd Coat,19.00
+NL: 019.21.3,,01,=,01,=,FL01,Floor 01,34.120,Trim - 2nd Coat Finish,20.00
+NL: 019.21.3,,01,=,01,=,TI01,Ticket Work,20.300,Ticket Work,31.00
+NL: 019.21.3,,01,=,01,=,CO-001,Change Order 01,17.001,Change Order 1,40.00

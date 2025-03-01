@@ -1,0 +1,16 @@
+﻿
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F1,1st.Floor 2u ,20.110,DW Walls - DW Ceiling/Walls Prime Coat ,17.42
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F1,1st.Floor 2u ,21.120,DW Walls - 1st. Finish Coat ,16.86
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F1,1st.Floor 2u ,21.130,DW Walls - 2nd.Finish Coat Roll,24.09
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F1,1st.Floor 2u ,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray ,4.04
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F1,1st.Floor 2u ,28.110,Doors/Frames/Trim Prep.1st.and 2nd.Finish Coat Spray ,14
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F2,2nd.Floor 9u ,20.110,DW Walls - DW Ceiling/Walls Prime Coat Spray,78.38
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F2,2nd.Floor 9u ,21.120,DW Walls - 1st. Finish Coat Spray,75.88
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F2,2nd.Floor 9u ,21.130,DW Walls - 2nd.Finish Coat Roll,108.41
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F2,2nd.Floor 9u ,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray ,18.17
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F2,2nd.Floor 9u ,28.110,Doors/Frames/Trim Prep.1st.and 2nd. Finish Coat Spray ,62.5
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F3,3rd.Floor 9u ,20.110,DW Walls - DW Ceiling/Walls Prime Coat Spray,78.38
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F3,3rd.Floor 9u ,21.120,DW Walls - 1st. Finish Coat Spray,75.88
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F3,3rd.Floor 9u ,21.130,DW Walls - 2nd.Finish Coat Roll,108.41
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F3,3rd.Floor 9u ,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray ,18.17
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,2,5400  New Hampshire,F3,3rd.Floor 9u ,28.110,Doors/Frames/Trim Prep.1st.and 2nd. Finish Coat Spray ,62.5

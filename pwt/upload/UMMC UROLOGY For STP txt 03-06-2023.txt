@@ -1,0 +1,8 @@
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,20.110,DW Ceiling/Walls Prime Coat, 43.86
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,21.120,DW Walls/Columns 1st. Finish Coat, 52.41
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,21.130,DW Walls/Columns 2nd.Finish Coat, 74.86
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,22.120,DW Ceilings 1st.and 2nd.Finish Coat, 0.23
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,28.100,Prep. Trim/D.Frames/Doors, 7.00
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,28.110,1st.and 2nd.Finish Coat Trim/Frames/Doors, 7.00
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,80.110,Touch Up Allowance w/ticket to track, 1.76
+NL:      005.23.1,UMMC Urology,01,=,01,=, A01,ADDEN-4,99.910,Miscellaneous Various not in others, 39.87

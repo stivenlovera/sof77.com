@@ -1,0 +1,11 @@
+
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,              ,                                        ,            80.110  ,   Touch Up Allowance             ,         16.00
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,          1.00
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.120  ,   Walls - 2nd Coat Finish        ,          1.00
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.130  ,   Walls - 3rd Coat Finish        ,          1.00
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          1.00
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   FL01       , Floor 01                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         43.23
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   FL01       , Floor 01                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         36.29
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   FL01       , Floor 01                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         36.29
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   FL01       , Floor 01                               ,            22.120  ,   DW Ceiling - 2nd & 3rd Finish  ,          2.69
+NL:      015.22.1  ,  T Rowe Price B2 Internal Audit                     ,01, =    , 01, = ,   FL01       , Floor 01                               ,            28.120  ,   Doors Only - 1st/2nd Coat      ,         21.00

@@ -1,0 +1,18 @@
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,20.110,DW Walls - DW Ceiling/Walls Prime Coat Spray, 383.20
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,21.120,DW Walls - 1st. Finish Coat Spray, 370.99
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,21.130,DW Walls - 2nd.Finish Coat Roll, 529.99
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray , 88.85
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 91.88
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,34.120,Trim Base/Crown and Chair Rail 1st Finish Coat Spray , 42.51
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A1,10-Units,34.130,Trim Base/Crown and Chair Rail 2nd. Finish Coat Brush and Roll, 170.05
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A2,Exterior-and-Bars,40.300,Miscellaneous Various not in others Miscellaneous, 24.42
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A3,Lintels,29.900,Lintels Paint Lintels Brush and Roll, 133.72
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,20.110,DW Walls - DW Ceiling/Walls Prime Coat Spray, 75.23
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,21.120,DW Walls - 1st. Finish Coat Spray, 69.89
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,21.130,DW Walls - 2nd.Finish Coat Roll, 99.84
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,22.120,DW Ceiling - 1st.and 2nd.Finish Coat Spray , 20.39
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,28.110,Doors and Frames 1st.and 2nd. Finish Coat Spray , 8.49
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,50.800,Stair Metal Prep Spot Prime Hand, 20.00
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,50.800,Stair Metal 1st.Finish Coat Spray, 20.00
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A4,Public-,50.800,Stair Metal 2nd.Finish Coat Spray, 15.00
+NL:      081.21.5,5000 - 5400 New Hampshire,01,=,01,=, A5,SUBMITTALS,90.100,***Material /Special  Coating or Other Special/not in standards Special Item (WC or coating) WC or Coating, 0.00

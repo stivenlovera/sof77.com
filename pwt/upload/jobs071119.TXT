@@ -1,0 +1,72 @@
+
+
+NL:000 !19  ! 0  ! Repair Service 2019 (000.19.0)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !19  ! 3  ! FEMA B413 (001.19.3)                                                       ! 19844 Blue Ridge Mtn Road                                                  !                                         !Mt. Weather                            !VA   !20135         !  !   !
+
+NL:002 !19  ! 1  ! Takoma Place Apartments (002.19.1)                                         ! 6676 Georgia Avenue NW                                                     !                                         !Washington                             !DC   !20012         !  !   !
+
+NL:003 !19  ! 2  ! Med-Dent Georgetown (003.19.2)                                             ! 3900 Reservoir Road NW                                                     !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:004 !19  ! 1  ! Catholic Sports Complex (004.19.1)                                         ! 3606 John McCormack Road NE                                                !                                         !Washington                             !DC   !              !  !   !
+
+NL:005 !19  ! 3  ! PRPA Permanent Fence (005.19.3)                                            ! 1600 Pennsylvania Ave NW                                                   !                                         !Washington                             !DC   !20500         !  !   !
+
+NL:006 !19  ! 1  ! EverFi (006.19.1)                                                          ! 2300 N Street NW                                                           !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:007 !19  ! 1  ! 1901 L Street NW Reno (007.19.1)                                           ! 1901 L Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:008 !19  ! 1  ! PN Hoffman (008.19.1)                                                      !                                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:009 !19  ! 3  ! Ward 3 Short Term Housing (009.19.3)                                       ! 3220 Idaho Avenue NW                                                       !                                         !Washington                             !DC   !22016         !  !   !
+
+NL:010 !19  ! 3  ! Residences @ St Elizabeth East (010.19.3)                                  ! 1201 Oak Drive SE                                                          !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:011 !19  ! 2  ! EXR (PRA) (011.19.2)                                                       ! 1600 Pennsylvania Avenue NW                                                !                                         !Washington                             !DC   !              !  !   !
+
+NL:012 !19  ! 1  ! Hampton Inn Cascades (012.19.1)                                            ! 46331 McClellan Way                                                        !                                         !Sterling                               !VA   !20165         !  !   !
+
+NL:013 !19  ! 2  ! 801 Penn Ave (013.19.2)                                                    ! 801 nPennsylvania Ave NW                                                   !                                         !Washington                             !DC   !              !  !   !
+
+NL:014 !19  ! 1  ! Berlin Steel ZRC Option (014.19.1)                                         ! 901 G Street NW                                                            !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:015 !19  ! 3  ! Bread for the City (015.19.3)                                              ! 1700 Good  Hope Road SE                                                    !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:016 !19  ! 3  ! Southwest Library (016.19.3)                                               ! 900 Wesley Place SW                                                        !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:017 !19  ! 3  ! Library of Congress Mod.6 (017.19.3)                                       ! 100 Montgomery Meigs Road                                                  !                                         !Fort Meade                             !MD   !20755         !  !   !
+
+NL:018 !19  ! 1  ! 1115 Caulk (018.19.1)                                                      ! 1115 30th Street NW                                                        !                                         !Washington                             !DC   !              !  !   !
+
+NL:019 !19  ! 3  ! Eliot-Hine Middle School (019.19.3)                                        ! 1830 Constitution Ave NE                                                   !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:020 !19  ! 1  ! MGUH DL40/DL20 (020.19.1)                                                  ! 3800 Reservoir Rd NW                                                       !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:021 !19  ! 2  ! Obama Foundation T&M (021.19.2)                                            ! 1250 24th St NW Ste 25                                                     !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:022 !19  ! 1  ! Sports Facility @ Cooper Field (022.19.1)                                  ! 3698 O Street NW                                                           !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:023 !19  ! 3  ! MWAA RAIL YARD & MAINTENANCE (023.19.3)                                    ! 4330 Mercure Circle                                                        !                                         !Dulles                                 !VA   !20166         !  !   !
+
+NL:024 !19  ! 3  ! NGA Work Area 9.3 (024.19.3)                                               ! 200 Constitution Ave NW                                                    !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:025 !19  ! 1  ! UMMC Epilepsy Renovation (025.19.1)                                        ! 22 South Greene Street                                                     !                                         !Baltimore                              !MD   !21201         !  !   !
+
+NL:026 !19  ! 1  ! AstraZeneca- Gov.Affairs Ofc (026.19.1)                                    ! 801 Pennsylvania Avenue NW                                                 !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:027 !19  ! 1  ! Ritz Carlton Residence (027.19.1)                                          ! 3150 South Street NW                                                       !                                         !Washington                             !DC   !20007         !  !   !
+
+NL:028 !19  ! 1  ! Old Congress Hgts Repaint (028.19.1)                                       ! 3100 MLK JR. Blvd SE                                                       !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:029 !19  ! 1  ! Market Sq Plaza-White Bpxes (029.19.1)                                     ! 701 Pennsylvania Avenue NW                                                 !                                         !Washington                             !DC   !20004         !  !   !
+
+
+NL:030 !19  ! 1  ! JPMC Bank Rockville Pike (030.19.1)                                        ! 12097 Rockville Pike                                                       !                                         !Rockville                              !MD   !20825         !  !   !
+
+NL:031 !19  ! 1  ! JPMC P Street Bank (031.19.1)                                              ! 3217 P Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:033 !19  ! 1  ! St. Bartholomew Catholic Churc (033.19.1)                                  ! 6900 River Road                                                            !                                         !Bethesda                               !MD   !20817         !  !   !
+
+NL:034 !19  ! 1  ! VA Casework-K&B Services (034.19.1)                                        ! 709 N. Florida Street                                                      !                                         !Arlington                              !VA   !22205         !  !   !
+
+NL:035 !19  ! 1  ! JBGS Gtown Uptown (035.19.1)                                               ! 2115 Wisconsin Avenue NW                                                   !                                         !Washington                             !DC   !20007         !  !   !

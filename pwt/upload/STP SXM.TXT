@@ -1,0 +1,9 @@
+
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            20.110  ,   Walls/DW Ceiling - Prime       ,         15.88
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            21.120  ,   Walls - 2nd Coat Finish        ,         15.88
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            21.130  ,   Walls - 3rd Coat Finish        ,         15.88
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            24.110  ,   CMU Walls - Blockfiller        ,          7.60
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            24.120  ,   CMU Walls - 2nd Coat Finish    ,          3.80
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            24.130  ,   CMU Walls - 3rd Coat Finish    ,          3.80
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         26.00
+NL:      079.20.1  ,  Sirus XM Critical Systems                          ,01, =    , 01, = ,   FLO1       , Floor01                                ,            50.500  ,   AESS Steel                     ,          8.20

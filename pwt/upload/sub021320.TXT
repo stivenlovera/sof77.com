@@ -1,0 +1,17 @@
+
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 1             !Sherwin Williams Product Data /EDS                                                                   ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 2             !PNT-1 SW 7056 Reserved White SW Promar 200 ES                                                        ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 3             !PNT-2 SW 7669 Summit Gray/SW Promar 200 Flat                                                         ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 4             !PNT-3 SW 7757 High Reflective White/SW Promar Flat                                                   ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 5             !PNT-3 SW 7757 High Reflective White Sw Promar SG                                                     ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 1             !WC- Balancing Act- MDC- Product Data                                                                 ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 2             !WC-1 Balancing Act BBBC17 Steadfast Red MDC                                                          ! Approved             !
+
+NL: 010 ! 20 ! 3 !NSF TO#127 CHESTNUT (010.20.3)                                     !14900 PARK CENTRAL ROAD        !                          ! THRUMONT                      !MD   ! 21788      ! 1             !PPG Aspen Green / PPG SH Exterior                                                                    ! Approved             !

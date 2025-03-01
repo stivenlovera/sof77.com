@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<title>Taboca Labs - WebCam to Canvas Capture API from JavaScript</title>	
+	<script type="text/javascript" src="camcanvas.js"></script>
+
+</head>
+<body onLoad="initCanvas(320,240)">
+
+<div class="content">
+		
+		<div class="webcam-origin" style="margin-top:1em;-moz-border-radius:12px; background-color:#ddd;width:360px;text-align:center;height:260px;padding-top:15px;margin-bottom:1em;">
+		
+	
+		<object  id="iembedflash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="320" height="240">
+			<param name="movie" value="camcanvas.swf" />
+			<param name="quality" value="high" />
+			<param name="allowScriptAccess" value="always" />
+			<embed  allowScriptAccess="always"  id="embedflash" src="camcanvas.swf" quality="high" width="320" height="240" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" mayscript="true"  />
+		</object>
+	
+		</div>
+	
+	<button onClick="setFunction('passLineEmboss')">Emboss</button>
+	<button onClick="setFunction('passLineRed')">Red</button>
+	<button onClick="setFunction('passLineNormal')">Normal</button>
+	<button onClick="setFunction('passLineInversed')">Inversed</button>
+	<button onClick="setFunction('passLineGrayscale')">Grayscale</button>
+	
+	<div class="webcam-target" style="margin-top:1em;-moz-border-radius:12px; background-color:#ddd;width:360px;text-align:center;height:260px;padding-top:15px;;">
+	   <canvas  id="canvas" width="320" height="240"></canvas>
+	</div>
+	
+	<div id="div_test">dffsd
+	
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+NL: 771.22.1,Douglas,01,=,01,=,BASE,Base Job,80.800,OT Allowance,64.00
+NL: 771.22.1,Douglas,01,=,01,=,G,Ground Floor,20.110,Walls Spot Prime,165.58
+NL: 771.22.1,Douglas,01,=,01,=,G,Ground Floor,21.120,Wall 1 Coat of Finish,211.37
+NL: 771.22.1,Douglas,01,=,01,=,G,Ground Floor,80.810,Cover-up/Move Furniture,52.25
+NL: 771.22.1,Douglas,01,=,01,=,FL01,Floor 01,20.110,Walls Spot Prime,128.95
+NL: 771.22.1,Douglas,01,=,01,=,FL01,Floor 01,21.120,Wall 1 Coat of Finish,164.62
+NL: 771.22.1,Douglas,01,=,01,=,FL01,Floor 01,80.810,Cover-up/Move Furniture,31.67
+NL: 771.22.1,Douglas,01,=,01,=,FL02,Floor 02,20.110,Walls Spot Prime,88.61
+NL: 771.22.1,Douglas,01,=,01,=,FL02,Floor 02,21.120,Wall 1 Coat of Finish,113.12
+NL: 771.22.1,Douglas,01,=,01,=,FL02,Floor 02,80.810,Cover-up/Move Furniture,30.08
+NL: 771.22.1,Douglas,01,=,01,=,FL03,Floor 03,20.110,Walls Spot Prime,82.57
+NL: 771.22.1,Douglas,01,=,01,=,FL03,Floor 03,21.120,Wall 1 Coat of Finish,105.40
+NL: 771.22.1,Douglas,01,=,01,=,FL03,Floor 03,80.810,Cover-up/Move Furniture,30.08

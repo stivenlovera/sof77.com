@@ -1,0 +1,21 @@
+
+
+NL:001 !20  ! 2  ! 1800 Perry Street (001.20.2)                                               ! 1800 Perry Street NW                                                       !                                         !Washington                             !DC   !              !  !   !
+
+NL:002 !20  ! 3  ! NSF/19/TO81 SidingMaint G1-G2 (002.20.3)                                   ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:003 !20  ! 1  ! Politics & Prose Bookstore (003.20.1)                                      ! 5015 Connecticut Ave NW                                                    !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:004 !20  ! 1  ! Corpus Christi Church (004.20.1)                                           ! 41662 Corpus Christi Drive                                                 !                                         !Aldie                                  !VA   !20105         !  !   !
+
+NL:005 !20  ! 1  ! 1275 K Street Lobby (005.20.1)                                             ! 1275 K Street NW                                                           !                                         !Washington                             !DC   !20005         !  !   !
+
+NL:006 !20  ! 1  ! One DC BWWC (006.20.1)                                                     ! 2500 MLK Jr. Avenue SE                                                     !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:007 !20  ! 1  ! Healy Hall- Georgetown (007.20.1)                                          ! 37th & O Street NW                                                         !G-19                                     !Washington                             !DC   !20059         !  !   !
+
+NL:008 !20  ! 1  ! 505 9th St McKesson (008.20.1)                                             ! 505 9th Street NW                                                          !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:009 !20  ! 2  ! Smoot Office (009.20.2)                                                    ! 5335 Wisconsin Ave NW                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:010 !20  ! 3  ! NSF TO#127 CHESTNUT (010.20.3)                                             ! 14900 PARK CENTRAL ROAD                                                    !                                         !THRUMONT                               !MD   !21788         !  !   !

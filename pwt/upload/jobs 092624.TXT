@@ -1,0 +1,82 @@
+
+
+NL:000 !24  ! 0  ! Warehouse Tracking 2024 (000.24.0)                                         ! PWT Warehouse                                                              !5147 Frolich ln                          !Hyattsville                            !MD   !20781         !  !   !
+
+NL:001 !24  ! 1  ! Bridge District Parcel 3 & 4 (001.24.1)                                    ! 632 Howard Rd SE                                                           !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:002 !24  ! 2  ! We Work 9th Floor (002.24.2)                                               ! 7272 Wisconsin Ave.                                                        !                                         !Bethesda                               !MD   !              !  !   !
+
+NL:003 !24  ! 1  ! 60 Florida Ave NE (003.24.1)                                               ! 60 Florida Ave NE                                                          !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:004 !24  ! 1  ! DCIA Reunion Square (004.24.1)                                             ! 2201 Shannon Place NE                                                      !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:005 !24  ! 1  ! Hillwood Estate Visitor Center (005.24.1)                                  ! 4155 Linnean Ave NW                                                        !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:006 !24  ! 1  ! Parcel H Navy Yard (Urby) (006.24.1)                                       ! 1331 Yards Place SE                                                        !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:007 !24  ! 3  ! Deal Middle School (007.24.3)                                              ! 3815 Fort Drive NW                                                         !                                         !Washington                             !DC   !20016         !  !   !
+
+NL:008 !24  ! 3  ! Waterfront Station II (008.24.3)                                           ! 1101 4th St SW                                                             !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:009 !24  ! 3  ! Northwest One Phase 2 (009.24.3)                                           ! 33 K St, NW                                                                !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:010 !24  ! 3  ! MSC T&M (010.24.3)                                                         ! 4210 Silver Hill Rd                                                        !                                         !Camp Springs                           !MD   !              !  !   !
+
+NL:011 !24  ! 1  ! PSCC Building Renovation (011.24.1)                                        ! 310 McMillan Dr NW                                                         !                                         !Washington                             !DC   !20001         !  !   !
+
+              3  ! PSCC Building Renovation (011.24.3)                                        ! 310 McMillan Dr NW                                                         !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:012 !24  ! 1  ! Capital One East - Park Projec (012.24.1)                                  ! 1820 Dolley Madison Blvd.                                                  !                                         !McLean                                 !VA   !22102         !  !   !
+
+NL:013 !24  ! 3  ! 899 N Capitol St NE - DGS (013.24.3)                                       ! 899 N Capitol St NE                                                        !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:014 !24  ! 1  ! Lee Montessori Renovation (014.24.1)                                       ! 2345 R Street SE                                                           !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:015 !24  ! 3  ! NZP-DC Flamingo Netting (015.24.3)                                         ! 3001 Connecticut Ave., NW                                                  !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:016 !24  ! 3  ! Towson Auditorium Panels (016.24.3)                                        ! 213 University Aven                                                        !                                         !Towson                                 !MD   !21252         !  !   !
+
+NL:017 !24  ! 2  ! JETRC Painting (017.24.2)                                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:018 !24  ! 2  ! RESQ Lottery Building (018.24.2)                                           !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:019 !24  ! 1  ! CUA O'Boyle 2-Psych Dept Reno (019.24.1)                                   ! 620 Michigan Avenue NW                                                     !                                         !Washington                             !DC   !20064         !  !   !
+
+NL:020 !24  ! 1  ! Pres Inaugural Stands-Capitol (020.24.1)                                   ! 4903 Baltimore Ave                                                         !                                         !Hyattsville                            !MD   !20781         !  !   !
+
+              3  ! Pres Inaugural Stands-Capitol (020.24.3)                                   ! US Capitol                                                                 !                                         !                                       !     !              !  !   !
+
+NL:021 !24  ! 3  ! NZP-DC HVAC Bamboo Storage (021.24.3)                                      ! 3001 Connecticut Ave NW                                                    !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:022 !24  ! 1  ! Washington International Schoo (022.24.1)                                  ! 3100 Macomb Street NW                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:023 !24  ! 2  ! 1313 L Street NW (023.24.2)                                                ! 1313 L Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:024 !24  ! 3  ! 111 Massachusetts Ave (024.24.3)                                           ! 111 Massachusetts Ave                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:025 !24  ! 3  ! Capitol Power Plant Roof Repla (025.24.3)                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:026 !24  ! 3  ! Edgewood V (026.24.3)                                                      ! 435 Edgewood St NE                                                         !                                         !Washington                             !DC   !              !  !   !
+
+NL:027 !24  ! 3  ! Truesdell ES Modernization (027.24.3)                                      ! 800 Ingraham Street, NW                                                    !                                         !Washington                             !DC   !20011         !  !   !
+
+
+NL:028 !24  ! 1  ! WT New DC Office Fitout (028.24.1)                                         ! 4600 River Road                                                            !Suite 200                                !Riverdale                              !MD   !20737         !  !   !
+
+NL:029 !24  ! 3  ! Anacostia Rec Center (029.24.3)                                            ! 1929 15th Street SE                                                        !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:030 !24  ! 1  ! CNH Hamaker 5th FL Fracture Cl (030.24.1)                                  ! 3023 Hamaker Court                                                         !                                         !Fairfax                                !VA   !22031         !  !   !
+
+NL:031 !24  ! 1  ! 1899 Penn Ave Reposition (031.24.1)                                        ! 1899 Pennsylvania Ave NW                                                   !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:032 !24  ! 3  ! Mt. Vernon High School (032.24.3)                                          ! 8333 Richmond Highway                                                      !                                         !Alexandria                             !VA   !22309         !  !   !
+
+NL:033 !24  ! 1  ! Pres Inaugural Viewing Stands (033.24.1)                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+              3  ! Pres Inaugural Viewing Stands (033.24.3)                                   ! 1600 Pennsylvania Ave NW                                                   !                                         !Washington                             !DC   !20050         !  !   !
+
+NL:034 !24  ! 1  ! Research Place BOS Office Reno (034.24.1)                                  ! 45299 Research Place                                                       !Suite 100                                !Ashburn                                !VA   !20147         !  !   !
+
+NL:035 !24  ! 2  ! DO NOT USE (035.24.2)                                                      !                                                                            !                                         !                                       !     !              !  !   !
+
+              4  ! Run Hope Work (035.24.4)                                                   ! 2001 Mississippi Ave SE                                                    !                                         !Washington                             !DC   !20020         !  !   !

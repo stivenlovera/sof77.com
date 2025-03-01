@@ -1,0 +1,6 @@
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P01      , Garage                               ,            24.110  ,   CMU Walls - Block Filler       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P01      , Garage                               ,            24.120  ,   CMU Walls - 2nd.coat Finish       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P01      , Garage                               ,            24.130  ,   CMU Walls - 3rd. coat Finish       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P02      , Garage                               ,            24.110  ,   CMU Walls - Block Filler       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P02      , Garage                               ,            24.120  ,   CMU Walls - 2nd.coat Finish       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = , P02      , Garage                               ,            24.130  ,   CMU Walls - 3rd. coat Finish       ,          0

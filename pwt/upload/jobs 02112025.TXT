@@ -1,0 +1,21 @@
+
+
+NL:000 !25  ! 0  ! Warehouse Time 2025 (000.25.0)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !25  ! 2  ! Wharf Parcel 9 T&M (001.25.2)                                              ! 625 Wharf St SW                                                            !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:002 !25  ! 1  ! Medstar National Rehab (002.25.1)                                          ! 102 Irving St NW                                                           !                                         !Washington                             !DC   !20010         !  !   !
+
+NL:003 !25  ! 3  ! Smithsonian Castle-Historic Co (003.25.3)                                  ! 1000 Jefferson Dr SW                                                       !                                         !Washington                             !DC   !20560         !  !   !
+
+NL:004 !25  ! 1  ! The Heights Townhomes (004.25.1)                                           ! 440 54th ST. SE                                                            !                                         !Washington                             !DC   !20019         !  !   !
+
+NL:005 !25  ! 3  ! DOC Central Boiler Plant (005.25.3)                                        ! 1901 D Street SE                                                           !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:006 !25  ! 3  ! Suitland High School (006.25.3)                                            !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:007 !25  ! 5  ! Barry Farm 1A (007.25.5)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:008 !25  ! 3  ! Fort Greble (008.25.3)                                                     ! Martin Luther King Jr Ave SW,                                              !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:009 !25  ! 3  ! WSSC Warehouse (009.25.3)                                                  ! 6000 Crain Highway                                                         !                                         !Upper Marlboro                         !MD   !20772         !  !   !

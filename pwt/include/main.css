@@ -1,0 +1,227 @@
+BODY {
+	MARGIN: 0px
+}
+FORM {margin:0px;}
+.arial16-bluebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial11-maroon-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-maroon-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-maroon-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-black {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.arial12-orange-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffb02b; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-orange-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffb02b; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-orange-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial13-orange-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffb02b; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial13-orange-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffb02b; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial13-orange-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial16-orange-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffb02b; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.vardana12-bold-italic {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #847d6e; LINE-HEIGHT: normal; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+
+.verdana12-bold-dark-italic {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #424037; LINE-HEIGHT: normal; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+
+.arial12blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #014da3; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-black {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-black A {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #014da3; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial12-black A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial15-blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; COLOR: #004489; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-black-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-black-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-black-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+SELECT {
+	CLEAR: none; BORDER-RIGHT: #000000 1px solid; BACKGROUND-POSITION: left center; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; FLOAT: none; BACKGROUND-IMAGE: url(images/dropdwn.gif); WORD-SPACING: normal; BORDER-LEFT: #000000 1px solid; WIDTH: 200px; COLOR: #000000; LINE-HEIGHT: normal; BORDER-BOTTOM: #000000 1px solid; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: normal; HEIGHT: auto; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-copyright {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #919191; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-copyright A {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #919191; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-copyright A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial10-black {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial10-copyright {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #919191; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial10-copyright A {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #919191; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial10-copyright A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #003976; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-white-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-white-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-white-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-bluebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial12-bluebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #004489; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial14-bluebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #004489; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-maroon-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-maroon-bold A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial12-maroon-bold A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial11-blue A {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial11-blue A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial13-black-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial13-white-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial12-blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial12-blue A {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.arial12-blue A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #1b69c2; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial11-white {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.arial11-copyright-select {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.arial20-maroon-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #b33600; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.hidden {
+	DISPLAY: none
+}
+.fakelink {
+	CURSOR: pointer
+}
+.red {
+	COLOR: red
+}
+.orangebutton {
+	BORDER-RIGHT: #ffb02b 2px outset; BORDER-TOP: #ffb02b 2px outset; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 2px; VERTICAL-ALIGN: middle; BORDER-LEFT: #ffb02b 2px outset; WIDTH: 90px; CURSOR: pointer; COLOR: black; BORDER-BOTTOM: #ffb02b 2px outset; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffb02b
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Arial-9 {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Arial-11 {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11px; font-style: normal; line-height: 20px; font-weight: normal; font-variant: normal; text-decoration: none}
+.Arial-11R {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11px; font-style: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Ver-9 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Arial-12 {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 12px; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Times-20 {  font-family: "Times New Roman", "Times", "serif"; font-size: 18px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Arial-14 {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 14px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Ver-14 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 14px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.ArialNar-14 {  font-family: "Arial Narrow", "Arial"; font-size: 17px; font-style: normal; line-height: normal; font-weight: 600; font-variant: normal; text-decoration: none}
+.AriaNar-17 {  font-family: "Arial Narrow", "Arial"; font-size: 17px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; text-decoration: none}
+
+.Ver-12 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none}
+.Input-A12 {  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; background-color: #FFFFCC; border: 1px #FFCC33 solid; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px}
+
+/* menu activo para llamadas en ajax  */
+#tabmenu { float:left;
+      width:100%;
+      font-size:18px;
+      line-height:normal; } 
+#tabmenu ul {
+        margin:0;
+        padding:10px 10px 0 50px;
+        list-style:none;
+      }	  
+#tabmenu li { 
+	display:inline;
+    margin:0;
+    padding:0; } 
+#tabmenu a {
+	float:left;
+    background:url("imagenes/tableft.gif") no-repeat left top;
+    margin:0;
+    padding:0 0 0 4px;
+    text-decoration:none;
+	color: White;
+}
+#tabmenu a span {
+      float:left;
+      display:block;
+      background:url("imagenes/tabright.gif") no-repeat right top;
+      padding:5px 15px 4px 6px;
+      color: Black;
+      }
+#tabmenu active { background-position:0% -42px;} 
+#tabmenu a.active { background-position:0% -42px; } 
+#tabmenu a.active span {background-position:100% -42px;}
+#tabmenu a:hover {  background-position:0% -42px; } 
+#tabmenu a:hover span {background-position:100% -42px;
+   color:#FF9834;
+      }

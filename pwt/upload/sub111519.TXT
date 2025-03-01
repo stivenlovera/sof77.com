@@ -1,0 +1,666 @@
+
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 10            !McCormick PD/MSDS_                                                                                   ! Approved             !01-28-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 1             !SW Productt Data/MSDS- electronic                                                                    ! Approved             !03-04-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 2             !P1 SW 7004 Snnowbound/SW Promar 200 ES                                                               ! Approved             !03-08-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 3             !P2 SW 7069 Iron Ore/SW Proma r200 Flat                                                               ! Approved             !03-08-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 4             !P2 SW 7069 Iron Ore/SW Promar 200 ES                                                                 ! Approved             !03-08-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 5             !P3 SW 7069 Iron Ore/SW Promar 200 SG                                                                 ! Approved             !03-08-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 6             !P6 SW 7007 Ceiling bright White/SW Promar 200 Flat                                                   ! Approved             !03-08-2019
+
+NL: 006 ! 19 ! 1 !EverFi (006.19.1)                                                  !2300 N Street NW               !                          ! Washington                    !DC   ! 20037      ! 7             !P6 SW 7007 ceiling bright white/SW Promar Dryfall Flat                                               ! Approved             !03-08-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 1             !SW Product Data/MSDS                                                                                 ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 2             !WD-1 SW 7565 Oyster Bar/SW Promar 200 SG                                                             ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 3             !PT-1 SW 0050 Classic Light Buff/SW Promar 200 ES                                                     ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 4             !PT-2 SW 0052 Pearl Gray/SW Promar 200 ES                                                             ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 5             !PT-3 SW 7741 Willow Tree/SW Promar 200 ES                                                            ! Approved             !03-12-2019
+
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 6             !EXP-PT-3  SW 7565 Oyster Bar/SW Dryfall Flat                                                         ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 7             !PT-3 (Ceiling) SW 7757 High Reflective White/SW Promar 200 Flat                                      ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 8             !PT-5 SW 0045 Antiquarin Brown/SW ProIndustrial DTM SG                                                ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 9             !PT-6 SW 2841 Weathered Shingle/SW Pro Industrial DTM SG                                              ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 1             !SW 7005 Pue White/SW Pro Industrial DTM SG                                                           ! Approved             !03-12-2019
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 10            !PT-5 SW 0045 Antiquarin Brown/SW Promar SG                                                           ! Approved             !
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 11            !PT-6 SW 2841 Weathered Shingle/SW Promar 200 SG                                                      ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 1             !WC-1 Flux 6557W-88 Carnegie- Sample and Product Data                                                 ! Approved as noted    !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 2             !WC-2 Lumen 399982 024 Tarmac- Maharam sample and product data                                        ! Approved as noted    !
+
+
+NL: 001 ! 19 ! 3 !FEMA B413 (001.19.3)                                               !19844 Blue Ridge Mtn Road      !                          ! Mt. Weather                   !VA   ! 20135      ! 1             !Kure N Hard 200/BASF- Product data-concrete floor sealer                                             ! Approved             !03-30-2019
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 1             !PT-1 SW 7014 Elder WhiteMC Total Advan Series 09 ES                                                  ! Approved             !
+
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 3             !PT-2A SW 6642 Rhumba Orange/MC Total Advan Series 09 ES                                              ! Approved             !
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 4             !PT-2B SW6689 Overjoy MC Total Advan Series 09 ES                                                     ! Approved             !
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 5             !PT-2C SW 6417 Tupelo Tree /MC Total Advan Series 09 ES                                               ! Approved             !04-03-2019
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 6             !PT-2D SW6488 Grand Canal/MC Total Advan Series 09 ES                                                 ! Approved             !
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 7             !PT-2E SW 6550 Mythical/MC Total Advan Series 09 ES                                                   ! Approved             !
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 8             !Mc Cormick Product Data/MSDS                                                                         ! Approved as noted    !
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 10            !SW  Product DAta/MSDS-Interior                                                                       ! Approved as noted    !04-18-2019
+
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 11            !P-1 SW 7757 High Reflective White/SW Promar ES                                                       ! Approved             !04-20-2019
+
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 13            !P-2 SW 7757 High Reflective White/SW Promar SG                                                       ! Approved             !04-20-2019
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 14            !P-3 SW7007 Ceiling Bright White/SW Promar 200 Flat                                                   ! Approved             !04-20-2019
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 16            !P-4 SW7007High Reflective White/SW Promar 200 SG                                                     ! Approved             !04-20-2019
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 1             !P-5 SW 7057 Silver Strand SW Pro Indus DTM SG-inter steel colums rm 237/331-exter steel columns      ! Approved             !04-20-2019
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 2             !P-6 SW6993 Black of NIght SW Pro Indust DTM, SG                                                      ! Approved             !04-20-2019
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 3             !P-7 SW6911 Confident Yellow/SW Treadplex-edge of generator pad north & east side wall                ! Approved             !04-20-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 11            !SW7004 Snowbound/MC Series 10- SG -APT trim-kitchen,BR, Bedrm,                                       ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 12            !SW 7648 Big Chill/MC Series 08 Flat-Apt. Walls @ bedroom, living rm, dining, hall, closet walls      ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 13            !SW 7648 Big Chill /MC Series 10 SG-APT -Kitchen/bathrm walls                                         ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 14            !SW 6191 Contented /MC Series 08 Flat- Reception/Break room 112-CLUBHOUSE                             ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 15            !SW 7015 Repose Gray/MC Series 08 Flat- CLUBHOUSE-Ofc#108 to 111,115,119,122 to 124, Mech./elec. MEP  ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 16            !SW 6204 Sea Salt/MC Series 08 Flat- CLUBHOUSE-Great Room-116                                         ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 17            !SW 6205 Comfort Gray/MC Series 10 SG- Clubhouse- Toilet #113                                         ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 18            !SW 7022 Alpaca/MC Series 08 Flat-Clubhouse  Flex Space#114/Storage #114A                             ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 19            !SW 6206 Oyster Bay/MC Series 08 Flat-Clubhouse  Game Room #121                                       ! Approved             !04-21-2019
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 20            !SW6470 Waterscape/MC Series 08 -Flat -Clubhouse Flex Space#120                                       ! Approved             !04-21-2019
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 9             !PT-3 SW 7015 Repose Gray/MC Total Advan Series 10 SG- bath,trash rm, janitor rm, engineer office     ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 1             !SW Product Data/MSDS                                                                                 ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 1             !Series 1081 Endura Shied PD/Tnemec- coating for steel                                                ! Approved             !
+
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 3             !Tnemec Enviro Crete Series 156/157 PD -Concrete coatings                                             ! Approved             !
+
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 4             !Euclid Diamond Hard/Euclid chemical Co- PD/MSDS                                                      ! Approved as noted    !
+
+NL: 015 ! 19 ! 3 !Bread for the City (015.19.3)                                      !1700 Good  Hope Road SE        !                          ! Washington                    !DC   ! 20020      ! 5             !SW PD/MSDS Exterior Spec                                                                             ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 1             !SW Product Data/MSDS                                                                                 ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 2             !PT-1A BM 233 Cream Fleece/SW Promar 200 ES-lobbies & typ corridori walls Bldg A,D,F                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 3             !PT-1A BM OC-137 Sebring white/SW Promar 200/ES- lobbies & typ. corridor walls/Bldg B,C,E             ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 4             !PT-1B BM OC-122 Cotton ball /SW Promar 200 Flat-Perimeter Bldg Ceiling/Bldg A,D,E                    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 5             !PT-1B BM OC-17 White Dove/SW Promar Flat-Perimeter Bldg Ceiling/Bldg B,C, E                          ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 6             !PT-1C BM CC-20 Decorator's White/SW Promar SG- Blgg Trim/Bldg A,D,F                                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 7             !PT-1C BM hc-172 Revere Pewter/SW Promar SG/Bldg Trim /Bldg B,C, E                                    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 8             !PT-1D BM 2112-10 Mink/SW Promar ESt-Bldg Perimeter Accent Walls/Bldg A,D,F                           ! Approved             !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 9             !PT-1D BM HC-166 Kendall Charcoal/SW Promar ES- Bldg Accent walls-Bldg B,C,,E                         ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 10            !PT-1E BM CC-20 Decorator's White/SW Promar SG- interior stair walls/Bldg A,B,,D,E,,G                 ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 11            !PT-1E BM OC-52 Gray Owl/SW Promar SG-Interior stair walls- bldg C                                    ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 12            !PT-1E BM CC-20 Decorator White SW Promar SG- interior stair walls. Bldg E                            ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 13            !PT-1E BM 2134-40 Whate Gray/SW Promar SGInterior stair walls- bldg F                                 ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 14            !PT-1E BM 1527 Going to the Chapel/SW Promar SG/Interior Stair Walls- North Corridor                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 15            !PT-1F BM TC-9 Fire Engine/SW Pro Indus DTM SG-Interior Stair metals-Bldg A                           ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 16            !PT-1F BM 2065-30 Brilliant Blue/SW Pro Indus DTM SG/Interior stair metals- Bldg B                    ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 17            !PT-1F SW 6981 Passionate Purple/SW Pro Indus DTM SG- interior Stair metals- Bldg C                   ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 18            !PT-1F BM 2008-30 Raspberry Blush/SW Pro Indust DTM SG- interior stair metals- Bldg D                 ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 19            !PT-1F BM 728 Bermuda Turquoise.SW Pro Indust DTM SG- interior stair metals- Bldg E                   ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 20            !PT-1F SW0080 Pink Flamingo /SW Pro Indus DTM SG - inter stair metals- Bldg F                         ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 21            !PT-1F BM574 Once Upon a Time/SW Pro Indus DTM SG/Interior stair metals/Bldg G                        ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 22            !PT-1F BM 2041-10 Hunter Green/SW Pro Indus DTM< SG/Interior stair Metal- north corridor              ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 23            !PT-1G BM TC-9 Fire Engine/SW Promar Flat/Inter Stair ceilings-Bldg A                                 ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 24            !PT-1G BM 2065-30 Brillian Blue/SW Promar Flat/Interior stair ceilings/Bldg B                         ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 25            !PT-1G SW 6891 Passionate Purple/SW Promar Flat/Stair ceillings Bldg C                                ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 26            !PT-1G BM2008-30 Raspberry Blush SW Promar Flat/Stair ceiling/Bldg D                                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 27            !PT-1G BM728 Bermuda Turquoise/SW Promar flat/Stair ceiling/Bldg E                                    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 28            !PT-1G SW 0080 Pink Flamingo /SW Promar Flat/Stair ceiling/Bldg F                                     ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 29            !PT-1G BM574 Once Upon a Time/SW Ptromar Flat/Stair Ceiling/Bldg G                                    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 30            !PT-1G BM2041-10 Hunter GreenSW Promar Flat Stair Ceiling-North Corridor                              ! Approved             !05-08-2019
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 31            !PT-2A BM OC-52 Gray Owl/SW Promar ES- Bldg G walls typical public hallway                            ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 32            !PT-2B BM233 Cream Fleece/SW Promar Flat- Blg G Basemt ceil/1st flr all ceil/2nd Floor Atrium ceil    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 33            !PT-2C BM HC-145 Van Courtyland Blue/SW Promar Flat/Bldg G-2nd Flr ceil/Upper Wall G218-Bldg G        ! Approved             !
+                                                                                                                                                                                                                    Atrium
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 34            !PT-2D BM 233 Cream Fleece/SW Promar SG/Bldg G Atrium&Halls trim throughout/casework/bench/           ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 35            !PT-2E/PT-2F-  BM HC-142 Stratton BLue/SW Promar Flat/Bldg G-Atrium above/below chair rail            ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 37            !PT-3A BM OC-8 Elehant Tusk/SW Promar ES-Entry pavilion wall                                          ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 38            !PT-3B/PT-5C/PT-11C BM CC-20 DecoratorWhite/SW Promar Flat/Entry Pavillion/fitness/yoga rm ceiling    ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 38            !PT-3B/PT-5C/PT-11C BM CC-20 DecoratorWhite/SW Promar Flat/Entry Pavillion/fitness/yoga rm ceiling    ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 39            !PT-3C BM 1631 Midnight Oil/SW Promar SG/Entry Pavillion Trim                                         ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 40            !PT-4A /PT-6A-BMOC-52 Gray Owl SW Promar ES/North Corr lease lounge & Corr/South corr walls           ! Approved             !
+                                                                                                                                                                                                                    SC002/103
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 41            !PT-4B/ PT 6A-BM OC-52 Gray Owl SW Promar ES- North Corridror staff office walls/South Corridor Wal   ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 42            !PT-4C BM HC-166 Kenall Charcoal /SW Promar ES-work station-NC108 /WF Vestibule (NC-112)              ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 43            !PT_4D /5C/6B/7B/8B/9C/10B/11C/12B-BM CC-20 DecoratorWhite/SW PM-Flat-North/Sou Corr/typ unit CEIL    ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 44            !PT-4E/5C/6C/8C/9E/11B/12C BM CC-20 Decorator White/SW Promar SG- North/Sout Corridor- trim           ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 45            !PT-4F BM OC-52 Gray Owl/SW Promar ES- North Corridor cowork space/community library                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 46            !PT-4G BM 1631 Midnight Oil/SW Promar ES/North Corridor coffee lounge /shafts at coworking sp         ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 47            !PT-5A/PT-11A BM OC-52 Gray Owl/SW Promar SG/Fitness-Yoga Room/typical Unit Walls                     ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 48            !PT-5B BM 1631 Midnight Oil/SW Promar SG- Fitness Room shaft at wall/exter face of BR wall            ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 49            !PT-6B/PT-8B/PT-7B/PT-12B BM CC-20 Decorator White/SW Promar Flat - South Cor/unit ceil/public bath   ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 50            !PT-6C/PT-8C/PT-11B- BM CC-20 Decorator White/SW Promar SG/South Corridor /Unit/Yoga Rm Trim          ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 51            !PT-6D BM  HC-166 Kendall Charcoal/SW Promar SG-South Corr Parcel  Rm(SC104)& Vestibule(SC105)        ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 52            !PT-7A BM OC-52 Elephant tusk/SW Promar ES - connecting corridor walls                                ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 53            !PT-8D BM CC-20 Deocrator's White/SW Promar SG Entry Dr & Typical doors along corridor- Bldg A,D,F    ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 54            !PT-8D BM HC-172 Revere Pewter/SW Promar SG- typical drs & drs along corridor-Bldg B,C,E              ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 55            !PT-8D BM HC-166 Kendall Charcoal/SW Promar SG- typical dr & drs along corridor- Bldg G               ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 56            !PT-8ABM OC-17 White Dove/SW Promar ES Clubroom-Walls(b104)/typical unit walls                        ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 57            !PT-9B BM HC-60 Queen anne Pink/SW Promar Flat Accent Wall Clubroom(B104)                             ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 58            !PT-9C BM CC 20 Decorator   White/SW Promar FLAT/clubroom (B104)ceilings                              ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 59            !PT-9D BM  HC-154 Hale Navy/SW Promar FLAT- Clubroom- ceiling accent                                  ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 60            !PT-9E/PT-11B/PT//PT-12C BM CC-20 Deocorator  White/SW Promar SG-/Clubrm-Yoga Rm-BR  Trim             ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 62            !PT-11D BM CW405 Kendall Charcoal/SW Promar SG-Bldg G Yoga Rm  Dr Interior                            ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 63            !PT-12A BM 2134-40 Whale Gray/SW Promar SG Public BR Walls                                            ! Approved             !
+
+NL: 017 ! 19 ! 3 !Library of Congress Mod.6 (017.19.3)                               !100 Montgomery Meigs Road      !                          ! Fort Meade                    !MD   ! 20755      ! 10            !Eco Diamond Hard- Euclid Chemical Co - Product Data                                                  ! Approved as noted    !
+
+NL: 022 ! 19 ! 1 !Sports Facility @ Cooper Field (022.19.1)                          !3698 O Street NW               !                          ! Washington                    !DC   ! 20007      ! 1             !McCormick Product Data                                                                               ! Approved as noted    !
+
+NL: 022 ! 19 ! 1 !Sports Facility @ Cooper Field (022.19.1)                          !3698 O Street NW               !                          ! Washington                    !DC   ! 20007      ! 2             !P-1 /EX-P GYP-1 MC100 Super White EpoxySG                                                            ! Approved as noted    !
+
+
+NL: 022 ! 19 ! 1 !Sports Facility @ Cooper Field (022.19.1)                          !3698 O Street NW               !                          ! Washington                    !DC   ! 20007      ! 3             !P-2 Match Pantone 282/MC Epoxy                                                                       ! Approved as noted    !
+
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 1             !SW Product Data/MSDS                                                                                 ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 2             !EPT -SW7004 Snowbound-SW Epoxy ES- kitchen, ware washing, custodial closets, ext storage             ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 3             !PT-1 SW7004 Snowbound SW Promar Flat- ceilings                                                       ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 4             !PT-1 SW7004 Snowbound/SW Promar 200 ES- walls                                                        ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 5             !PT-1 SW7004 Snowbound/SW Promar 200 SG-trim                                                          ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 6             !PT-2 SW 6052 SW Promar 200/ES-Accent Ground floor classrooms                                         ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 7             !PT-3 SW0033 Rembrandt Ruby/SW Promar 200 ES- Accent Ground Floor Public Spaces                       ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 8             !PT-4 SW6352 Soft Apricot/SW Promar 200 ES- Accent-1st Floor Classrooms                               ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 9             !PT-5 SW2854 Caribbean Coral SW Promar 200 ES- Accent 1st Floor Public Spaces                         ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 10            !PT-6 SW 6436 Bonsai Tint/SW Promar 200 ES-Accent 2nd Floor Classrooms                                ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 11            !PT-7 SW6439 Greenfield/SW promar 200 ES/Accent 2nd Floor Public Spaces                               ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 12            !PT-8 SW 6212 Quietude/SW Promar 200 ES-Accent- 3rd floor Classrooms                                  ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 13            !PT-9 SW 0020 Peacock Plume/SW Promar 200 ES-Accent 3rd Floor Public Spaces                           ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 14            !PT-10 SW 6258 Tricorn Black/SW Promar 200 ES=Stage-walls                                             ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 15            !PT-11 SW 7568 Neutral Ground/SW Promar 200 Flat-Stage ceilings                                       ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 16            !PT-12 /PT-13 SW 7048 Urban Bronze  SW ProIndustrial DTM SG- exterior hollow metal drs/frs/misc.      ! Approved as noted    !
+                                                                                                                                                                                                                    exte
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 18            !PT-14 SW7631 City Loft/SW Promar 200 ES- walls- Historic Entrance                                    ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 19            !PT-15 SW 7035 Aesthetic White/SW Promar 200 Flat- Historic Entrance Ceilings                         ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 20            !PT-16 SW 7527 Nantucket Dune/SW promar 200 ES - Auditorium walls                                     ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 21            !PT-17 SW 7015 Repose Gray/SW Promar 200 ES Gym                                                       ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 22            !PT-18 SW 7675 SealSkin SW ProIndustrial DTM SG - inter HM drs/frs                                    ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 1             !WC-G thru WC-9 Rampart Impact Resistant WC-custom print- Product Data                                ! Approved             !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 66            !PT_10B BM CC-20 Decorator White/SW Promar Flat/porch ceilings (104b)                                 ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 67            !/PT_10A BM CC-20 Decorator /SW Promar ES-porch walls                                                 ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 68            !PT-4C BM HC-166 Kenall Charcoal /SW Promar SG-Parcel room north Corridor NC-111                      ! Approved             !
+
+NL: 022 ! 19 ! 1 !Sports Facility @ Cooper Field (022.19.1)                          !3698 O Street NW               !                          ! Washington                    !DC   ! 20007      ! 4             !P-2 Match Pantone 282/MC SG                                                                          ! Approved as noted    !
+
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 69            !PT-11D BM CW405 Kendall CharcoalSW Promar 200 Flat/Bldg G-yoga room bulkhead                         ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 1             !SW PRODUCT DATA                                                                                      ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 2             !P-1 BM OC-65 Chantilly Lace SW Promar 200 ES--general wall paint                                     ! Approved             !
+
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 3             !P-2 BM 2055-20 Pacific Ocean Blue-SW Promar ES- Accent                                               ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 4             !P-3 BM 2053-40 Blue Lake/SW Promar 200 ES- Accent                                                    ! Approved             !
+
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 5             !P-4 BM 2051-50 Tranquil Blue/SW Promar 200 ES- Accent                                                ! Approved             !
+
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 6             !P-5 BM HC-179 Platinum Gray/SW Promar 200 Flat- BreakroomSoffit                                      ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 7             !P-6 BM 1600 Timber Wolf/SW Promar 200 SG- wood base                                                  ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 8             !P-8 BM OC-65 Chantilly Lace/SW Pro Industrial DTM SG- doors/frames                                   ! Approved             !
+
+NL: 026 ! 19 ! 1 !AstraZeneca- Gov.Affairs Ofc (026.19.1)                            !801 Pennsylvania Avenue NW     !                          ! Washington                    !DC   ! 20004      ! 9             !P-9 BNM 1631 Midnight Oil.SW Promar 200 ES- Accent- walls bebind monitors                            ! Approved             !
+
+NL: 025 ! 19 ! 1 !UMMC Epilepsy Renovation (025.19.1)                                !22 South Greene Street         !                          ! Baltimore                     !MD   ! 21201      ! 1             !SW Product Data /EDS                                                                                 ! Approved             !
+
+NL: 025 ! 19 ! 1 !UMMC Epilepsy Renovation (025.19.1)                                !22 South Greene Street         !                          ! Baltimore                     !MD   ! 21201      ! 2             !P1 SW 9109 Natural Linen- SW Promar 200 ES                                                           ! Approved             !
+
+NL: 025 ! 19 ! 1 !UMMC Epilepsy Renovation (025.19.1)                                !22 South Greene Street         !                          ! Baltimore                     !MD   ! 21201      ! 3             !P1 SW 9109 Natural Linen SW Pro INdustrial DTM SG                                                    ! Approved             !
+
+NL: 025 ! 19 ! 1 !UMMC Epilepsy Renovation (025.19.1)                                !22 South Greene Street         !                          ! Baltimore                     !MD   ! 21201      ! 4             !P2 SW 7659 Gris SW Promar 200 ES                                                                     ! Approved             !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 21            !SW7004 Snowbound/MC Series 08 Flat- Apts- Mechanical Closet                                          ! Approved             !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 22            !SW 6191 Contented /MC Series 10 SG Break room 112-SG at wall surrounding Kitchenette -CLUBHOUSE      ! Approved             !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 23            !SW 6204 Sea Salt/MC Series 10 SG- CLUBHOUSE-Great Room-116 wall surrounding Kitchene/Toilet          ! Approved             !
+                                                                                                                                                                                                                    #117-118
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 24            !SW7636 Origami/MC TotalAdvan Series 10-SG-Stair walls                                                ! Approved             !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 25            !SW7024 Functional Gray/MC Series 10 SG-Stair doors, /trim/apt entry doors                            ! Approved             !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 26            !SW7024 Functional Gray/MC Interlok DTM SG-Stair handrails                                            ! Approved             !
+
+NL: 027 ! 19 ! 1 !Ritz Carlton Residence (027.19.1)                                  !3150 South Street NW           !                          ! Washington                    !DC   ! 20007      ! 1             !SW PD/EDS -Interior Painting                                                                         ! Approved             !
+
+NL: 027 ! 19 ! 1 !Ritz Carlton Residence (027.19.1)                                  !3150 South Street NW           !                          ! Washington                    !DC   ! 20007      ! 2             !P-6 SW7006 Extra White/SW Promar 200/ES-Mailroom                                                     ! Approved             !
+
+NL: 027 ! 19 ! 1 !Ritz Carlton Residence (027.19.1)                                  !3150 South Street NW           !                          ! Washington                    !DC   ! 20007      ! 3             !P-7 SW7006 Extra white/SWPromar SG- mailroom built in cabinets/shelves/doors/frames                  ! Approved             !
+
+NL: 024 ! 19 ! 3 !NGA Work Area 9.3 (024.19.3)                                       !200 Constitution Ave NW        !                          ! Washington                    !DC   ! 20002      ! 13            !P-6 East Building Stone/BM Natura -ES - temp walls                                                   ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 1             !BM OC-17 White Dove  MC Total Advan 09 ES-Phase 1- walls in/classrooms -Orig Bldg                    ! Approved as noted    !
+
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 2             !BM HC-168 Chelsea Gray/MC Total Advan Series10 SG- trim Phase 1 Orig Bldg                            ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 3             !BM 1474 Cape May Cobblestone-MC Total Advan Series 09 ES-Phase 1-accent classroom & halls- orig      ! Approved             !
+                                                                                                                                                                                                                    bldg
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 4             !BM 1611 Graytint MC Interlok ES-Phase 2-Classroom walls                                              ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 5             !BM 1613 Silent Night/MC Total Advan Series 09 ES SG Phase 2-accent walls                             ! Approved as noted    !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 6             !BM 1614 Delray Gray/MC Total Advan 10 SG - Phase 2 -trim /doors /stairs                              ! Approved as noted    !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 7             !McCormick Paint- Product Data/MSDS                                                                   ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 2             !CP-1 BM Ceiling White/SW Promar 200 Flat                                                             ! Approved as noted    !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 3             !CP-2 BM Ceiling White- SW Dryfall Flat                                                               ! Approved as noted    !
+
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 4             !P-1 BM 961 Sea Pearl/SW Promar 200 ES                                                                ! Approved as noted    !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 5             !P-2 Scuffmaster Armor match BM 961 Sea Pearl- Wolf Gordon                                            ! Approved as noted    !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 6             !P-3 BM 961 Sea Pearl SW Promar 200 SG                                                                ! Approved as noted    !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 7             !P-5 Scuffmaster Scrutough Max - PPG 1010-2  Fog- Wolf Gordon-                                        ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 1             !SW 7675 Sealskin/SW Pro Industrial DTM SG- metal panels exterior                                     ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 2             !SW 7020 Black Fox/SW Pro Industrial DTM SG- metal panels- exterior                                   ! Approved as noted    !
+
+NL: 002 ! 19 ! 1 !Takoma Place Apartments (002.19.1)                                 !6676 Georgia Avenue NW         !                          ! Washington                    !DC   ! 20012      ! 1             !SW 7602 Indigo Batik/MC Interlok DTM SG- exterior doors                                              ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 70            !/PT-9A BM OC-17 White Dove/SW Promar Flat- Clubroom walls (B104)                                     ! Approved             !
+
+NL: 035 ! 19 ! 1 !JBGS Gtown Uptown (035.19.1)                                       !2115 Wisconsin Avenue NW       !                          ! Washington                    !DC   ! 20007      ! 1             !P1 BM PM-1 SUPER WHITE/SW PROMAR 200 FLAT - CEILINGS                                                 ! Approved             !
+
+NL: 035 ! 19 ! 1 !JBGS Gtown Uptown (035.19.1)                                       !2115 Wisconsin Avenue NW       !                          ! Washington                    !DC   ! 20007      ! 2             !P1 BM PM1 SUPER WHITE /SW Promar 200 ES- Walls                                                       ! Approved             !
+
+NL: 035 ! 19 ! 1 !JBGS Gtown Uptown (035.19.1)                                       !2115 Wisconsin Avenue NW       !                          ! Washington                    !DC   ! 20007      ! 3             !SW  Product DAta                                                                                     ! Approved as noted    !
+
+NL: 030 ! 19 ! 1 !JPMC Bank Rockville Pike (030.19.1)                                !12097 Rockville Pike           !                          ! Rockville                     !MD   ! 20825      ! 22            !SC-1 Deck Gray/SW Tread-Plex Acrylicv WB- SG- concrete floor paint                                   ! Approved             !
+
+NL: 030 ! 19 ! 1 !JPMC Bank Rockville Pike (030.19.1)                                !12097 Rockville Pike           !                          ! Rockville                     !MD   ! 20825      ! 1             !WC-401 Recore Baccarat Lumiere NA-31-JPM500-DL Couch-sample & data                                   ! Approved as noted    !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 1             !SW Product Data                                                                                      ! Approved as noted    !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 2             !PT-103 BM OC-25 Cloud Cover/SW Promar ES- ceiling                                                    ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 3             !PT-207 BM 984 Stone Hearth/SW Promar ES- walls- lobby/open PCM/manual transaction wall               ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 4             !PT-207 BM 984 Stone Hearth//SW All PurposeSAtin- drs/ frames/lobby-PCM -manual transaction wall      ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 5             !PT-301 BM 211-40 Taos Taupe/SW Promar ES- Walls- Mketing/Media                                       ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 6             !PT-301 BM 211-40 Taos Taupe/SW all PurposeSatin  drs/frs- media/marketing                            ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 7             !PT-308 SW6512 Balmy/SW Promar ES- Accent walls-cafe                                                  ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 8             !PT-308 SW6512 Balmy/SW All PurposeSatin- drs/frs- accent                                             ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 9             !PT-309 SW6515 Leisure Blue/SW Promar  ES-walls-accent paint 1                                        ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 10            !PT-309 SW6515 Leisure Blue/SW All Purpose Satin -drs/frames accent                                   ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 11            !PT-310 SW6517 REgatta/SW PromarES Walls-accent Cafe                                                  ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 12            !PT-310 SW6517 REgatta/SW All PurposeSatin- drs/frames- accent Cafe                                   ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 13            !PT-311 BM 2063-10 Old Navy Sw Promar  ES-walls accent                                                ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 14            !PT-311 BM 2063-10 Old Navy SW All PurposeSatin-drs/frs-accent                                        ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 15            !PT-312 BM White SW All purposeSatin- Small Cafe Cabinet                                              ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 16            !PT-314 SW6516 Down Pour/SW PromarES- walls- Accent Paint                                             ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 17            !PT-314 SW6516 Down Pour/SW All Purpose SAtin- drs/frs- accent                                        ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 18            !PT-315 SW6514 Respite/SW Proma r ES -Accent - walls                                                  ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 19            !PT-315 SW6514 Respite/SW All PurposeSatin- drs/frames- accent                                        ! Approved             !
+
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 20            !PT-400 BM2064-30 Ole Blue Eyes/SW Promar ES - walls Accent                                           ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 21            !PT-400 BM2064-30 Ole Blue Eyes/SW All Purpose Satin-drs/frames- accent                               ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 22            !SC-Deck Gray SW TreadPlex Acrylic WB SG- concrete floor coating                                      ! Approved as noted    !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 1             !WC-401 Recore Baccarat Lumiere NA-31-JPM500-DL Couch- samnle and PD                                  ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 2             !High Build Epoxoline II Series N69- Tnemec- Intermediate Coat-PD                                     ! Approved             !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 23            !EPT-- Pro Industrial WB Catalyzed Epoxy Gloss- Product Data                                          ! Approved as noted    !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 1             !Euclid Diamond Hard- Euclid Chemical Co- Product Data- Concrete floor sealer                         ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 8             !282 Vaporize- Johnsonite- base color                                                                 ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 9             !BM OC-17 White Dove  MC Total Advan 10 SG-Phase 1- walls in jalls/restrooms -Orig Bldg               ! Approved             !
+
+NL: 028 ! 19 ! 1 !Old Congress Hgts Repaint (028.19.1)                               !3100 MLK JR. Blvd SE           !                          ! Washington                    !DC   ! 20032      ! 10            !BM 1611 Graytint MC Total advantage Series 10 SG-Phase 2- halsl and restrooms -                      ! Approved             !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 2             !SW 7008 Alabaster/SW Promar 200 SG- trim-drs/frames                                                  ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 8             !P-4-Match PPG1010-2 Fog/SW Promar 200 ES - CMU Walls Interior                                        ! Approved as noted    !
+
+NL: 010 ! 19 ! 3 !Residences @ St Elizabeth East (010.19.3)                          !1201 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 71            !PT-2G BM CC-20 Decorators White/SW Promar Flat/Blg G Atrium Typical Public Ceiling                   ! Approved             !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 3             !SW Standard White/SW Promar 200 ES- ceilings at Restroom, cooridors, bulkhead at MultiPurpose rm     ! Approved             !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 4             !SW 9110 Malabar/SW Promar 200 ES-multi-purppose roomnwalls                                           ! Approved             !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 5             !SW 9109 Natuarl Linen SW Promar 200 ES- Restrooms, corridors, stairwellnwalls                        ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 1             !Roman - Adhesive ECO888 & Primer-ECO988- Product Data                                                ! Approved as noted    !
+
+NL: 033 ! 19 ! 1 !St. Bartholomew Catholic Churc (033.19.1)                          !6900 River Road                !                          ! Bethesda                      !MD   ! 20817      ! 6             !SW Black/SW Pro Industrial DTM SG - stair riser and railings                                         ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 23            !Kem Bond HS Primer- SW Data- basement ceilings- med gray                                             ! Approved as noted    !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 1             !PT-1 SW6868 Real Red/Sw Promar 200 ES                                                                ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 2             !PT-2 SW 6901 Decisive Yellow/SW Promar ES                                                            ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 4             !PT-4 Benjamin Moore 1386 Purple Rain                                                                 ! Approved as noted    !
+
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 5             !PT-5 SW7007 Ceiling Bright White/SW Promar Flat                                                      ! Approved as noted    !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 6             !PT-6 SW 7064 Passive/SW Promar ES                                                                    ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 7             !PT-6 SW 7064 Passive SW Pro Industrial DTM SG                                                        ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 8             !PT-7 SW7073 Network Gray/SW Promar 200 ES                                                            ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 9             !PT-8 SW 6994 Greenblack/SW PromarFlat                                                                ! Approved             !
+
+NL: 037 ! 19 ! 1 !Elsie Whitlow Stokes PCS Reno (037.19.1)                           !5600 East Capitol St NE        !                          ! Washington                    !DC   ! 20019      ! 10            !SW Product Data                                                                                      ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 1             !E1/E6 - SW 6995 Super White/SW Metaltex SG                                                           ! Approved             !
+
+NL: 031 ! 19 ! 1 !JPMC P Street Bank (031.19.1)                                      !3217 P Street NW               !                          ! Washington                    !DC   !            ! 2             !E2/E3/E9- SW 6258 Tricorn Black/SW Metaltex SG                                                       ! Approved             !
+
+NL: 009 ! 19 ! 3 !Ward 3 Short Term Housing (009.19.3)                               !3220 Idaho Avenue NW           !                          ! Washington                    !DC   ! 22016      ! 1             !PT-1 SW 7014 Elder WhiteMC Interlok DTM SG- doors and frames both sides                              ! Approved as noted    !
+
+
+NL: 036 ! 19 ! 3 !Ward 1 STFH (036.19.3)                                             !2500 14th Street NW            !                          ! Washington                    !DC   ! 20009      ! 1             !PPG Product Data                                                                                     ! Approved as noted    !
+
+NL: 159 ! 19 ! 3 !Botanic Gardens Tropic Bridge (159.19.3)                           !100 Maryland Ave SW            !                          ! Washington                    !DC   ! 20001      ! 1             !SW PD-EDS                                                                                            ! Approved as noted    !
+
+NL: 159 ! 19 ! 3 !Botanic Gardens Tropic Bridge (159.19.3)                           !100 Maryland Ave SW            !                          ! Washington                    !DC   ! 20001      ! 2             !SW White- Macorproxy 646 -                                                                           ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 1             !PNT-1 SW 7070 Site White- SW Promar 200 ES -Field paint (walls)                                      ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 2             !PNT-2 SW7070 Site White/SW Promar SG- doors/Frames                                                   ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 3             !PNT-4a SW7007 Ceiling Bright White- SW Promar Flat- ceilings gypsum                                  ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 4             !PNT-4b SW 7007 Ceiling Bright White SW Pro WB Dryfall Flat - open area ceilings to slab              ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 5             !SW Product Data/EDS                                                                                  ! Approved             !
+
+NL: 107 ! 19 ! 1 !Double Tree Tysons (107.19.1)                                      !1960 Chain Bridge Road         !                          ! McLean                        !VA   ! 22102      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 1             !PPG Product Data - SDS                                                                               ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 2             !PT-01 SW 7004 Snowbound/ PPG Speedhide ES - walls and ceilings Washroom                              ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 3             !PT-02 SW 7028 Incredible White/PPG Speedhide ES- walls ceilings- model room                          ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 4             !PT-03 SW 7566 West Highland White/PPG Speedhide ES- Corridor ceilings and walls                      ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 5             !PT-04 SW7566 West Highland White/PPG Satin - baseboards and trims                                    ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 6             !PT-05 SW2133 Dramatic Black/PPG Speedhide Satin- millwork washroom - door& Partition millwork to WC  ! Approved             !
+
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 1             !WC-01 Odyssey L2-TS-16 Tailored Silk-Angora- Odyssey WC-sample/product data                          ! Approved             !
+
+NL: 107 ! 19 ! 1 !Double Tree Tysons (107.19.1)                                      !1960 Chain Bridge Road         !                          ! McLean                        !VA   ! 22102      ! 1             !BRZ3 Chestnut Bronze SWPro Industrial WB Acrolon 100 Gloss                                           ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 3             !AL-1 PPG DUranar XL Champagne Metallic - Color match - Series 1078 Tnemec                            ! Approved             !
+
+NL: 022 ! 19 ! 1 !Sports Facility @ Cooper Field (022.19.1)                          !3698 O Street NW               !                          ! Washington                    !DC   ! 20007      ! 1             !SW Acrolon 218 HS product data  (ASI #32 CR#2)- color to be selected                                 ! Approved             !
+
+NL: 189 ! 19 ! 1 !Pendry Hotel Model Room (189.19.1)                                 !1000 Maine Avenue SW           !                          ! Washington                    !DC   !            ! 8             !RAL 9004 Signal Black/ PPG  SH DTM SG- door frames for Suite Entry door - RFI 007                    ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 1             !P1 SW7009 Pearly White/PPG Pure Performance Eggshell- overall paint                                  ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 2             !P2 SW6236 Grays Harbor PPG Pure Performance ES Accent                                                ! Approved as noted    !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 3             !P3 SW7069 Iron Ore /PPG Pure Performance SG - SCWD door paint                                        ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 4             !P4 SW 7009 Pearly White PPG Pure Performance Flat -ceiling drywall                                   ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 5             !P4 SW 7009 Pearly White /PPG SH Super Tech Dryfog Flat- exposed ceiling                              ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 1             !WC1 spark 6704-801 Marble - Design Tex-  PD /sample- 10th floor elevator lobby                       ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 2             !WC2 Denim 6696-402 Indigo- Designtex- sample and product data- Mother's Room                         ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 7             !PPG product data                                                                                     ! Approved             !
+
+NL: 007 ! 19 ! 1 !1901 L Street NW Reno (007.19.1)                                   !1901 L Street NW               !                          ! Washington                    !DC   !            ! 4             !PPG1010-2 Fog - Enviro Crete 156-Smooth -Tnemec                                                      ! Approved             !
+
+NL: 192 ! 19 ! 3 !AM Upgrade HVAC Sys (192.19.3)                                     !1901 Fort Place SE             !                          ! Washington                    !DC   ! 20020      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 2             !PT1 SW7567 Natural Tan SW Promar ES                                                                  ! Approved as noted    !
+
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 3             !PT1 SW7567 Natural Tan SW Promar Flat                                                                ! Approved as noted    !
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 4             !PT1 SW7567 Natural Tan SW Pro Industrial DTM SG                                                      ! Approved             !
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 5             !PT2 SW 6779 Liquid Blue SW Promar ES                                                                 ! Approved as noted    !
+
+NL: 194 ! 19 ! 1 !Sentara Century Suite 210 (194.19.1)                               !2280 Opitz Blvd                !                          ! Woodbridge                    !VA   ! 22191      ! 6             !PT3 SW6501 Manitou Blue SW Promar ES                                                                 ! Approved as noted    !
+
+NL: 197 ! 19 ! 3 !NSF-Trailerwood Refresh TO#147 (197.19.3)                          !Naval Support Facility         !Camp David                ! Thurmont                      !MD   !            ! 1             !SW 7052 Gray Area/SW Promar 200 ES- walls that are indicated gray wall                               ! Approved             !
+
+NL: 197 ! 19 ! 3 !NSF-Trailerwood Refresh TO#147 (197.19.3)                          !Naval Support Facility         !Camp David                ! Thurmont                      !MD   !            ! 2             !SW7103 Whitetail/SW Promar 200 ES- all other walls, trim and doors                                   ! Approved             !
+
+NL: 197 ! 19 ! 3 !NSF-Trailerwood Refresh TO#147 (197.19.3)                          !Naval Support Facility         !Camp David                ! Thurmont                      !MD   !            ! 3             !SW 7052 Gray Area./SW Promar SG - cabinetry                                                          ! Approved             !
+
+NL: 197 ! 19 ! 3 !NSF-Trailerwood Refresh TO#147 (197.19.3)                          !Naval Support Facility         !Camp David                ! Thurmont                      !MD   !            ! 4             !KILZ Adhesion primer - use as primer on all areas                                                    ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 1             !WC01 THRU WC06- PRODUCT DATA SPECS                                                                   ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 2             !WC-01 WC1980 Frankling backed 3B Antique -Knoll Textiles-typical floor/breakroom hub/ elevator       ! Approved             !
+                                                                                                                                                                                                                    lobby
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 3             !WC-02 399568 Taut 010 Splendor/ Maharam-typical floor/shared wall between  breakroom Hub & Workshop  ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 4             !WC-03 Subduction Forest /Flavor Paper-Fitness Center                                                 ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 5             !WC-04 Twinkle 6685-101 Shell /Designtex-Visitor Lobby                                                ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 6             !WC-05 Transition 399530-001 Black & Orange/Maharam- Cafe                                             ! Approved as noted    !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 7             !WC-06 Dhurga 7015-01 white washed Luum-Level 12 west corridor                                        ! Approved             !
+
+NL: 019 ! 19 ! 3 !Eliot-Hine Middle School (019.19.3)                                !1830 Constitution Ave NE       !                          ! Washington                    !DC   ! 20002      ! 24            !AD Firefilm III- Carboline- Intumescent Coating Product Data                                         ! Approved             !
+
+NL: 185 ! 19 ! 1 !Suite #810 -Panasonic (185.19.1)                                   !505 8th Street NW              !                          ! Washington                    !DC   ! 20004      ! 6             !SW7648 Big Chill- SW Promar 200 SG - temporary backspash in Pantry                                   ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 8             !P2a Idea Paint/ Dry  Erase/Clear - WG Product Data                                                   ! Approved             !
+
+NL: 093 ! 19 ! 1 !Earth Justice (093.19.1)                                           !1001 G Street NW               !                          ! Washington                    !DC   ! 20001      ! 9             !P6 SW 6993 black of night -PPG Pitt Tech Plus DTM SG                                                 ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 1             !PPG Product DAta                                                                                     ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 2             !PT-01 BM 2121-60 White Diamond - PPG SH ES                                                           ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 3             !PT-02 BM HC-178 Charcoal Slate PPG SH ES                                                             ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 4             !PT-03 BM 2133-30 Days End PPG SH ES                                                                  ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 5             !PT-04 BR-015  GOH 12719330 (green) Burnished Metallic Scuffmaster Wolf Gordon                        ! Approved as noted    !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 6             !PT-05  BR-023 GOH 12719370 (blue) Burnished Metallic Vib Coolmetal Scuffmaster Wolf Gordon           ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 7             !PT 04/PT-05 Burnished Metal - Scuffmaster-Wolf Gordon- Product Data                                  ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 8             !PT-06 BM 1459 Metro Gray PPG SH ES                                                                   ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 9             !PT-07 BM 2121-10 Gray PPG SH ES                                                                      ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 10            !PT-08 SW 7643 Pussywillow PPG SH ES                                                                  ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 11            !PT-09 SW 6126 Navajo White PPG SH ES                                                                 ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 12            !PT-10 BM 2032-20 Traffic Light Green PPG SH Flat                                                     ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 8             !ECO 888 Premium Clear Strippable Adhesive - (WC) Roman Decorating Products-Product Data              ! Approved             !
+
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 9             !ECO 988 Pigmented WC Primer- Roman - Product Data                                                    ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 13            !SPT-01 SM10261 SOLID METAL SCUFFMASTER WOLF GORDON PRODUCT DATA                                      ! Approved             !
+
+NL: 193 ! 19 ! 3 !DEA Headquarters (193.19.3)                                        !600 & 700 Army Navy Drive      !Floors 1 thr 12 - 2 bldgs ! Arlington                     !VA   ! 22202      ! 14            !SPT-01 SM10261 SOLID METAL SCUFFMASTER WOLF GORDON                                                   ! Approved             !

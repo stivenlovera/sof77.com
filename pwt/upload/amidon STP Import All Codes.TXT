@@ -1,0 +1,19 @@
+
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            20.110  ,   Walls/DW Ceiling - Prime       ,         26.67
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            21.120  ,   Walls - 2nd Coat Finish        ,         24.62
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            21.130  ,   Walls - 3rd Coat Finish        ,         22.54
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            24.110  ,   CMU Walls - Blockfiller        ,          1.26
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            28.120  ,   Doors Only - 1st/2nd Coat      ,          2.52
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   1st        , 1st Floor                              ,            28.130  ,   Frames Only - 1st/2nd Coat     ,         11.83
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            20.110  ,   Walls/DW Ceiling - Prime       ,         20.00
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            21.120  ,   Walls - 2nd Coat Finish        ,         18.46
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            21.130  ,   Walls - 3rd Coat Finish        ,         16.90
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            24.110  ,   CMU Walls - Blockfiller        ,          1.26
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            28.120  ,   Doors Only - 1st/2nd Coat      ,          2.10
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   2nd        , 2nd Floor                              ,            28.130  ,   Frames Only - 1st/2nd Coat     ,          7.69
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   BASE       , Base Job                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,          1.00
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.120  ,   Walls - 2nd Coat Finish        ,          1.00
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.130  ,   Walls - 3rd Coat Finish        ,          1.00
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   BASE       , Base Job                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          1.00
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   Ext        , Exterior                               ,            29.900  ,   Lintels                        ,          8.53
+NL:      019.23.3  ,  Amidon Bowen 401 I St NW                           ,01, =    , 01, = ,   Ext        , Exterior                               ,            50.800  ,   Stair Metal                    ,         30.00

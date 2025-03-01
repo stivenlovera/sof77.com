@@ -1,0 +1,4 @@
+NL:      047.20.1  ,  2021 Inaugural Stands                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            10.410  ,   Trucks                         ,        120.00
+NL:      047.20.1  ,  2021 Inaugural Stands                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            20.110  ,   Walls/DW Ceiling - Prime       ,        209.28
+NL:      047.20.1  ,  2021 Inaugural Stands                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            21.120  ,   Walls - 2nd Coat Finish        ,        209.28
+NL:      047.20.1  ,  2021 Inaugural Stands                              ,01, =    , 01, = ,   SH01       , Shop Plywood                           ,            21.130  ,   Walls - 3rd Coat Finish        ,        209.28

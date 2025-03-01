@@ -1,0 +1,5 @@
+
+NL:      081.20.1  ,  MLK Gateway Enlightened TI                         ,01, =    , 01, = ,   BASE       , Base Job                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,          1.00
+NL:      081.20.1  ,  MLK Gateway Enlightened TI                         ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.120  ,   Walls - 2nd Coat Finish        ,          1.00
+NL:      081.20.1  ,  MLK Gateway Enlightened TI                         ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.130  ,   Walls - 3rd Coat Finish        ,          1.00
+NL:      081.20.1  ,  MLK Gateway Enlightened TI                         ,01, =    , 01, = ,   BASE       , Base Job                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          1.00

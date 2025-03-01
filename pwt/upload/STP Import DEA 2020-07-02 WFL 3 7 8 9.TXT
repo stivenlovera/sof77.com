@@ -1,0 +1,31 @@
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West  Floor 03                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         17.87
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            21.120  ,   Walls - 2nd Coat Finish        ,        13.93
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         17.41
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,         7.48
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          65.28
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         4.44
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL03       , West Floor 03                               ,            60.200  ,   Sizing                         ,          1.12
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         17.87
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            21.120  ,   Walls - 2nd Coat Finish        ,        12.84
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         16.05
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,         5.03
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          32.02
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         4.92
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL07       , West Floor 07                               ,            60.200  ,   Sizing                         ,          1.12
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         17.87
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            21.120  ,   Walls - 2nd Coat Finish        ,        12.84
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         16.05
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,         5.03
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          32.02
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         4.92
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL08       , West Floor 08                               ,            60.200  ,   Sizing                         ,          1.12
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         17.87
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            21.120  ,   Walls - 2nd Coat Finish        ,        12.84
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         16.05
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            22.120  ,   DW Ceiling - 2nd & erd Finish  ,         5.03
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          32.02
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         4.92
+NL:      193.19.3  ,  DEA                                ,01, =    , 01, West Floors ,   FL09       , West Floor 09                               ,            60.200  ,   Sizing                         ,          1.12
+
+
+

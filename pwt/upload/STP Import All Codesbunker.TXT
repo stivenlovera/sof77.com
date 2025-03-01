@@ -1,0 +1,17 @@
+
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,              ,                                        ,            80.120  ,   PWT Only Punchlilst            ,         16.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   1st        , First Floor                            ,            20.110  ,   Walls/DW Ceiling - Prime       ,         39.94
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   1st        , First Floor                            ,            21.120  ,   Walls - 2nd Coat Finish        ,         35.38
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   1st        , First Floor                            ,            21.130  ,   Walls - 3rd Coat Finish        ,         33.61
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   1st        , First Floor                            ,            22.120  ,   DW Ceiling - 2nd & 3rd Finish  ,          3.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   1st        , First Floor                            ,            28.130  ,   Frames Only - 1st/2nd Coat     ,         12.03
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   2nd        , Second Floor                           ,            20.110  ,   Walls/DW Ceiling - Prime       ,         11.74
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   2nd        , Second Floor                           ,            21.120  ,   Walls - 2nd Coat Finish        ,         10.71
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   2nd        , Second Floor                           ,            21.130  ,   Walls - 3rd Coat Finish        ,         10.17
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   2nd        , Second Floor                           ,            28.130  ,   Frames Only - 1st/2nd Coat     ,          2.58
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   BASE       , Base Job                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,          1.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.120  ,   Walls - 2nd Coat Finish        ,          1.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.130  ,   Walls - 3rd Coat Finish        ,          1.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   BASE       , Base Job                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          1.00
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   Ext        , Exterior                               ,            29.900  ,   Lintels                        ,          2.40
+NL:      022.23.3  ,  Bunker Hill ES - CDC                               ,01, =    , 01, = ,   Ext        , Exterior                               ,            40.300  ,   Steel Railings                 ,          1.80

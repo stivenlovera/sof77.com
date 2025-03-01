@@ -1,0 +1,12 @@
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   SH01      , Shop Plywood                     ,            20.110  ,   Walls/DW Ceiling - Prime       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,  SH01      , Shop Plywood                                ,            21.120  ,   Walls - 2nd Coat Finish        ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,SH01      , Shop Plywood                              ,            21.130  ,   Walls - 3rd Coat Finish        ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   SS01   , Site Stands                                ,            21.140  ,   Walls-4th.Coat Finish    ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   SS01   , Site Stands                              ,            40.300  ,  Steel Railing       ,          0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   SS01   , Site Stands                                  ,            26.120  , Floor Paint 1st. and 2nd. coat  ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,   SS01   , Site Stands                                  ,            21.150  ,   Walls - 5th. Coat finish   ,         0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01 , = ,   ,Common Items TouchUp hrs./Punch List  ,            80.120  ,   PWT Only/Punchlilst            ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01 , = ,   ,Common Items TouchUp hrs./Punch List  ,            80.110  ,   Touch up hrs./allowance  ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,TI01,Ticket work ,           95.110           , Ticket work             ,0
+NL:      000.00.0  ,  For standard cost code                     ,01, =    , 01, = ,--- ,z.No Show up/No Worked , VACNOSHOW ,  z.No show up/No worked ,0
+

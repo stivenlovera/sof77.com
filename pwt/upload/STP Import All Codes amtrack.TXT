@@ -1,0 +1,8 @@
+
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,              ,                                        ,            80.110  ,   Touch Up Allowance             ,         48.00
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            24.110  ,   CMU Walls - Blockfiller        ,          6.67
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            24.120  ,   CMU Walls - 2nd Coat Finish    ,          3.33
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            24.130  ,   CMU Walls - 3rd Coat Finish    ,          3.33
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            50.200  ,   Red Sprinkler Pipe             ,         71.43
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            50.500  ,   AESS Steel                     ,        288.33
+NL:      028.20.3  ,  Acela 21 S&I Facility (Ivy Cit                     ,01, =    , 01, = ,   FL01       , Floor01                                ,            50.800  ,   Stair Metal                    ,        187.50

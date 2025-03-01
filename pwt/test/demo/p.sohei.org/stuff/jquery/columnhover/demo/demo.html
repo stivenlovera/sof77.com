@@ -1,0 +1,214 @@
+<html>
+<head>
+<title>jQuery columnHover plugin demo page</title>
+<script type="text/javascript" src="jquery-1.1.3.1.pack.js"></script>
+<script type="text/javascript" src="jquery.columnhover.js"></script>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+	$('#tableone').columnHover();
+	$('#tabletwo').columnHover({eachCell:true, hoverClass:'betterhover'});
+	$('#tablethree').columnHover({eachCell:true, hoverClass:'betterhover'});
+	$('#tablefour').columnHover({eachCell:true, hoverClass:'betterhover', includeSpans:false});
+	$('#tablefive').columnHover({eachCell:true, hoverClass:'betterhover', ignoreCols: [5, 6, 7, 8]});
+});
+-->
+</script>
+<style type="text/css">
+td.hover, #tableone tbody tr:hover
+{
+	background-color: LemonChiffon;
+}
+td.betterhover, #tabletwo tbody tr:hover
+{
+	background: LightCyan;
+}
+table
+{
+	margin: 10px 50px;
+	border: 1px solid gray;
+	border-collapse: collapse;
+	border-spacing: 0;
+	text-align: center;
+	width: 400px;
+}
+thead
+{
+	background: bisque;
+}
+tfoot
+{
+	background: khaki;
+	text-align: center;
+}
+td, th
+{
+	border: 1px solid gray;
+}
+</style>
+</head>
+<body>
+
+
+<div class="exa">
+<h1>Example one:</h1>
+	<ul><li>allow column hovering/highlighting for the table with the ID attribute &quot;#tableone&quot;</li></ul>
+	<pre><code class="javascript">
+	$('#tableone').columnHover();
+	</code></pre>
+	<table id="tableone">
+		<thead>
+			<tr><th colspan="2">A</th><th colspan="2">B</th><th colspan="2">C</th><th colspan="2">D</th></tr>
+			<tr><th>A+</th><th>A-</th><th>B+</th><th>B-</th><th>C+</th><th>C-</th><th>D+</th><th>D-</th></tr>
+		</thead>
+		<tfoot>
+			<tr><td>11</td><td>4</td><td>9</td><td>8</td><td>2</td><td>2</td><td>1</td><td>4</td></tr>
+		</tfoot>
+		<tbody>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="exa">
+<h1>Example two:</h1>
+	<ul><li>allow column hovering/highlighting for the table with the ID attribute &quot;#tabletwo&quot;</li>
+		<li>allow highlighting even when hovering inside the table body and table footer</li>
+		<li>sets the style class &quot;betterhover&quot; to the cells in the column with the mouse over</li></ul>
+	<pre><code class="javascript">
+	$('#tabletwo').columnHover({eachCell:true, hoverClass:'betterhover'});
+	</code></pre>
+	<table id="tabletwo">
+		<thead>
+			<tr><th colspan="2">A</th><th colspan="2">B</th><th colspan="2">C</th><th colspan="2">D</th></tr>
+			<tr><th>A+</th><th>A-</th><th>B+</th><th>B-</th><th>C+</th><th>C-</th><th>D+</th><th>D-</th></tr>
+		</thead>
+		<tfoot>
+			<tr><td>11</td><td>4</td><td>9</td><td>8</td><td>2</td><td>2</td><td>1</td><td>4</td></tr>
+		</tfoot>
+		<tbody>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="exa">
+<h1>Example three:</h1>
+	<ul><li><strong>same as above with some rowspans and colspans</strong></li></ul>
+	<pre><code class="javascript">
+	$('#tablethree').columnHover({eachCell:true, hoverClass:'betterhover'});
+	</code></pre>
+	<table id="tablethree">
+		<thead>
+			<tr><th colspan="2">A</th><th colspan="2">B</th><th colspan="2">C</th><th colspan="2">D</th></tr>
+			<tr><th>A+</th><th>A-</th><th>B+</th><th>B-</th><th>C+</th><th>C-</th><th>D+</th><th>D-</th></tr>
+		</thead>
+		<tfoot>
+			<tr><td>11</td><td>4</td><td>9</td><td>8</td><td>2</td><td>2</td><td>1</td><td>4</td></tr>
+		</tfoot>
+		<tbody>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td colspan="3">-</td><td>-</td></tr>
+			<tr><td rowspan="3">X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td rowspan="2">-</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td colspan="5">X</td><td>X</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="exa">
+<h1>Example four:</h1>
+	<ul><li><strong>again same as above with some rowspans and colspans but set to not include the colspans in the body in the process</strong></li></ul>
+	<pre><code class="javascript">
+	$('#tablefour').columnHover({eachCell:true, hoverClass:'betterhover', includeSpans:false});
+	</code></pre>
+	<table id="tablefour">
+		<thead>
+			<tr><th colspan="2">A</th><th colspan="2">B</th><th colspan="2">C</th><th colspan="2">D</th></tr>
+			<tr><th>A+</th><th>A-</th><th>B+</th><th>B-</th><th>C+</th><th>C-</th><th>D+</th><th>D-</th></tr>
+		</thead>
+		<tfoot>
+			<tr><td>11</td><td>4</td><td>9</td><td>8</td><td>2</td><td>2</td><td>1</td><td>4</td></tr>
+		</tfoot>
+		<tbody>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td colspan="3">-</td><td>-</td></tr>
+			<tr><td rowspan="3">X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td rowspan="2">-</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td colspan="5">X</td><td>X</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="exa">
+<h1>Example five:</h1>
+	<ul><li>allow column hovering/highlighting for the table with the ID attribute &quot;#tablefive&quot;</li>
+		<li>allow highlighting even when hovering inside the table body and table footer</li>
+		<li>sets the style class &quot;betterhover&quot; to the cells in the column with the mouse over</li>
+		<li>ignore columns &quot;C&quot; and &quot;D&quot;</li></ul>
+	<pre><code class="javascript">
+	$('#tablefive').columnHover({eachCell:true, hoverClass:'betterhover', ignoreCols: [5, 6, 7, 8]});
+	</code></pre>
+	<table id="tablefive">
+		<thead>
+			<tr><th colspan="2">A</th><th colspan="2">B</th><th colspan="2">C</th><th colspan="2">D</th></tr>
+			<tr><th>A+</th><th>A-</th><th>B+</th><th>B-</th><th>C+</th><th>C-</th><th>D+</th><th>D-</th></tr>
+		</thead>
+		<tfoot>
+			<tr><td>11</td><td>4</td><td>9</td><td>8</td><td>2</td><td>2</td><td>1</td><td>4</td></tr>
+		</tfoot>
+		<tbody>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+			<tr><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+		</tbody>
+	</table>
+</div>
+</body>
+</html>

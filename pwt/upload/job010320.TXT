@@ -1,0 +1,39 @@
+
+
+NL:001 !20  ! 2  ! 1800 Perry Street (001.20.2)                                               ! 1800 Perry Street NW                                                       !                                         !Washington                             !DC   !              !  !   !
+
+NL:002 !20  ! 3  ! NSF/19/TO81 SidingMaint G1-G2 (002.20.3)                                   ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:003 !20  ! 1  ! Politics & Prose Bookstore (003.20.1)                                      ! 5015 Connecticut Ave NW                                                    !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:004 !20  ! 1  ! Corpus Christi Church (004.20.1)                                           ! 41662 Corpus Christi Drive                                                 !                                         !Aldie                                  !VA   !20105         !  !   !
+
+NL:005 !20  ! 1  ! 1275 K Street Lobby (005.20.1)                                             ! 1275 K Street NW                                                           !                                         !Washington                             !DC   !20005         !  !   !
+
+NL:006 !20  ! 1  ! One DC BWWC (006.20.1)                                                     ! 2500 MLK Jr. Avenue SE                                                     !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:007 !20  ! 1  ! Healy Hall- Georgetown (007.20.1)                                          ! 37th & O Street NW                                                         !G-19                                     !Washington                             !DC   !20059         !  !   !
+
+NL:008 !20  ! 1  ! 505 9th St McKesson (008.20.1)                                             ! 505 9th Street NW                                                          !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:009 !20  ! 2  ! Smoot Office (009.20.2)                                                    ! 5335 Wisconsin Ave NW                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:010 !20  ! 3  ! NSF TO#127 CHESTNUT (010.20.3)                                             ! 14900 PARK CENTRAL ROAD                                                    !                                         !THRUMONT                               !MD   !21788         !  !   !
+
+NL:011 !20  ! 1  ! Gelberg Signs (011.20.1)                                                   ! 6511 Chillum Place NW                                                      !                                         !Washington                             !DC   !20012         !  !   !
+
+NL:012 !20  ! 1  ! DOD Project 555-12th St (012.20.1)                                         ! 555 12th Street NW                                                         !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:013 !20  ! 1  ! Sterling Community Center Reno (013.20.1)                                  ! 120 Enterprise Street                                                      !                                         !Sterling                               !VA   !20164         !  !   !
+
+NL:014 !20  ! 1  ! 1875 K Street 3rd Floor (014.20.1)                                         ! 1875 K Street NW                                                           !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:015 !20  ! 4  ! Stepping Stones (015.20.4)                                                 ! 1070 Copperstone Ct                                                        !                                         !Rockville                              !MD   !20852         !  !   !
+
+NL:016 !20  ! 1  ! John Paul II Shrine 3rd Floor (016.20.1)                                   ! 3900 Harewood Road NE                                                      !                                         !Washington                             !DC   !20017         !  !   !
+
+NL:017 !20  ! 1  ! White Gravenor Hall (017.20.1)                                             ! 3700 O Street NW                                                           !                                         !Washington                             !DC   !20057         !  !   !
+
+NL:018 !20  ! 3  ! TO#179 Linden Interior Camp D (018.20.3)                                   ! 14900 Park Central RD                                                      !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:019 !20  ! 3  ! TO#226 Thurmont Bldg (019.20.3)                                            ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !

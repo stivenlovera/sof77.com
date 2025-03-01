@@ -1,0 +1,7 @@
+﻿NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,20.110,DW Ceiling/Walls Prime Coat, 34.51 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,21.120,DW Walls/Columns 1st. Finish Coat, 36.91 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,21.130,DW Walls/Columns 2nd.Finish Coat, 52.73 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,22.120,DW Ceilings 1st.and 2nd.Finish Coat, 4.49 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,28.100,Prep. Trim/D.Frames/Doors, 31.23 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,28.110,1st.and 2nd.Finish Coat Trim/Frames/Doors, 31.23 
+NL:070.21.3,Howard CC- MAC Math Athetic Complex,01, =    ,02,Building B,A61,Level-1,90.100,Miscellaneous Various not in others, 27.04 

@@ -1,0 +1,186 @@
+
+
+NL:000 !21  ! 0  ! Warehouse Time (000.21.0)                                                  !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:001 !21  ! 1  ! Hotung 3rd Fl, GU Law Center (001.21.1)                                    ! 600 New Jersey Ave, NW                                                     !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:002 !21  ! 1  ! Museum Place (002.21.1)                                                    ! 65 I Street SW                                                             !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:003 !21  ! 1  ! Microsoft Reston Azure (003.21.1)                                          ! 12012 Sunset Hills Rd                                                      !                                         !Reston                                 !VA   !20190         !  !   !
+
+NL:004 !21  ! 1  ! Gravity Axis Warehouse Mockup (004.21.1)                                   ! 4409 Llewellyn Ave                                                         !                                         !Fort Meade                             !MD   !20755         !  !   !
+
+NL:005 !21  ! 1  ! Angelo Davis (005.21.1)                                                    ! 2308 Carriage Ford Road                                                    !                                         !Catlett                                !VA   !20113         !  !   !
+
+NL:006 !21  ! 2  ! NVCC Loudoun Reynolds (006.21.2)                                           ! 21200 Campus Drive                                                         !                                         !Sterling                               !VA   !              !  !   !
+
+NL:007 !21  ! 1  ! 20 Mass Ave Model Rooms (007.21.1)                                         ! 20 Massachusetts Ave NW                                                    !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:008 !21  ! 1  ! Kaiser Friendship Heights (008.21.1)                                       ! 5310 Western Ave                                                           !1st Floor                                !Chevy Chase                            !MD   !20815         !  !   !
+
+NL:009 !21  ! 1  ! Wells Fargo Tysons Water Rpr (009.21.1)                                    ! 1753 Pinnacle Drive                                                        !                                         !McLean                                 !VA   !22102         !  !   !
+
+NL:010 !21  ! 1  ! CitizenM NoMa (010.21.1)                                                   ! 1222 First Street NE                                                       !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:011 !21  ! 1  ! Wharf Parcel 9 Sales Ctr Mocku (011.21.1)                                  ! 760 Maine Ave, SW                                                          !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:012 !21  ! 2  ! KIPP Ferebee Hope Campus DC (012.21.2)                                     ! 3999 8th Street SE                                                         !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:013 !21  ! 1  ! EHMS Floor Coating (013.21.1)                                              ! 1830 Constitution Avenue NE                                                !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:014 !21  ! 1  ! Ascension Health Providence (014.21.1)                                     ! 1150 Varnum Street NE                                                      !                                         !Washington                             !DC   !20017         !  !   !
+
+NL:015 !21  ! 1  ! DC Bilingual PCS (015.21.1)                                                ! 33 Riggs Road NE                                                           !                                         !Washington                             !DC   !220011        !  !   !
+
+NL:016 !21  ! 2  ! Joe Hitt (T&M) (016.21.2)                                                  ! 25647 South Village Drive                                                  !                                         !Chantilly                              !VA   !20152         !  !   !
+
+NL:017 !21  ! 1  ! P621 Solar Framing (017.21.1)                                              ! US Naval Academy                                                           !                                         !Annapolis                              !MD   !21402         !  !   !
+
+NL:018 !21  ! 1  ! CP5 4th Floor (018.21.1)                                                   ! 2451 Crystal Drive                                                         !                                         !Arlington                              !VA   !22202         !  !   !
+
+NL:019 !21  ! 3  ! DFAC Bldg.#404 Spates Hall (019.21.3)                                      ! McNair Road                                                                !                                         !Ft Myer                                !VA   !22211         !  !   !
+
+NL:020 !21  ! 1  ! KP Ashburn Radiology (020.21.1)                                            ! 43480 Yukon Drive                                                          !                                         !Ashburn                                !VA   !22205         !  !   !
+
+NL:021 !21  ! 3  ! Lake Anne House (021.21.3)                                                 ! 11450 Lake Shore Drive                                                     !                                         !Reston                                 !VA   !20190         !  !   !
+
+NL:022 !21  ! 1  ! KIPP DC Recreation Center FHC (022.21.1)                                   ! 3999 8th Street SE                                                         !                                         !Washington                             !DC   !20032         !  !   !
+
+              3  ! KIPP DC Recreation Center FHC (022.21.3)                                   ! 3999 8th Street SE                                                         !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:023 !21  ! 3  ! Job Cancelled - DO NOT USE (023.21.3)                                      ! 7500 Security Blvd                                                         !                                         !Woodlawn                               !MD   !21244         !  !   !
+
+NL:024 !21  ! 1  ! Q101 Street (024.21.1)                                                     ! 101 Q Street NE                                                            !                                         !Washington                             !DC   !              !  !   !
+
+NL:025 !21  ! 3  ! Smithsonian MSC-Museum Spt Ctr (025.21.3)                                  ! 4210 Silver Hill Road                                                      !                                         !Suitland                               !MD   !20746         !  !   !
+
+NL:026 !21  ! 1  ! Archbishop Spalding MS Music (026.21.1)                                    ! 8080 New Cut Road                                                          !                                         !Severn                                 !MD   !21144         !  !   !
+
+NL:027 !21  ! 1  ! 1550 Crystal Dr  11th Floor (027.21.1)                                     ! 1550 First Street -11th Floor                                              !                                         !Arlington                              !VA   !              !  !   !
+
+NL:028 !21  ! 1  ! Justice FCU-DEA Branch (028.21.1)                                          ! 600 Army Navy Drive                                                        !                                         !Arlington                              !VA   !22203         !  !   !
+
+
+NL:029 !21  ! 1  ! Bowen Bldg TI Floors- 11th (029.21.1)                                      ! 875 15th Street NW                                                         !                                         !Washington                             !DC   !              !  !   !
+
+NL:030 !21  ! 1  ! Parkside @ College Park II (030.21.1)                                      ! 8125 48th Avenue                                                           !                                         !College Park                           !MD   !20740         !  !   !
+
+NL:031 !21  ! 1  ! Park 27 (031.21.1)                                                         ! 27th & Minnesota Avenue SE                                                 !                                         !Washington                             !DC   !20019         !  !   !
+
+NL:032 !21  ! 3  ! Abrams Hall 14 North Assisted (032.21.3)                                   ! 1320 Main Drive NW                                                         !                                         !Washington                             !DC   !20307         !  !   !
+
+NL:033 !21  ! 1  ! DD1 Lobby Water Feature (033.21.1)                                         ! 13910 Air & Space Museum Pkwy                                              !                                         !Herndon                                !VA   !20171         !  !   !
+
+NL:034 !21  ! 4  ! 1640 Good Hope Rd (034.21.4)                                               ! 1640 Good Hope Road SE                                                     !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:035 !21  ! 3  ! FRB NYA 5th & 6th Floor Corr (035.21.3)                                    ! 20th Street NW                                                             !C & Constitution Ave NW                  !Washington                             !DC   !20006         !  !   !
+
+NL:036 !21  ! 3  ! 5400 5th Street Apts (036.21.3)                                            ! 5400-5404-5408 5th Street NW                                               !                                         !Washington                             !DC   !20011         !  !   !
+
+NL:037 !21  ! 3  ! SOME (037.21.3)                                                            ! 71 O Street NW                                                             !1515 North Capitol                       !Washington                             !DC   !20001         !  !   !
+
+NL:038 !21  ! 1  ! 6037 Poplar Drive (038.21.1)                                               ! 6037 Poplar Dr                                                             !6037 Poplar Drive                        !St. Leonard                            !MD   !20685         !  !   !
+
+NL:039 !21  ! 1  ! Park Chelsea Roof Top (039.21.1)                                           ! 880 New Jersy  Avenue                                                      !                                         !Washington                             !DC   !              !  !   !
+
+NL:040 !21  ! 1  ! UMMC CT Scan Reno (040.21.1)                                               ! 22 South Greene St                                                         !                                         !Baltimore                              !MD   !21201         !  !   !
+
+NL:041 !21  ! 1  ! LAMB PCS 3rd Flr (041.21.1)                                                ! 5000 14th Street NW                                                        !LAMB Kingsbury Campus                    !Washington                             !DC   !20011         !  !   !
+
+NL:042 !21  ! 1  ! Spring Flats Rows (042.21.1)                                               ! 1015 Springs Road NW                                                       !                                         !Washington                             !DC   !20010         !  !   !
+
+NL:043 !21  ! 1  ! Jennie Dean Park (043.21.1)                                                ! 3630 27th Street South                                                     !                                         !Arlington                              !VA   !22201         !  !   !
+
+NL:044 !21  ! 1  ! Gold's Gym @ Bailey's (044.21.1)                                           ! 5718 Columbia Pike                                                         !                                         !Falls Church                           !VA   !22041         !  !   !
+
+NL:045 !21  ! 1  ! 1901 L Street Penthouse (045.21.1)                                         ! 1901 L Street NW                                                           !                                         !Washington                             !DC   !20036         !  !   !
+
+NL:046 !21  ! 2  ! Associated Bldrs Office (046.21.2)                                         ! 4903 Baltimore Avenue                                                      !                                         !Hyattsville                            !MD   !20781         !  !   !
+
+NL:047 !21  ! 1  ! Arlington Education Center (047.21.1)                                      ! 1426 N. Quincy St                                                          !                                         !Arlington                              !VA   !22207         !  !   !
+
+NL:048 !21  ! 1  ! DD Vistor Ctr Pedestrian Tunne (048.21.1)                                  ! 13910 Air & Space Museum Pkwy                                              !                                         !Herndon                                !VA   !20171         !  !   !
+
+NL:049 !21  ! 3  ! Pentagon Control Tower (049.21.3)                                          ! 1 North Rotary Road                                                        !                                         !Arlington                              !VA   !22202         !  !   !
+
+NL:050 !21  ! 1  ! Patriot Park North Athletic (050.21.1)                                     ! 5425 Willow Springs Road                                                   !                                         !Fairfax                                !VA   !22030         !  !   !
+
+NL:051 !21  ! 1  ! KIPP Ferebee Hope HS (051.21.1)                                            ! 3999 8th Street SE                                                         !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:052 !21  ! 3  ! NSF TO#309 Storage Containers (052.21.3)                                   ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:053 !21  ! 1  ! West Abby (053.21.1)                                                       ! 8518 John Mosby Hwy                                                        !                                         !Upperville                             !VA   !20184         !  !   !
+
+NL:054 !21  ! 3  ! DFAC  Bldg #404 (054.21.3)                                                 ! McNair Rd                                                                  !Bldg 404                                 !Ft Myer                                !VA   !22211         !  !   !
+
+NL:055 !21  ! 1  ! Langley School (055.21.1)                                                  ! 1411 Balls Hill Road                                                       !                                         !McLean                                 !VA   !22101         !  !   !
+
+NL:056 !21  ! 3  ! 2442 MLK (056.21.3)                                                        ! 2442 Martin Luther King,Jr Ave                                             !SE                                       !Washington                             !DC   !20032         !  !   !
+
+NL:057 !21  ! 1  ! AFS8T Paint for Patches (057.21.1)                                         ! 2217 North Culpeper Street                                                 !                                         !Arlington                              !VA   !              !  !   !
+
+NL:058 !21  ! 1  ! Christman Co Office T&M (058.21.1)                                         ! 22560 Glenn Drive                                                          !suite 108                                !Sterling                               !VA   !20164         !  !   !
+
+
+NL:059 !21  ! 2  ! 1850 K Street T&M (059.21.2)                                               ! 1850 K Street NW                                                           !                                         !Washington                             !DC   !              !  !   !
+
+NL:060 !21  ! 3  ! Smothers Elementary School (060.21.3)                                      ! 4400 Brooks Street NE                                                      !                                         !Washington                             !DC   !20019         !  !   !
+
+NL:061 !21  ! 3  ! NSF TO#193 (061.21.3)                                                      ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:062 !21  ! 3  ! NZP-DC Restore Crane Yard (062.21.3)                                       ! 3001 Connecticut Avenue NW                                                 !                                         !Washington                             !DC   !20569         !  !   !
+
+NL:063 !21  ! 1  ! FSFSC Interior Office Space (063.21.1)                                     ! 2006 MLK Jr. Avenue SE                                                     !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:064 !21  ! 1  ! PEPCO - Mt. Vernon Sub 230 (064.21.1)                                      ! 1001 1st Street NE                                                         !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:065 !21  ! 3  ! Panda House NZP (065.21.3)                                                 ! 3001 Connecticut Avenue NW                                                 !                                         !Washington                             !DC   !20008         !  !   !
+
+NL:066 !21  ! 1  ! CitizenM Units WC Repair T&M (066.21.1)                                    ! 1222 First Street NE                                                       !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:067 !21  ! 3  ! NSF TO#334-Bldg 115 Reno (067.21.3)                                        ! 14900 Park Central Road                                                    !                                         !Thurmont                               !MD   !21788         !  !   !
+
+NL:068 !21  ! 1  ! MBN Springfield (068.21.1)                                                 ! 7600 Boston Blvd                                                           !                                         !Springfield                            !VA   !22152         !  !   !
+
+NL:069 !21  ! 1  ! DGS HSEMA (069.21.1)                                                       ! 1015 Half Street NW                                                        !10th Floor                               !Washington                             !DC   !20003         !  !   !
+
+NL:070 !21  ! 3  ! Howard CC- Math & Athletics (070.21.3)                                     ! 10901 Little Patuxent Pkwy                                                 !                                         !Columbia                               !MD   !21044         !  !   !
+
+NL:071 !21  ! 1  ! Maury Elem. School Stripping (071.21.1)                                    ! 1250 Constitution Avenue NE                                                !                                         !20002                                  !DC   !              !  !   !
+
+NL:072 !21  ! 1  ! 601 D Cooling Towers (072.21.1)                                            ! 601 D Street NW                                                            !                                         !Washington                             !DC   !20005         !  !   !
+
+NL:073 !21  ! 3  ! FDIC-CINO Project (073.21.3)                                               ! 3501 Fairfax Drive                                                         !                                         !Arlington                              !VA   !22201         !  !   !
+
+NL:074 !21  ! 1  ! DD North CUP (074.21.1)                                                    ! 13910 Air & Space Museum Pkwy                                              !                                         !Herndon                                !VA   !20171         !  !   !
+
+NL:075 !21  ! 3  ! FRB NYA Stairs (075.21.3)                                                  ! 20th & Constitution Street NW                                              !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:076 !21  ! 1  ! JHU MT Washington Data Center (076.21.1)                                   ! 5801 Smith Ave #1100                                                       !                                         !Baltimore                              !MD   !21209         !  !   !
+
+              3  ! JHU Mt Washington Data Center (076.21.3)                                   ! 5801 Smith Ave # 1100                                                      !                                         !Baltimore                              !MD   !21209         !  !   !
+
+NL:077 !21  ! 3  ! FRB NYA Speedlane (077.21.3)                                               ! 1850 K Street NW                                                           !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:078 !21  ! 1  ! FRB - 1850 K Street 4  7  8 (078.21.1)                                     ! 1850 K Street, NW                                                          !                                         !Washington                             !DC   !20006         !  !   !
+
+NL:079 !21  ! 1  ! 5139 Frolich Lane Interior (079.21.1)                                      ! 5139 Frolich Lane                                                          !                                         !Hyattsville                            !MD   !20781         !  !   !
+
+NL:080 !21  ! 3  ! 505 Jefferson Street (080.21.3)                                            ! 505 Jefferson Street NW                                                    !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:081 !21  ! 5  ! 5000 & 5400 New Hampshire (081.21.5)                                       ! 5000 New Hampshire Ave NW                                                  !                                         !Washington                             !DC   !20001         !  !   !
+
+NL:082 !21  ! 3  ! St. Elizabeths Parcel 17 Bldg (082.21.3)                                   ! 1200 Sycamore Dr SE                                                        !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:083 !21  ! 3  ! Military Women's Memorial Inte (083.21.3)                                  ! Memorial Avenue & Schley Drive                                             !                                         !                                       !VA   !              !  !   !
+
+NL:084 !21  ! 1  ! DGS DHS (084.21.1)                                                         ! 1207 Taylor Street NW                                                      !                                         !Washington                             !DC   !20011         !  !   !
+
+NL:085 !21  ! 3  ! Pentagon Support Op Ctr (PSOC) (085.21.3)                                  ! The Pentagon                                                               !                                         !Washington                             !DC   !              !  !   !
+
+NL:086 !21  ! 3  ! Reunion Square Garage (Wage) (086.21.3)                                    ! 2201 Shannon Place SE                                                      !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:087 !21  ! 1  ! Reunion Square Office (No Wage (087.21.1)                                  ! 2201 Shannon Place SE                                                      !                                         !Washington                             !DC   !20020         !  !   !
+
+
+NL:100 !21  ! 1  ! PWT Office Reno 2021 (100.21.1)                                            ! 605 Raleigh Place, SE                                                      !                                         !Washington                             !DC   !20032         !  !   !

@@ -1,0 +1,6 @@
+
+NL:      078.20.1  ,  GU Car Barn 2nd Floor Reno                         ,01, =    , 01, = ,   FLO2       , FLOOR02                                ,            20.110  ,   Walls/DW Ceiling - Prime       ,         77.68
+NL:      078.20.1  ,  GU Car Barn 2nd Floor Reno                         ,01, =    , 01, = ,   FLO2       , FLOOR02                                ,            21.120  ,   Walls - 2nd Coat Finish        ,         62.76
+NL:      078.20.1  ,  GU Car Barn 2nd Floor Reno                         ,01, =    , 01, = ,   FLO2       , FLOOR02                                ,            21.130  ,   Walls - 3rd Coat Finish        ,         62.76
+NL:      078.20.1  ,  GU Car Barn 2nd Floor Reno                         ,01, =    , 01, = ,   FLO2       , FLOOR02                                ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,        104.00
+NL:      078.20.1  ,  GU Car Barn 2nd Floor Reno                         ,01, =    , 01, = ,   FLO2       , FLOOR02                                ,            60.200  ,   Sizing                         ,          2.09

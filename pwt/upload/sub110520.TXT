@@ -1,0 +1,604 @@
+
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 1             !Sherwin Williams Product Data /EDS                                                                   ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 2             !PNT-1 SW 7056 Reserved White SW Promar 200 ES                                                        ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 3             !PNT-2 SW 7669 Summit Gray/SW Promar 200 Flat                                                         ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 4             !PNT-3 SW 7757 High Reflective White/SW Promar Flat                                                   ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 5             !PNT-3 SW 7757 High Reflective White Sw Promar SG                                                     ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 6             !PNT-5 PPG 1042-7 Admirality PPG Speedhide ES                                                         ! Approved             !
+
+
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 1             !WC- Balancing Act- MDC- Product Data                                                                 ! Approved             !
+
+NL: 008 ! 20 ! 1 !505 9th St McKesson (008.20.1)                                     !505 9th Street NW              !                          ! Washington                    !DC   ! 20004      ! 2             !WC-1 Balancing Act BBBC17 Steadfast Red MDC                                                          ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 1             !Sherwin Williams Product DAta                                                                        ! Approved             !
+
+NL: 004 ! 20 ! 1 !Corpus Christi Church (004.20.1)                                   !41662 Corpus Christi Drive     !                          ! Aldie                         !VA   ! 20105      ! 1             !Benjamin Moore - Product Data /MSDS                                                                  ! Approved             !
+
+NL: 010 ! 20 ! 3 !NSF TO#127 CHESTNUT (010.20.3)                                     !14900 PARK CENTRAL ROAD        !                          ! THRUMONT                      !MD   ! 21788      ! 1             !PPG Aspen Green  Pantone 17-0215 TPX/ Perminizer / PPG  Exterior                                     ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 2             !P1 SW7757 High Reflective White SW Promar 200 ES- walls                                              ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 3             !P1 SW7757 High Reflective White SW Promar 200 SG - drs/frs/trim                                      ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 4             !P1 SW7757 High Reflective White SW Pro Industrial DTM SG - diffuser covers                           ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 5             !P2 SW 6258 Tricorn Black SW Promar 200 ES - TV Niche walls                                           ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 1             !Sherwin Williams Product Data                                                                        ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 2             !Scuffmaster Armor Product Data- Wolf Gordon                                                          ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 3             !Scuffmaster Scrubtough/ Product Data/ Wolf Gordon  (PT_01)                                           ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 1             !Roman Decorating Products Wall Cover Primer ECO-988 & Adhesive ECO-888- Roman                        ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 4             !PT-01 BM OC-152 Superwhite/SW Promar Flat                                                            ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 5             !PT-01 BM OC-152 Superwhite/SW Promar ES                                                              ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 6             !PT-01 BM OC-152 Superwhite/SW Promar SG                                                              ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 7             !PT-01/WG  BM OC-152 Superwhite/Scuffmaster Scubtough - walls common areas and corridors              ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 8             !PT-02 Scuffmaster AR10384 Armor -Wolf Gordon - walls printer nook                                    ! Approved             !
+
+NL: 014 ! 20 ! 1 !WeWork 1875 K Street 3rd Floor (014.20.1)                          !1875 K Street NW               !                          ! Washington                    !DC   ! 20006      ! 2             !WC-01 Tropical Leaves /A&G-Koroseal  bathrooms                                                       ! Approved             !
+
+NL: 005 ! 20 ! 1 !1275 K Street Lobby (005.20.1)                                     !1275 K Street NW               !                          ! Washington                    !DC   ! 20005      ! 1             !Tnemec Product Data ( Option 1  Fluornar Satin Exterior Canopy Steel- TNEMEC 31GR Slate Gray         ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 1             !PPG Product Data                                                                                     ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 2             !PT01 BM OC-149 Decorator's White/PPG SH ES                                                           ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 3             !PT01 BM OC-149 Decorator's White/PPG SH SG                                                           ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 4             !PT02 SW 7757 High Reflective White/PPG SH Flat                                                       ! Approved             !
+
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 5             !PT03 Bm HC-190 Black/PPG SH ES                                                                       ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 6             !PT04 BM 2127-50 Pikes Peak Gray/ PPG SH ES                                                           ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 3             !WC04 Tek-Wall 399547 Steward 008 Eddy/Maharam                                                        ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 4             !WC Product Data WC04 maharam                                                                         ! Approved             !
+
+NL: 002 ! 20 ! 3 !NSF/19/TO81 SidingMaint G1-G2 (002.20.3)                           !14900 Park Central Road        !                          ! Thurmont                      !MD   ! 21788      ! 3             !PPG Aspen Green  Pantone 17-0215 TPX/ Perminizer / PPG  Exterior                                     ! Approved             !
+
+NL: 018 ! 20 ! 3 !TO#170 Linden Interior Camp D (018.20.3)                           !14900 Park Central RD          !                          ! Thurmont                      !MD   ! 21788      ! 1             !SW Product DAta                                                                                      ! Approved             !
+
+NL: 018 ! 20 ! 3 !TO#170 Linden Interior Camp D (018.20.3)                           !14900 Park Central RD          !                          ! Thurmont                      !MD   ! 21788      ! 2             !Farrow & Ball Tallow #023/SW Promar 200 Flat- Walls                                                  ! Approved             !
+
+NL: 018 ! 20 ! 3 !TO#170 Linden Interior Camp D (018.20.3)                           !14900 Park Central RD          !                          ! Thurmont                      !MD   ! 21788      ! 3             !Farrow & Ball Wimborne White #239/SW Promar Flat- Ceilings                                           ! Approved             !
+
+NL: 019 ! 20 ! 3 !NSF TO 226 Thurmont Bldg (019.20.3)                                !14900 Park Central Road        !                          ! Thurmont                      !MD   ! 21788      ! 1             !SW Product DAta                                                                                      ! Approved             !
+
+NL: 019 ! 20 ! 3 !NSF TO 226 Thurmont Bldg (019.20.3)                                !14900 Park Central Road        !                          ! Thurmont                      !MD   ! 21788      ! 7             !Epoxy-1 SW Steel Gray Trafficote #105 Flooring                                                       ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 1             !Sherwin Williams Product Data/EDS                                                                    ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 2             !PT-1 BM 960 Dove Wing/SW Promar 200 Flat- General ceilings                                           ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 3             !PT-1 BM 960 Dove Wing/SW Promar 200 Eggshell- General walls                                          ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 4             !PT-1 BM 960 Dove Wing/SW Promar 200 semi-gloss- General - Doors/Frames                               ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 5             !PT-4 Floor 3/4: SW 6600 Exciting Red/ SW Promar 200 Eggshell                                         ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 6             !Floor 5/6: SW 6424 Tansy Green/SW Promar 200 Eggshell                                                ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 7             !PT-4 Floor 7/8:  SW 6761 Thermal Spring/ SW Promar 200 ES                                            ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 8             !PT-4 Floor 9/10:  SW 6636 Husky Orange/Sw Promar 200 ES                                              ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 9             !PT-4 Floor 11/12:  SW 6524 Commodore/SW Promar 200 ES                                                ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 1             !Super Diamond Clear VOX Concrete floor Sealer/Product Data - concrete floor sealer (clear)           ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 10            !PT-6 SW 9133 Jasper Stone/SW Promar SG- accent paint at Food Service                                 ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 11            !PT-7 SW 6558 Plummy /SW Promar ES- Accent Paint at IT Support                                        ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 12            !PT-8 SW 6250 Granite Peak/SW Promar ES- Accent at Trainign room prefunction soffit                   ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 1             !WC-4 Miami Vice on Chrome Mylar/Permanent Sunset/Flavor Paper- Roll goods- sample and PD             ! Approved as noted    !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 1             !WC-2 Forbo Bulletin Board Product Data- sample                                                       ! Approved             !
+
+NL: 017 ! 20 ! 1 !White Gravenor Hall (017.20.1)                                     !3700 O Street NW               !                          ! Washington                    !DC   ! 20057      ! 1             !SW Product Data /EDS-interior coatings                                                               ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 13            !PT-9 SW 9178 In the Navy/SW Promar 200 Flat                                                          ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 14            !PT-11 SW 6480 Lagoon/SW Promar 200 Flat- reception ceiling                                           ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 15            !PT-12 SW 6479 Drizzle/SW Promar Flat- reception ceiling accent                                       ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 16            !PT-2 SW 6549 Ashe Vilolet./SW Promar ES- Floor 3/4                                                   ! Approved             !
+
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 17            !PT-2 SW 6618 Cosmetic Peach/SW Promar ES -Floor 5/6                                                  ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 18            !PT-2 SW 6708 Springtime/SW Promar ES Floors 7/8                                                      ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 19            !PT-2 SW 6771 Bathe Blue/SW Promar ES- Floors 9/10                                                    ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 20            !PT-2 SW 6586 Bella Pink/SW Promar ES- Floors 11/12                                                   ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 21            !PT-3 SW 6838 Vigorous Violet/SW Promar ES- Floor 3/4                                                 ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 22            !PT-3 SW 6627 Emberglow SW Promar ES Floor 5/6                                                        ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 23            !PT-3 SW 6703 Frolic SW Promar ES Floors 7/8                                                          ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 24            !PT-3 SW 6774 Freshwater/SW Promar ES / Floors 9/10                                                   ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 25            !PT-3 SW 6606 Coral Reef/SW Promar ES Floors 11/12                                                    ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 1             !McCormick Paints- Product Data                                                                       ! Approved             !
+
+NL: 018 ! 20 ! 3 !TO#170 Linden Interior Camp D (018.20.3)                           !14900 Park Central RD          !                          ! Thurmont                      !MD   ! 21788      ! 1             !PPG Aspen Green  Pantone 17-0215 TPX/ Perminizer / PPG  Exterior                                     ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 1             !McCormick Product Data                                                                               ! Approved             !
+
+
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 2             !PT-1 SW 7006 Extra White/MC TA Series 08 Flat                                                        ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 3             !PT-1 SW 7006 Extra White MC TA Series 09 ES                                                          ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 4             !PT-1 SW 7006 Extra White/MC TA Series 10  SG                                                         ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 5             !PT-2 SW 6717 Lime Rickey /MC TA Series 09 ES                                                         ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 6             !PT-3 SW 6788 Capri/ MC TA Series 09 ES                                                               ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 7             !PT-4 SW 6676 Butterfield/MC TA Series 09 ES                                                          ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 8             !PT-5 SW 7590 Red Obsession/MC TA Series 09 ES                                                        ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 9             !PT-6 SW6870 Ablaze/ MC TA Series 09 ES                                                               ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 10            !PT-7 SW 7015 Repose Gray/ McCormick Interlok DTM SG                                                  ! Approved             !
+
+NL: 027 ! 20 ! 1 !Two Rivers PCS MS Expansion (027.20.1)                             !820 26th  Street NE            !                          ! Washington                    !DC   ! 20002      ! 1             !Euclid Diamond Hard Euclid Chemical Co - Concrete Sealer                                             ! Approved             !
+
+
+NL: 017 ! 20 ! 1 !White Gravenor Hall (017.20.1)                                     !3700 O Street NW               !                          ! Washington                    !DC   ! 20057      ! 1             !SW Product Data - HP Coatings- match exterior handrails /guardrail-Black Gloss  RFi 051              ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 1             !PPG Product Data                                                                                     ! Approved as noted    !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 2             !Scuffmaster Solid metal - Product Data                                                               ! Approved as noted    !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 3             !SP-2 Clear Idea -Product Data -                                                                      ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 4             !P-6 Green Screen - Chromo Green- Rosco- Product Data                                                 ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 1             !SC-1 Euclid Diamond Hard Product Data - Euclid Chemical co                                           ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 5             !WC03- Alias II Knoll Textiles Product Data                                                           ! Approved             !
+
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 6             !WC03 Alias II Backed WC211310  Jet - Knoll- Sample                                                   ! Approved             !
+
+NL: 017 ! 20 ! 1 !White Gravenor Hall (017.20.1)                                     !3700 O Street NW               !                          ! Washington                    !DC   ! 20057      ! 3             !SW Custom Match MP STonewash 9170-P Conflex XL Smooth-concrete wall East entrance ramp               ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 1             !PT-1 SW 7563 Restful White SW Pro Industrial Epoxy ES                                                ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 2             !PT-2 SW6418 Rural Green/ SW Pro Industrial Epoxy ES                                                  ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 3             !PT-3 SW 7066 Gray Matters SW Pro Industrial Epoxy ES                                                 ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 4             !PT-4 SW 6349 Pennywise SW ProIndustrial Epoxy ES                                                     ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 5             !PT-7/PT-8 SW 7005 Pure White/SW Promar 200 ES                                                        ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 6             !SW Product Data/EDS-Interior painting                                                                ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 1             !WC-3 Urban Vibes Uptown TaupeW2UV06 MDC  Wallcover Product Data                                      ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 2             !WC-3 Urban Vibes Uptown Taupe W2UV06 MDC Sample- installed at Lobby Alcoves  See RFI 69              ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 7             !PPG Product Data- Multi Tenant Corridor- CR#1                                                        ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 8             !BM AF25 Paper Mache - PPG Speedhide Eggshell - Multi Tenant Corridor - CR#1                          ! Approved             !
+
+NL: 012 ! 20 ! 1 !DOD Project 555 12th St (012.20.1)                                 !555 12th Street NW             !                          ! Washington                    !DC   ! 20004      ! 9             !BM AF-25 Paper Mache - PPG Speedhide SG- Multi Tenant Corridor                                       ! Approved             !
+
+NL: 032 ! 20 ! 1 !Crystal Gateway North (032.20.1)                                   !201 12th Street South          !6th Floor                 ! Arlington                     !VA   ! 22202      ! 1             !SW Product Data/EDS                                                                                  ! Approved             !
+
+NL: 032 ! 20 ! 1 !Crystal Gateway North (032.20.1)                                   !201 12th Street South          !6th Floor                 ! Arlington                     !VA   ! 22202      ! 2             !WF-1 SW 6196 Frosty White/SW Promar 200 ES                                                           ! Approved as noted    !
+
+NL: 032 ! 20 ! 1 !Crystal Gateway North (032.20.1)                                   !201 12th Street South          !6th Floor                 ! Arlington                     !VA   ! 22202      ! 3             !WF-2 SW 0023 Pewter TAnkard Sw Promar ES                                                             ! Approved             !
+
+NL: 032 ! 20 ! 1 !Crystal Gateway North (032.20.1)                                   !201 12th Street South          !6th Floor                 ! Arlington                     !VA   ! 22202      ! 4             !SW 7006 Extra White Sw Promar ES                                                                     ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 5             !P-1 W 7005 Pure White/PPG SH ES - Walls- General Paint                                               ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 6             !P-1-C SW 7757 High Reflective White/PPG SH Flat - ceilings                                           ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 7             !P-2aSW 0055 Light French Gray PPG SH ES                                                              ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 8             !P-2b SW 7650 Elli Gray PPG Dryfog Flat- gym ceiling                                                  ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 9             !P-2b SW 7650 Elli Gray.PPG Pitt Tech DTM SG - railings                                               ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 10            !P-2b SW 7650 Elli Gray PPG SH ES- walls Entrance/gym                                                 ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 11            !P-2b SW 7650 Elli Gray PPG SH Flat- ceilings                                                         ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 12            !SW 7075 Web Gray/PPG SH ES - Auditorium walls                                                        ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 13            !P-5  SW 7076 Cyberspace PPG SH ES - walls  &accent panels- auditorium                                ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 14            !P-5 SW 7076 Cyberspace/PPG Pitt Tech DTM SG- glass frames/Ext HM Drs/frs                             ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 15            !P-7 SW 7588 Showstopper/PPG SH ES                                                                    ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 16            !P-8a SW 7611 Tranquil Aqua/ PPG SH ES- Library main accent                                           ! Approved as noted    !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 17            !P-9a SW 9145 Sleepy Hollow PPG SH ES- Library Secondary Accent                                       ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 18            !P-8b SW 6458 Restful- PPG SH Es - Bold Corridor Accent- Academic Green Area                          ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 19            !P-9b SW 6457 kind Green PPG SH ES-Softer Classroom- Academic Green Area                              ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 20            !P-8c SW 6810 Lupine /PPG SH ES - Bold corridor accent- Academic Blue Area                            ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 21            !P-9c SW 6521 Notable Hue/PPG SH ES- Softer Classroom - Academic Blue Area                            ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 22            !P-8d SW 9022 Yellow Bird/PPG SH ES- Bold Corridor Accent- Academic Yellow area                       ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 23            !P-9d SW 9016 LaLuna Amarila/PPG SH ES -Softer  Classroom- Academic Yellow area                       ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 24            !P-9b SW 6457 Kind Green/PPG SH SG - Restroom Accent- Academic Green area                             ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 25            !P-9c SW 6521 Notable Hue/PPG SH SG - Restroom Accent- Academic Blue Area                             ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 26            !P-9d SW 9016 LaLuna Amarila -Restroom Accent - Academic Yellow area                                  ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 27            !SP-1 Scuffmaster GOH31528213 Solid Metal - Wolf Gordon -                                             ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 1             !HPC-1 match SW 2849 Westchester Gray/Tnemec Endrua shield- Auditorium                                ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 28            !WDB-1  SP-1 GOH315282213-Scuffmaster Wolf Gordon - wood base                                         ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 29            !Safety Orange/ PPG Luminescent paint                                                                 ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 3             !SW PD - WC adhesive and primer                                                                       ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 1             !SW Product Data- High Performacne Coating                                                            ! Approved as noted    !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 26            !PT-5 SW 6994 Greenblack SW Promar ES- walls                                                          ! Approved             !
+
+NL: 033 ! 20 ! 1 !JHBSPH Lab W3600 (033.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 1             !Benjamin Moore - Product Data- Monarch Paints                                                        ! Approved             !
+
+NL: 033 ! 20 ! 1 !JHBSPH Lab W3600 (033.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 2             !PT-1 Behr Perfect Taupe UL260-8- BM Ultra Spec DTM ES - office door frames                           ! Approved             !
+
+NL: 033 ! 20 ! 1 !JHBSPH Lab W3600 (033.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 3             !PT-2 BM OC -199 Cloud Nine  BM Ultra Spec ES                                                         ! Approved             !
+
+
+NL: 033 ! 20 ! 1 !JHBSPH Lab W3600 (033.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 5             !PT-3 BM 1596 Nightfall BM Ultra SPec SG                                                              ! Approved             !
+
+NL: 034 ! 20 ! 1 !JHBSPH LAB W8700 (034.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 1             !BM Product Data- Monarch Paints                                                                      ! Approved             !
+
+NL: 034 ! 20 ! 1 !JHBSPH LAB W8700 (034.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 2             !PT-1 Behr Perfect Taupe UL260-8 BM Ultra Spec DTM SG                                                 ! Approved             !
+
+NL: 034 ! 20 ! 1 !JHBSPH LAB W8700 (034.20.1)                                        !615 N. Wolfe Street            !                          ! Baltimore                     !MD   ! 21205      ! 3             !PT-2 BM OC 199 Cloud Nine  BM Ultra Spec ES                                                          ! Approved             !
+
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 1             !SW Product Data/EDS                                                                                  ! Approved             !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 3             !PT-1 SW9046 Gentle Aquamarine/SW Promar 200 ES-                                                      ! Approved             !
+
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 4             !PT-4 SW 6429 Baize Green/SW Promar 200 ES                                                            ! Approved             !
+
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 5             !PT-7 SW 9145 Sleepy Hollow/SW Promar 200 ES                                                          ! Approved             !
+
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 5             !PT-7 SW 9145 Sleepy Hollow/SW Promar 200 ES                                                          ! Approved             !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 8             !Fuze Clear over PT-1 - Product Data-/Sample  MDC Walls  ( at non padded Crisis Rooms)                ! Approved             !
+
+NL: 020 ! 20 ! 3 !1770 Crystal Drive Tenant Impr (020.20.3)                          !1770 Crystal Drive             !                          ! Arlington                     !VA   ! 22202      ! 27            !PT-10 Sherwin Williams SW 7674 Peppercorn/SW Promar ES- training walls                               ! Approved as noted    !
+
+NL: 017 ! 20 ! 1 !White Gravenor Hall (017.20.1)                                     !3700 O Street NW               !                          ! Washington                    !DC   ! 20057      ! 1             !AEROGREEN AC-10 RUST REMOVER-Sherwin williams                                                        ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 2             !LEEDs Documents                                                                                      ! Approved as noted    !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 1             !Euclid Diamond Hard- Concrete sealer - Clear -Euclid Chemical Co- Product Data                       ! Approved             !
+
+NL: 031 ! 20 ! 1 !Antech Diagnostics (031.20.1)                                      !3675 Concorde Parkway          !                          ! Chantilly                     !VA   ! 20151      ! 7             !Floor Sealer - Product Data- Rustoleum Rock Solid Clear                                              ! Approved as noted    !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 1             !SW Product Data                                                                                      ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 1             !WC-1 Forbo Bulletin Board - Product Data                                                             ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 2             !WC-1 FORB Mushroom Medley 2208- Bulletin Board- Sample- L3/L4 Copy/Work Area                         ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 3             !WC-4/  WC-9 - PRODUCT DATA -Wolf Gordon                                                              ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 4             !WC-4 Ashlar/Haze Rampart/GOH31733339- Wolf Gordon - L2 North Corridors                               ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 5             !WC 2 - National WC - Wood Wall Cover- Product Data                                                   ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 6             !WC-2 Wood Walll Cover to match WD-7 White Oak - National Wallcover- L2                               ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 7             !WC-5 Carneige Product Data                                                                           ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 8             !WC-5 Ponte 5510W-159 Carneige-L2 Corridor                                                            ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 9             !WC-9 Panache cleanly Chic GOH 13515393 - Wolf Gordon -L2 Corridors                                   ! Approved             !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 9             !PT-3 SW 9150 Endless Sea/SW Promar 200 ES                                                            ! Approved as noted    !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 10            !PT-6 SW 6193 Privilege Green - SW Promar 200 ES                                                      ! Approved as noted    !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 11            !PT-8SW 9148 Smokey Azurite Sw Promar 200 ES                                                          ! Approved as noted    !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 12            !PT-9 SW 6545 Majestic Purple/SW Promar 200 ES                                                        ! Approved as noted    !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 13            !PT-10 SW 7005 Pure White SW Promar 200 Flat- Stair 1 ceilings                                        ! Approved as noted    !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 14            !PT-11 SW 7005 Pure White - Epoxy                                                                     ! Approved as noted    !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 1             !WC - Whirlwind 394001 - Product Data - Maharam (VWC-1, VWC-2, VWC-3)                                 ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 1             !Scuffmaster Solid Metal (Metallic) PT-4 thru PT-6- Product Data - Wolf Gordon                        ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 3             !P1 SW 7005 Pure White Sw Promar 200 Flat-ceilings                                                    ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 4             !P1 SW 7005 Pure White SW Promar 200 ES-walls                                                         ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 5             !P1 SW 7005 Pure Whjte SW Promar 200 SG-trim/doors/frames                                             ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 6             !P2/P6 SW 7068 Grizzle Gray/SW Promar 200 ES-walls                                                    ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 7             !P3 SW 6868 Real Red Sw Promar 200 ES-walls                                                           ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 8             !P4/P5 BM OC-68 Distant Gray/Sw Promar 200 ES-walls                                                   ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 30            !P-3 SW 7069 Iron Ore/PPG SH ES                                                                       ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 31            !P-4 SW 6257 Gilbraltar/PPG SH ES- Auditorium walls and reveals                                       ! Approved             !
+
+NL: 035 ! 20 ! 3 !Thaddeus Stevens School (035.20.3)                                 !1050 21st Street NW            !                          ! Washington                    !DC   ! 20007      ! 15            !SW 7504 Keystone Gray/ SW Pro Indust DTM SG- Stair 1 metal (stringer and railings, etc)              ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 2             !WC-1 Whirlwind 394001 Brushed Aluminum 112- Maharam                                                  ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 3             !WC-2 Whirlwind 394001 Cask 157 maharam                                                               ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 4             !WC 3 Whirlwind 394001 Triumph 160 Maharam                                                            ! Approved             !
+
+NL: 043 ! 20 ! 3 !FRB Stairway Refres 1 & 2 (043.20.3)                               !20th St NW                     !C & Constitution          ! Washington                    !DC   ! 20006      ! 1             !Sherwin Williams Product Data                                                                        ! Approved             !
+
+NL: 043 ! 20 ! 3 !FRB Stairway Refres 1 & 2 (043.20.3)                               !20th St NW                     !C & Constitution          ! Washington                    !DC   ! 20006      ! 3             !SW 7554 Steamed Milk/SW Pro Industrial ES (walls)                                                    ! Approved             !
+
+NL: 043 ! 20 ! 3 !FRB Stairway Refres 1 & 2 (043.20.3)                               !20th St NW                     !C & Constitution          ! Washington                    !DC   ! 20006      ! 4             !984 Stone Hearth SW Armorseal Floor Plex I Gloss- Stairwell landing                                  ! Approved             !
+
+NL: 043 ! 20 ! 3 !FRB Stairway Refres 1 & 2 (043.20.3)                               !20th St NW                     !C & Constitution          ! Washington                    !DC   ! 20006      ! 6             !984 Stone Hearth SW Pro Industrial DTM SG - door frames                                              ! Approved             !
+
+NL: 043 ! 20 ! 3 !FRB Stairway Refres 1 & 2 (043.20.3)                               !20th St NW                     !C & Constitution          ! Washington                    !DC   ! 20006      ! 7             !SW 6173 Cocoon SW Pro Industrial DTM SG - rails/handrails                                            ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 2             !SW 9166 Drift of Mist/MC Series 09 Eggshell - Unit walls                                             ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 3             !SW 9166 Drift of Mist McCormick Series 10 SG- kitchen and bathroom walls                             ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 4             !SW 7007 Ceiling Bright White/MC Series 08 Flat- ceilings                                             ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 5             !SW 7102 White Flour/ MC Series 10 SG - trim at units, bath,kitch,lobby, lease office                 ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 6             !SW 7064 Passive /MC Series 09 ES- walls corridor                                                     ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 7             !SW 7064 Passive /MC Series 10 SG - bathroom walls @ Penthouse & amenity                              ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 8             !SW 7068 Peppercorn/MC Series 10 SG - trim @ corridor, amenity bath & ground fr, PH bath & office     ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 9             !SW 7065 Argos/MC Series 09 ES- Amenity room ground floor walls                                       ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 10            !SW 7029 Agreeable Gray/MC Series 09 ES - walls at PH & Lease office/lobby                            ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 2             !PT-1 BM OC-17 White Dove/SW Promar Flat                                                              ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 3             !PT-1 BM OC-17 White Dove/SW Promar ES                                                                ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 4             !PT-1 BM OC-17 White Dove/Sw Promar SG                                                                ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 5             !PT-2 SW 6221 Moody Blue/Sw Promar 200 ES - acccent                                                   ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 6             !PT-3 SW 9009 Subdued Sienna/Sw Promar 200 ES - accent                                                ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 7             !PT-4 SM 11033 Solid Metal Scuffmaster/Wolf Gordon-- accent silver palette                            ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 8             !PT-5 SM 11123 Solid Metal Scuffmaster/Wolf Gordon/Accent Copper Palette                              ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 9             !PT-6 SM 11105 Solid Metal Scuffmaster/Wolf Gordon- Accent Gold Palette                               ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 15            !PT-7 BM AF-680 Wish/SW Promar 200 ES -general paint open offices                                     ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 10            !PT-8 SW 7039 Virtual Taupe/SW Epoxy Gloss - atrium trim upper floor                                  ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 11            !PT-9 SW 6991 Black Magic/SW Promar 200 Flat - Clock tower                                            ! Approved             !
+
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 12            !PT-10 BM OC-65 Chantilly Lace/SW Promar 200 Flat/Ceilings                                            ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 13            !EXC-1  Euclid Diamond Hard- Euclid Chem Co- Product Datasealed conc.slab/mech,elec,egress stairs     ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 14            !SC-1 Sealed concrete slab                                                                            ! Approved             !
+
+NL: 047 ! 20 ! 3 !Inaugural Stands 2021 (047.20.3)                                   !US Capitol Complex             !1600,1601&1350 Pennsyl Av ! Washington                    !DC   ! 20006      ! 1             !McCormick Paints- Product Data                                                                       ! Approved as noted    !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 32            !EXP-P1 SW 7650 Ellle Gray/PPG Dryfog  Flat- exposed ceiling Main Gym/aux gym                         ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 33            !EXP-P4 SW 7076 Cyberspace/PPG Dryfog Flat- Exposed ceiling- Dining                                   ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 34            !EP-1 SW 7005 Pure White/PPG Epoxy SG- Restrooms                                                      ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 35            !EP-8b SW 6458 Restful/PPG Epoxy SG- 3rd Floor Restroom                                               ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 36            !EP-8c SW 6810 Lupine/PPG Epoxy SG- 4th Flr Restrooms                                                 ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 37            !EP-8d SW 9022 Yellow Bird/PPG Epoxy SG- Restrooms 5th Floor                                          ! Approved as noted    !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 11            !SW 6250 Granite Peak/MC TA Series 10 SG                                                              ! Approved             !
+
+NL: 026 ! 20 ! 3 !1550 First Street Apts (026.20.3)                                  !1550 First Street SW           !                          ! Washington                    !DC   ! 20024      ! 12            !SW 6629 Jalapeno/MC TA Series 10 SG                                                                  ! Approved             !
+
+NL: 050 ! 20 ! 1 !ESA Sports- South Wall (050.20.1)                                  !1100 Oak Drive SE              !                          ! Washington                    !DC   ! 20032      ! 1             !BASF Masterprotect H177- Product Data                                                                ! Approved             !
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 16            !SW Product Data/EDS sheets                                                                           ! Approved             !
+
+NL: 049 ! 20 ! 1 !Calvert Health 4th FL Reno (049.20.1)                              !100 Hospital Road              !                          ! Prince Frederic               !MD   ! 20678      ! 1             !IFS1- A SW 6182 Ethereal White/MC Total Advantage Series 09 ES                                       ! Approved             !
+
+NL: 049 ! 20 ! 1 !Calvert Health 4th FL Reno (049.20.1)                              !100 Hospital Road              !                          ! Prince Frederic               !MD   ! 20678      ! 2             !IFS#-B SW 7044 Amazing Gray/MC Total Advantage Series 10 SG                                          ! Approved             !
+
+NL: 045 ! 20 ! 1 !TRowe Price OM 4.1 Train (045.20.1)                                !4425 Painters Mill Rd          !4903, Concourse & 1st Flr ! Owings Mill                   !MD   ! 21117      ! 1             !PPG Product Data                                                                                     ! Approved             !
+
+NL: 045 ! 20 ! 1 !TRowe Price OM 4.1 Train (045.20.1)                                !4425 Painters Mill Rd          !4903, Concourse & 1st Flr ! Owings Mill                   !MD   ! 21117      ! 2             !PPG Ceiling White PPG SH Flat                                                                        ! Approved as noted    !
+
+NL: 045 ! 20 ! 1 !TRowe Price OM 4.1 Train (045.20.1)                                !4425 Painters Mill Rd          !4903, Concourse & 1st Flr ! Owings Mill                   !MD   ! 21117      ! 3             !Caulk Match - PPG SH Interior Flat                                                                   ! Approved as noted    !
+
+NL: 045 ! 20 ! 1 !TRowe Price OM 4.1 Train (045.20.1)                                !4425 Painters Mill Rd          !4903, Concourse & 1st Flr ! Owings Mill                   !MD   ! 21117      ! 4             !PPG 1025-3 Whiskers PPG Pitt Tech DTM SG                                                             ! Approved as noted    !
+
+NL: 045 ! 20 ! 1 !TRowe Price OM 4.1 Train (045.20.1)                                !4425 Painters Mill Rd          !4903, Concourse & 1st Flr ! Owings Mill                   !MD   ! 21117      ! 5             !Custom Match Green PPG SH ES                                                                         ! Approved             !
+
+NL: 051 ! 20 ! 3 !Park Southern Renovation (051.20.3)                                !800 Southern Avenue SE         !                          ! Washington                    !DC   ! 20032      ! 1             !Sherwin Williams Product Data                                                                        ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 38            !EXP-2 SW 7069 Iron Ore/ PPG Dryfog Flat                                                              ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 39            !EXP-3 SW 7069 Iron Ore/PPG Dryfog Flat                                                               ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 1             !HPC-2 SW 7650Ellie Gray/Tnemec Series 1029 Enduratone                                                ! Approved             !
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 2             !HPC-3 SW 7650 Elle Gray /Tnemec Series 1029 Enduratone                                               ! Approved             !
+
+NL: 056 ! 20 ! 1 !Grimke School Reno-School (056.20.1)                               !912 U Street NW                !                          ! Washington                    !DC   ! 20001      ! 1             !McCormick Product Data (Inter/Exterior)                                                              ! Approved             !
+
+NL: 061 ! 20 ! 1 !PEPCO White Flint Substation (061.20.1)                            !11650 Nebel Street             !                          ! Rockville                     !MD   !            ! 1             !Carboline PD - Carbocoat Primer                                                                      ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 1             !Tnemec Product Data - HP Coatings (1075 Intermediate/750UVX Finish)                                  ! Approved as noted    !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 1             !Concrete Sealer - Euclid Diamon Hard Product Data- Euclid Chemical Co.                               ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 2             !PPG Product DAta                                                                                     ! Approved             !
+
+
+NL: 042 ! 20 ! 1 !Old City Hall Renovation (042.20.1)                                !1001 East Broad Street         !                          ! Richmond                      !VA   ! 23219      ! 1             !SW Product Data - Inter and Exter                                                                    ! Approved             !
+
+NL: 062 ! 20 ! 3 !HVAC Upgrade Anacostia Museum (062.20.3)                           !1901 Fort Place SE             !                          ! Washington                    !DC   ! 20013      ! 3             !PT-1 SW 7012 Creamy/SW Promar 200 Flat                                                               ! Approved             !
+
+NL: 062 ! 20 ! 3 !HVAC Upgrade Anacostia Museum (062.20.3)                           !1901 Fort Place SE             !                          ! Washington                    !DC   ! 20013      ! 4             !PT-2 SW 7012 Creamy/SW Pro Industrial DTM SG                                                         ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 1             !Roman Decorating - PD for WC primer/adhesive                                                         ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 1             !PPG Product Data                                                                                     ! Approved as noted    !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 2             !Tnemec Product Data- Structural STeel                                                                ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 2             !WC-1 Knoll Textiles - Bespoke Product Data                                                           ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 3             !PT-1 SW 6966 Blue Blood/PPG Pure Performance Eggshell                                                ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 4             !PT-1 SW 6966 Blue Blood/PPG Pro Cryl DTM SG                                                          ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 5             !PT-2 SW 6902 Decisive Yellow/PPG Pure Performance ES                                                 ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 6             !PT-2 SW 6902 Decisive Yellow/PPG Pro Cryl DTM SG                                                     ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 7             !PT-3 SW 6926 Lucky Green/PPG Pure Performance  ES                                                    ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 8             !PT-3 SW 6926 Lucky Green/PPG Pro Cryl DTM SG                                                         ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 9             !PT-4 SW 6885 Knockout Orange/PPG Pure PerformanceES                                                  ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 10            !PT-4 SW 6885 Knockout Orange/PPG Pro Cryl DTM SG                                                     ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 11            !PT-6 SW 6783 Amalfi/PPG Pure Performance  ES                                                         ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 12            !PT-7  SW 7003 Toque White/PPG Pure Performance  ES                                                   ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 13            !PT-8  SW 7075 Web Gray/PPG Pure Performance ES                                                       ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 14            !PT-9  SW 7048 Urban Bronze/PPG Pure Peformance ES                                                    ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 15            !PT-10  SW 7757 High Reflective White/PPG Pure Performance satin                                      ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 16            !PT-11 SW 7065 ARgos/PPG Pure Performance ES                                                          ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 3             !PNT-1 SW 6252 Ice Cube PPG SH Flat                                                                   ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 4             !PNT-2 SW 7667 Zircon PPG SH ES                                                                       ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 5             !PNT-4  SW 6255 Morning Fog PPG Pitt Tech DTM SG                                                      ! Approved             !
+
+NL: 063 ! 20 ! 3 !West Elementary School (063.20.3)                                  !1335 Farragut Street NW        !                          ! Washington                    !DC   ! 20011      ! 1             !Euclid Diamond Hard- Euclid Chemical Co - Product DAta                                               ! Approved as noted    !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 1             !P1B SW 6119 Antique White/Sw Promar 200 ES                                                           ! Approved             !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 2             !P2B SW 7539 Cork Wedge/Sw Promar 200 ES                                                              ! Approved             !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 3             !P3B SW 7005 Pure White/SW Promar 200 Flat                                                            ! Approved             !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 4             !P3B/ WD-2B- SW 7005 Pure White/SW Promar 200 SG                                                      ! Approved             !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 1             !P5- PPG Aspen Green  Pantone 17-0215   Exterior                                                      ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 8             !LEEDs- Lobby Redesign                                                                                ! Approved             !
+
+
+NL: 021 ! 20 ! 1 !George Mason High School (021.20.1)                                !7124 Leesburg Pike             !                          ! Falls Church                  !VA   ! 22043      ! 40            !Rosco Tough Prime Black - Primer /Sealer -Eggshell- Product Data - (Stage Flooring )                 ! Approved             !
+
+
+NL: 044 ! 20 ! 3 !Event DC Streetscape (044.20.3)                                    !801 Mount Vernon Place NW      !                          ! Washington                    !DC   ! 20001      ! 3             !SW 6252 Ice Cube SW Promar 200 SG                                                                    ! Approved             !
+
+NL: 029 ! 20 ! 3 !Amtrak Track 22 Rehab (029.20.3)                                   !50 Massachusetts Avenue NE     !                          ! Washington                    !DC   ! 20002      ! 1             !PPG Product Data- Stain & Transparent  Coatings                                                      ! Approved             !
+
+NL: 023 ! 20 ! 1 !250 M Street (023.20.1)                                            !250 M Street SE                !                          ! Washington                    !DC   ! 20003      ! 2             !Avery WC Graphic- product Data- (PWT to provide Level 5 finish)                                      ! Approved             !
+
+NL: 070 ! 20 ! 3 !St. Elizabeth Horse Stable Bar (070.20.3)                          !2700 MLK Jr Ave SE             !                          ! Washington                    !DC   ! 20032      ! 1             !PPG Product Data                                                                                     ! Approved             !
+
+NL: 028 ! 20 ! 3 !Acela 21 S&! Facility (Ivy Cit (028.20.3)                          !1401 W Street NE               !                          ! Washington                    !DC   ! 20018      ! 1             !PPG Product Data                                                                                     ! Approved             !
+
+NL: 038 ! 20 ! 1 !Milken Institute Phase 2 (038.20.1)                                !730 15th Street NW             !                          ! Washington                    !DC   ! 20005      ! 12            !Salt Box DE6141 SW Prmar 200 ES = ceilings- RFI 079                                                  ! Approved             !
+
+NL: 065 ! 20 ! 3 !NSF TO#182- Bldg 113 Reno (065.20.3)                               !14900 Park Central Road        !                          ! Thrumont                      !MD   ! 21788      ! 6             !Sherwin Williams Product Data- Interior/Exterior                                                     ! Approved             !
+
+NL: 057 ! 20 ! 3 !Lafayette Recreation Center (057.20.3)                             !5900 33rd Street NW            !                          ! Washington                    !DC   !            ! 1             !McCormick Product Data                                                                               ! Approved             !
+
+NL: 069 ! 20 ! 1 !Grimke School - Condos (069.20.1)                                  !912 U Street NW                !                          ! Washington                    !DC   ! 20001      ! 1             !McCormick Product data- Interior                                                                     ! Approved             !
+
+NL: 069 ! 20 ! 1 !Grimke School - Condos (069.20.1)                                  !912 U Street NW                !                          ! Washington                    !DC   ! 20001      ! 2             !McCormick Paints- Product Data Exterior                                                              ! Approved             !
+
+NL: 057 ! 20 ! 3 !Lafayette Recreation Center (057.20.3)                             !5900 33rd Street NW            !                          ! Washington                    !DC   !            ! 2             !MC 0015 White Glove - MC TA Series 09 ES- walls general                                              ! Approved as noted    !
+
+NL: 057 ! 20 ! 3 !Lafayette Recreation Center (057.20.3)                             !5900 33rd Street NW            !                          ! Washington                    !DC   !            ! 6             !Mc Cormick Quality Assurance/Test Reports                                                            ! Approved             !
+
+NL: 074 ! 20 ! 3 !AA DCA BHS (074.20.3)                                              !Ronald Reagan National Airport !                          ! Arlington                     !VA   !            ! 1             !Sikagard SN40 Sika Metro Sealants- Product Data- Water repellant sealer                              ! Approved             !
+
+NL: 057 ! 20 ! 3 !Lafayette Recreation Center (057.20.3)                             !5900 33rd Street NW            !                          ! Washington                    !DC   !            ! 7             !MC 0015 White Glove - MC TA Series 10 SG- drs, frs, Kitchen /.bath walls                             ! Approved             !

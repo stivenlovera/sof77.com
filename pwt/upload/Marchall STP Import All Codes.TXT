@@ -1,0 +1,20 @@
+
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,          1.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.120  ,   Walls - 2nd Coat Finish        ,          1.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            21.130  ,   Walls - 3rd Coat Finish        ,          1.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   BASE       , Base Job                               ,            22.125  ,   Exp Ceiling - 1st/2nd Dryfall  ,          1.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L2       , Task 2 Level 2                         ,            20.110  ,   Walls/DW Ceiling - Prime       ,         64.14
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L2       , Task 2 Level 2                         ,            21.120  ,   Walls - 2nd Coat Finish        ,         61.28
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L2       , Task 2 Level 2                         ,            21.130  ,   Walls - 3rd Coat Finish        ,         61.28
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L2       , Task 2 Level 2                         ,            22.120  ,   DW Ceiling - 2nd & 3rd Finish  ,          6.67
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L2       , Task 2 Level 2                         ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         14.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L5       , Task 2 Level 5                         ,            20.110  ,   Walls/DW Ceiling - Prime       ,         50.31
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L5       , Task 2 Level 5                         ,            21.120  ,   Walls - 2nd Coat Finish        ,         48.48
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L5       , Task 2 Level 5                         ,            21.130  ,   Walls - 3rd Coat Finish        ,         48.48
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L5       , Task 2 Level 5                         ,            22.120  ,   DW Ceiling - 2nd & 3rd Finish  ,          4.27
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T2L5       , Task 2 Level 5                         ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         13.00
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T4L4       , Task 4 Level 4                         ,            20.110  ,   Walls/DW Ceiling - Prime       ,         31.65
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T4L4       , Task 4 Level 4                         ,            21.120  ,   Walls - 2nd Coat Finish        ,         31.02
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T4L4       , Task 4 Level 4                         ,            21.130  ,   Walls - 3rd Coat Finish        ,         31.02
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T4L4       , Task 4 Level 4                         ,            22.120  ,   DW Ceiling - 2nd & 3rd Finish  ,          1.47
+NL:      086.20.3  ,  Thurgood Marshall Admin Office                     ,01, =    , 01, = ,   T4L4       , Task 4 Level 4                         ,            28.110  ,   Doors/Frames 1st/2nd Coat      ,         11.00

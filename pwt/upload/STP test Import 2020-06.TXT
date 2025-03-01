@@ -1,0 +1,7 @@
+
+NL:      273.12.1  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,              ,                                        ,             1.100  ,   Paint Interior(prime & finish) ,           .00
+NL:      273.12.1  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,              ,                                        ,            10.230  ,   Parking                        ,           .00
+NL:      274.12.1  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,              ,                                        ,            17.001  ,   Change Order #1                ,           .00
+NL:      240.12.4  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,   FL03       , Floor 03                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         46.40
+NL:      240.12.4  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,   FL03       , Floor 03                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         35.22
+NL:      240.12.4  ,  DOD Project 555-12th St                            ,01, =    , 01, = ,   FL03       , Floor 03                               ,            21.130  ,   Walls - 3rd Coat Finish        ,         61.64

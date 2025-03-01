@@ -1,0 +1,2 @@
+NL:      992.19.1  ,  George Mason High School                           ,04, =8    , 03, =9 ,   BS 01      , Basement                               ,            20.110  ,   Walls/DW Ceiling - Prime       ,         71.13
+NL:      992.19.1  ,  George Mason High School                           ,01, =8    , 02, =0 ,   BS 01      , Basement                               ,            21.120  ,   Walls - 2nd Coat Finish        ,         62.64
