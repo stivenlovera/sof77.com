@@ -166,7 +166,9 @@
 					$days  = abs($d1-$d0);
 					$daysa=$days/86400;// 86400 seconds in one day
 // and you might want to convert to integer
-					
+					//echo $daysa." daysa";
+					if ($daysa>0 and $daysa<1)
+						$daysa=1;
 					$days = intval($daysa);
 					
 									 
@@ -182,7 +184,7 @@
 					hora_actual($fechaact,$horaact);
 					$hora10 = date('H:i:s', strtotime ($Hora_Salida.' + 10 minutes'));
 					//echo "date:".$Date_Work."  ".$horaact." HS:".$Hora_Salida."  HS+10:".$hora10;
-					if ( (($Hora_Ingreso=="00:00:00") || ($Hora_Ingreso=="No Check In") || ($Hora_Ingreso=="") || ($Hora_Salida=="No Check Out")|| ($Hora_Salida=="00:00:00") || ($Hora_Salida=="") || ($horaact<$hora10) ) && ($days==1 || $days==2) )  	 
+					if ( (($Hora_Ingreso=="00:00:00") || ($Hora_Ingreso=="No Check In") || ($Hora_Ingreso=="") || ($Hora_Salida=="No Check Out")|| ($Hora_Salida=="00:00:00") || ($Hora_Salida=="") || ($horaact<$hora10) ) && ($days==1 || $days==2 ) )  	 
 					{
 				?>
 						<img src="images/icon_editar_1_png.png" onclick="foreman_registro_actividad_asistencia_reg(<?php echo $Empleado_ID; ?>,'<?php echo $Nombre_Empleado; ?>')" />

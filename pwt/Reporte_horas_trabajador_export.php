@@ -381,7 +381,7 @@ mail($to, $subject, $message, $header);
 	//	echo $sql."<br>";													
 		//echo "1st. part:".substr($sql,1,300)."<br>";													
 		//echo "2nd.part:".substr($sql,301,950)."<br>";													
-		echo "->!!!! <br>";													
+		echo "->!!!===========wwwwwwwwwwwwwww <br>";													
 		$result77=$bd->ejecutar($sql); 		
 		$RDA_ID=-1;
 		$Fila=1;
@@ -777,7 +777,7 @@ mail($to, $subject, $message, $header);
 				///////////
 				
 				
-				echo "///*/ "; // error 
+				echo "=*"; // error 
 				////////////////////////////
 								$sql2 = "SELECT p.empleado_id,sum(rda.Horas_Contract) as HorDia FROM `registro_diario_actividad` rda inner join registro_diario rd on rd.Reg_ID=rda.reg_id inner join actividades a on a.Actividad_ID=rd.Actividad_Id inner join personal p on p.empleado_id=rd.Empleado_ID where a.Pro_ID=".$ProIDx." and a.Fecha='".$Fechasql."' and p.empleado_Id=".$Empleado_ID;
 		//echo $sql2."<br>";

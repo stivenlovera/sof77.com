@@ -157,7 +157,7 @@ function encabezado(&$pdf,$f1,$f2, $Tipo,$Nombre,$Notes)
 				$pdf->Multicell(25,5,"Hours Est.",0,C,false);
 		$pdf->SetY($aux);
 		$pdf->SetX(115);
-		if ($Tipo<>"Stru")
+		//if ($Tipo<>"Stru")
 			$pdf->Multicell(25,5,"Hrs.Used",0,R,false);
 		$pdf->SetY($aux);
 		$pdf->SetX(140);
@@ -557,7 +557,7 @@ $sql = $sql . "  WHERE task.Pro_ID=".$Pro_ID_Reporte;
 			$res1=$bd->ejecutar($strSQL);
 	
 		$per100=100;
-		$strSQL = "UPDATE task SET Last_Per_Recorded=".$per100." WHERE task.Pro_ID=".$Pro_ID_Reporte." AND (Nombre like '%ticket work%');
+		$strSQL = "UPDATE task SET Last_Per_Recorded=".$per100." WHERE task.Pro_ID=".$Pro_ID_Reporte." AND (Nombre like '%ticket work%' or Last_Per_Recorded>100)";
 		// AND (Last_Per_Recorded>100 or Last_Per_Recorded<50)";
 		//echo $strSQL."<br>";
 		$res1=$bd->ejecutar($strSQL);
@@ -566,7 +566,7 @@ $sql = $sql . "  WHERE task.Pro_ID=".$Pro_ID_Reporte;
 		
 
 		
-		$strSQL="UPDATE task as t1 left join (SELECT t.nombre as tnombre,t.Task_ID as tid, sum(rd.Horas_Contract) as hused, t.Horas_Estimadas as hest FROM task t left join registro_diario_actividad rd on rd.Task_ID=t.task_id where t.Pro_ID=".$Pro_ID_Reporte." and t.nombre like '%allowance%') as h on h.tid=t1.Task_ID SET t1.Last_Per_Recorded=h.hused/h.hest*100 WHERE t1.Pro_ID=".$Pro_ID_Reporte." AND t1.Nombre like '%Allowance%'";		
+		$strSQL="UPDATE task as t1 left join (SELECT t.nombre as tnombre,t.Task_ID as tid, sum(rd.Horas_Contract) as hused, t.Horas_Estimadas as hest FROM task t left join registro_diario_actividad rd on rd.Task_ID=t.task_id where t.Pro_ID=".$Pro_ID_Reporte." and t.nombre like '%allowance%') as h on h.tid=t1.Task_ID SET t1.Last_Per_Recorded=if ((h.hused/h.hest*100)>100,100,(h.hused/h.hest*100)) WHERE t1.Pro_ID=".$Pro_ID_Reporte." AND t1.Nombre like '%Allowance%'";		
 		//echo $strSQL."<br>";
 		//exit();
 		$res1=$bd->ejecutar($strSQL);
@@ -922,7 +922,7 @@ $sql = $sql . "  WHERE task.Pro_ID=".$Pro_ID_Reporte;
 						
 						$pdf->SetY($aux);
 						$pdf->SetX(115);	
-						if ($Tipo<>"Stru")
+						//if ($Tipo<>"Stru")
 											$pdf->Multicell(25,5,number_format($Total_Used_Horas,2),0,R,false);
 						$pdf->SetY($aux);
 						$pdf->SetX(140);

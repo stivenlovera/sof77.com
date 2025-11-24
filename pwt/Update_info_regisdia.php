@@ -58,8 +58,75 @@
 //// end update actividad_personal from actividad personal aux1 after update by mistake
 
 
+/// delete from actividad_personal the duplicate records 
+$flag1=0;
+{
+if ($flag1=1)
+		$sql = "SELECT ap.Actividad_Personal_ID as Actividad_Personal_IDx ,a.Fecha,p.Nick_Name,ap.FechaRegistro,ap.Actividad_ID as Actividad_IDx,ap.Empleado_ID as Empleado_IDx,count(concat(ap.Actividad_ID,ap.Empleado_ID)) FROM actividad_personal ap join personal p on p.Empleado_ID=ap.Empleado_ID join actividades a on a.Actividad_ID=ap.Actividad_ID where a.Fecha>'2018-01-01' GROUP BY (concat(ap.Actividad_ID,ap.Empleado_ID)) HAVING COUNT(concat(ap.Actividad_ID,ap.Empleado_ID)) > 1";
+		//echo $sql."<br>";
+		//exit();
+		$result89=$bd->ejecutar($sql); 
+		$Actividad_Personal_ID=0;
+		$Empleado_ID="";
+		$Actividad_ID="";
+		while ($row89 = mysqli_fetch_array($result89) )
+		{
+			
+			$Actividad_Personal_ID=$row89["Actividad_Personal_IDx"];
+			$Actividad_ID=$row89["Actividad_IDx"];
+			$Empleado_ID=$row89["Empleado_IDx"];
+			$Contador=1;			
+						
+			$sql3 = "SELECT ap.Actividad_Personal_ID as Actividad_Personal_IDx ,a.Fecha,ap.FechaRegistro,ap.Actividad_ID as Actividad_IDx,ap.Empleado_ID as Empleado_IDx,ap.Note from actividad_personal ap join actividades a on a.Actividad_ID=ap.Actividad_ID where a.Fecha>'2018-01-01'  and ap.Actividad_ID=".$Actividad_ID." and ap.Empleado_ID=".$Empleado_ID;
+			//echo $sql3."<br>";
+			//exit();
+			$result2=$bd->ejecutar($sql3); 
+			$Actividad_Personal_ID=0;
+			$Empleado_ID="";
+			$Actividad_ID="";
+			while ($row2 = mysqli_fetch_array($result2) )
+				{
+				$Actividad_Personal_ID=$row2["Actividad_Personal_IDx"];
+				$Actividad_ID=$row2["Actividad_IDx"];
+				$Empleado_ID=$row2["Empleado_IDx"];
+				if ($Contador==1)	
+					{
+					$strSQL = "UPDATE actividad_personal SET Note='Correcto'"." WHERE Actividad_Personal_ID=".$Actividad_Personal_ID;
+					//echo $strSQL."<br>";
+					//exit();
+					$result90=$bd->ejecutar($strSQL);	
+					mysqli_free_result($result90);	
+					}
+				else
+					{
+					$strSQL = "UPDATE actividad_personal SET Note='NeedDelete'"." WHERE Actividad_Personal_ID=".$Actividad_Personal_ID;
+					//echo $strSQL."<br>";
+					//exit();
+					$result90=$bd->ejecutar($strSQL);	
+					mysqli_free_result($result90);	
+					}
+				$Contador++;
+				}
+				//exit();
+
+		}			
+		mysqli_free_result($result89);	
+		$strSQL = "DELETE FROM actividad_personal WHERE Note='NeedDelete'";
+		//echo $strSQL."<br>";
+		//exit();
+		$result90=$bd->ejecutar($strSQL);	
+		mysqli_free_result($result90);	
+		echo '<script>alert("update completed:")</script>';
+		exit();
+}
+////  end   delete from actividad_personal the duplicate records 
+
+
 
 ////  update horas on actividad_personal
+$flag2=0;
+if ($flag2=1)
+{
 
 		$sql = "SELECT rd.Fecha,rd.Reg_ID,rd.Actividad_ID as Actividad_IDx,rda.Reg_ID,rda.Task_ID,rd.Empleado_ID as Empleado_IDx,SUM(rda.Horas_Contract) AS Horas_Contracts, SUM(rda.Horas_TM) AS Horas_TMs FROM registro_diario_actividad rda INNER JOIN registro_diario rd on rd.Reg_ID=rda.Reg_ID WHERE rd.fecha>'2023-07-01' AND rda.Task_ID<>0 group by concat(rd.Actividad_ID,rd.Empleado_ID)";
 		
@@ -109,6 +176,7 @@
 		echo '<script>alert("update completed from 08/01/2020 at today")</script>';
 		
 	//	exit();
+}
 /// fin update horas on actividad_Personal 
 
 

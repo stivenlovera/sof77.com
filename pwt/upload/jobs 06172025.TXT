@@ -1,0 +1,59 @@
+
+
+NL:000 !25  ! 0  ! Warehouse Time 2025 (000.25.0)                                             !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:889 !25  ! 8  ! Wharf Parcel 9 T&M (001.25.2)                                              ! 625 Wharf St SW                                                            !                                         !Washington                             !DC   !20024         !  !   !
+
+NL:002 !25  ! 1  ! Medstar National Rehab (002.25.1)                                          ! 102 Irving St NW                                                           !                                         !Washington                             !DC   !20010         !  !   !
+
+NL:003 !25  ! 3  ! Smithsonian Castle-Historic Co (003.25.3)                                  ! 1000 Jefferson Dr SW                                                       !                                         !Washington                             !DC   !20560         !  !   !
+
+NL:004 !25  ! 1  ! The Heights Townhomes (004.25.1)                                           ! 440 54th ST. SE                                                            !                                         !Washington                             !DC   !20019         !  !   !
+
+NL:005 !25  ! 3  ! DOC Central Boiler Plant (005.25.3)                                        ! 1901 D Street SE                                                           !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:006 !25  ! 3  ! Suitland High School (006.25.3)                                            !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:007 !25  ! 5  ! Barry Farm 1A (007.25.5)                                                   !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:008 !25  ! 3  ! Fort Greble (008.25.3)                                                     ! Martin Luther King Jr Ave SW,                                              !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:009 !25  ! 3  ! WSSC Warehouse (009.25.3)                                                  ! 6000 Crain Highway                                                         !                                         !Upper Marlboro                         !MD   !20772         !  !   !
+
+NL:010 !25  ! 5  ! Henson Ridge (010.25.5)                                                    ! 1804 Alabama Avenue Southeast                                              !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:011 !25  ! 4  ! Miriams Kitchen (011.25.4)                                                 ! 2401 Virginia Ave NW                                                       !                                         !Washington                             !DC   !20037         !  !   !
+
+NL:012 !25  ! 3  ! Union Market (012.25.3)                                                    ! 301 Florida Avenue NE                                                      !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:013 !25  ! 3  ! COAT Gallery Place LL (013.25.3)                                           ! 601 F St NW                                                                !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:014 !25  ! 3  ! Leckie EC - MS (014.25.3)                                                  ! 4201 Martin Luther King Jr.                                                !Ave SW                                   !Washington                             !DC   !20032         !  !   !
+
+NL:015 !25  ! 1  ! Loudoun County Kitchen Reno (015.25.1)                                     ! 43496 Moorefield Blvd                                                      !                                         !Ashburn                                !VA   !21048         !  !   !
+
+NL:016 !25  ! 1  ! World Bank ITS Reno (016.25.1)                                             ! 1818 H Street NW                                                           !                                         !Washington                             !DC   !20002         !  !   !
+
+NL:017 !25  ! 2  ! Carefirst (017.25.2)                                                       !                                                                            !                                         !                                       !     !              !  !   !
+
+NL:018 !25  ! 3  ! COAT Lofts (018.25.3)                                                      ! 601 F St NW                                                                !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:019 !25  ! 3  ! COAT DP2 (019.25.3)                                                        ! 601 F St NW                                                                !                                         !Washington                             !DC   !20004         !  !   !
+
+NL:020 !25  ! 3  ! LHOB Electrical Switch Update (020.25.3)                                   ! 15 Independence Ave, SE                                                    !                                         !Washington                             !DC   !20003         !  !   !
+
+NL:021 !25  ! 1  ! Dulles Containers (021.25.1)                                               ! 10722 Hanna St #C                                                          !                                         !Beltsville                             !MD   !20705         !  !   !
+
+NL:022 !25  ! 2  ! CUA Modular Trailers (022.25.2)                                            ! : 3861 Divinity Way NE                                                     !                                         !Washington                             !DC   !20064         !  !   !
+
+NL:023 !25  ! 3  ! Malcolm X at Green Elementary (023.25.3)                                   ! 1500 Mississippi Ave SE                                                    !                                         !Washington                             !DC   !20032         !  !   !
+
+NL:024 !25  ! 3  ! GU Reiss Building 2nd Fl Class (024.25.3)                                  ! 37th & O Street, NW                                                        !                                         !Washington                             !DC   !20057         !  !   !
+
+NL:025 !25  ! 1  ! Terrance Manor Add Work (025.25.1)                                         ! 3301 23rd Street SE                                                        !                                         !Washington                             !DC   !20020         !  !   !
+
+NL:026 !25  ! 3  ! Barnard ES (026.25.3)                                                      ! 430 Decatur Street NW                                                      !                                         !Washington                             !DC   !20011         !  !   !
+
+NL:027 !25  ! 3  ! Yellow Springs ES Replacement (027.25.3)                                   ! 1000 Spring Run Drive                                                      !                                         !Frederick                              !MD   !21702         !  !   !
+
+NL:028 !25  ! 3  ! JO Wilson ES Modernization (028.25.3)                                      ! 660 K St NE                                                                !                                         !Washington                             !DC   !20002         !  !   !

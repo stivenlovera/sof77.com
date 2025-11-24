@@ -379,7 +379,7 @@
 			  	$sql = $sql . " ORDER BY NumEmp+0,EmpleadoIDx,ac.Fecha ";			
 		
 		//echo $sql."<brbr>";													
-		echo "====././.--/*."."<brbr>";
+		echo "====././.-::::/WWW-/*."."<brbr>";
 		//echo "===";
 		//echo "()";
 		//echo "1st. part:".substr($sql,0,300)."<br>";													

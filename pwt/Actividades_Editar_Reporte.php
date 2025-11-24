@@ -91,6 +91,9 @@
 	mysqli_free_result($result2);					
 
 ?> 
+<script type="text/javascript" src="include/datepickercontrol.js"></script>
+
+<link type="text/css" rel="stylesheet" href="css/datepickercontrol.css"/>
 
 <form id="Form_Proyectos_Actividades_Editar" name="Form_Proyectos_Actividades_Editar">
 
